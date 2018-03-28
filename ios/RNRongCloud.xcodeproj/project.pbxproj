@@ -8,11 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		3F4F2650F56112EBA84D3AED /* Pods_libRNRongCloud.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D4708F6FFBA85941CF4C4F7 /* Pods_libRNRongCloud.framework */; };
-		4D3CA33C206A94AF00A36B0D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA33B206A94AF00A36B0D /* AppDelegate.swift */; };
-		4D3CA33E206A94AF00A36B0D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA33D206A94AF00A36B0D /* ViewController.swift */; };
-		4D3CA341206A94AF00A36B0D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D3CA33F206A94AF00A36B0D /* Main.storyboard */; };
-		4D3CA343206A94AF00A36B0D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D3CA342206A94AF00A36B0D /* Assets.xcassets */; };
-		4D3CA346206A94AF00A36B0D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D3CA344206A94AF00A36B0D /* LaunchScreen.storyboard */; };
 		4D3CA35B206A957300A36B0D /* libRNRongCloud.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA35A206A957300A36B0D /* libRNRongCloud.m */; };
 		4D3CA35C206A957300A36B0D /* libRNRongCloud.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 4D3CA359206A957300A36B0D /* libRNRongCloud.h */; };
 		4D3CA3CF206AA79600A36B0D /* RongCloudManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA3CE206AA79600A36B0D /* RongCloudManager.swift */; };
@@ -75,14 +70,13 @@
 		1D4708F6FFBA85941CF4C4F7 /* Pods_libRNRongCloud.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_libRNRongCloud.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		26F3D10760A24F61C7277486 /* Pods-libRNRongCloud.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-libRNRongCloud.debug.xcconfig"; path = "../../../ehao/taojing/ios/Pods/Target Support Files/Pods-libRNRongCloud/Pods-libRNRongCloud.debug.xcconfig"; sourceTree = "<group>"; };
 		398B92895E960EC6BE8C2C03 /* Pods-libRNRongCloud.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-libRNRongCloud.release.xcconfig"; path = "../../../ehao/taojing/ios/Pods/Target Support Files/Pods-libRNRongCloud/Pods-libRNRongCloud.release.xcconfig"; sourceTree = "<group>"; };
-		4D3CA338206A94AF00A36B0D /* RNRongCloud.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RNRongCloud.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D3CA33B206A94AF00A36B0D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4D3CA33D206A94AF00A36B0D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		4D3CA340206A94AF00A36B0D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		4D3CA342206A94AF00A36B0D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4D3CA345206A94AF00A36B0D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4D3CA347206A94AF00A36B0D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4D3CA357206A957300A36B0D /* liblibRNRongCloud.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = liblibRNRongCloud.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		4D3CA357206A957300A36B0D /* libRNRongCloud.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libRNRongCloud.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D3CA359206A957300A36B0D /* libRNRongCloud.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = libRNRongCloud.h; sourceTree = "<group>"; };
 		4D3CA35A206A957300A36B0D /* libRNRongCloud.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = libRNRongCloud.m; sourceTree = "<group>"; };
 		4D3CA3CD206AA79500A36B0D /* libRNRongCloud-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "libRNRongCloud-Bridging-Header.h"; sourceTree = "<group>"; };
@@ -169,13 +163,6 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		4D3CA335206A94AF00A36B0D /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		4D3CA354206A957300A36B0D /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -210,8 +197,7 @@
 		4D3CA339206A94AF00A36B0D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4D3CA338206A94AF00A36B0D /* RNRongCloud.app */,
-				4D3CA357206A957300A36B0D /* liblibRNRongCloud.a */,
+				4D3CA357206A957300A36B0D /* libRNRongCloud.a */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -426,26 +412,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4D3CA337206A94AF00A36B0D /* RNRongCloud */ = {
+		4D3CA356206A957300A36B0D /* RNRongCloud */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4D3CA34A206A94AF00A36B0D /* Build configuration list for PBXNativeTarget "RNRongCloud" */;
-			buildPhases = (
-				4D3CA334206A94AF00A36B0D /* Sources */,
-				4D3CA335206A94AF00A36B0D /* Frameworks */,
-				4D3CA336206A94AF00A36B0D /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = RNRongCloud;
-			productName = RNRongCloud;
-			productReference = 4D3CA338206A94AF00A36B0D /* RNRongCloud.app */;
-			productType = "com.apple.product-type.application";
-		};
-		4D3CA356206A957300A36B0D /* libRNRongCloud */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 4D3CA35F206A957300A36B0D /* Build configuration list for PBXNativeTarget "libRNRongCloud" */;
+			buildConfigurationList = 4D3CA35F206A957300A36B0D /* Build configuration list for PBXNativeTarget "RNRongCloud" */;
 			buildPhases = (
 				1401B1546B71F36D7A074DF6 /* [CP] Check Pods Manifest.lock */,
 				4D3CA353206A957300A36B0D /* Sources */,
@@ -457,9 +426,9 @@
 			);
 			dependencies = (
 			);
-			name = libRNRongCloud;
+			name = RNRongCloud;
 			productName = libRNRongCloud;
-			productReference = 4D3CA357206A957300A36B0D /* liblibRNRongCloud.a */;
+			productReference = 4D3CA357206A957300A36B0D /* libRNRongCloud.a */;
 			productType = "com.apple.product-type.library.static";
 		};
 /* End PBXNativeTarget section */
@@ -472,10 +441,6 @@
 				LastUpgradeCheck = 0920;
 				ORGANIZATIONNAME = lotos;
 				TargetAttributes = {
-					4D3CA337206A94AF00A36B0D = {
-						CreatedOnToolsVersion = 9.2;
-						ProvisioningStyle = Automatic;
-					};
 					4D3CA356206A957300A36B0D = {
 						CreatedOnToolsVersion = 9.2;
 						LastSwiftMigration = 0920;
@@ -496,24 +461,10 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4D3CA337206A94AF00A36B0D /* RNRongCloud */,
-				4D3CA356206A957300A36B0D /* libRNRongCloud */,
+				4D3CA356206A957300A36B0D /* RNRongCloud */,
 			);
 		};
 /* End PBXProject section */
-
-/* Begin PBXResourcesBuildPhase section */
-		4D3CA336206A94AF00A36B0D /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				4D3CA346206A94AF00A36B0D /* LaunchScreen.storyboard in Resources */,
-				4D3CA343206A94AF00A36B0D /* Assets.xcassets in Resources */,
-				4D3CA341206A94AF00A36B0D /* Main.storyboard in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-/* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
 		00B20AEE6649C806E9D85981 /* [CP] Copy Pods Resources */ = {
@@ -563,15 +514,6 @@
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		4D3CA334206A94AF00A36B0D /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				4D3CA33E206A94AF00A36B0D /* ViewController.swift in Sources */,
-				4D3CA33C206A94AF00A36B0D /* AppDelegate.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		4D3CA353206A957300A36B0D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -750,36 +692,6 @@
 			};
 			name = Release;
 		};
-		4D3CA34B206A94AF00A36B0D /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = TT5SA69489;
-				INFOPLIST_FILE = RNRongCloud/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.lotos.RNRongCloud;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		4D3CA34C206A94AF00A36B0D /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = TT5SA69489;
-				INFOPLIST_FILE = RNRongCloud/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.lotos.RNRongCloud;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Release;
-		};
 		4D3CA35D206A957300A36B0D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 26F3D10760A24F61C7277486 /* Pods-libRNRongCloud.debug.xcconfig */;
@@ -827,16 +739,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4D3CA34A206A94AF00A36B0D /* Build configuration list for PBXNativeTarget "RNRongCloud" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				4D3CA34B206A94AF00A36B0D /* Debug */,
-				4D3CA34C206A94AF00A36B0D /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		4D3CA35F206A957300A36B0D /* Build configuration list for PBXNativeTarget "libRNRongCloud" */ = {
+		4D3CA35F206A957300A36B0D /* Build configuration list for PBXNativeTarget "RNRongCloud" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4D3CA35D206A957300A36B0D /* Debug */,
