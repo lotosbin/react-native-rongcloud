@@ -37,7 +37,7 @@ class RongCloudManager: NSObject {
         //        NotificationCenter.default.post(name: NSNotification.Name(rawValue: "openConversationList"), object: nil)
         //        [[NSNotificationCenter defaultCenter] postNotificationName:TO_NEW_FEATURES_NOTIFICATION object:nil];
         DispatchQueue.main.async(execute: {() -> Void in
-            let view = RCDMainTabBarViewController.init()
+            let view = MyRCDMainTabBarViewController.init()
             if let rootViewController = UIApplication.topViewController() {
                 //do sth with root view controller
                 rootViewController.navigationController?.pushViewController(view, animated: true)
@@ -49,7 +49,7 @@ class RongCloudManager: NSObject {
     @objc public func openPrivateConversation(_ targetUserId:String!,title:String,resolver resolve:  @escaping RCTPromiseResolveBlock, rejecter reject:  @escaping RCTPromiseRejectBlock)->Void{
         DispatchQueue.main.async(execute:{()->Void in
             //新建一个聊天会话View Controller对象,建议这样初始化
-            let chat = RCConversationViewController.init()
+            let chat = MyRCConversationViewController.init()
             
             //设置会话的类型，如单聊、讨论组、群聊、聊天室、客服、公众服务会话等
             chat.conversationType = RCConversationType.ConversationType_PRIVATE;
