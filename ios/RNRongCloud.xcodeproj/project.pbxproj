@@ -7,14 +7,72 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F4F2650F56112EBA84D3AED /* Pods_libRNRongCloud.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D4708F6FFBA85941CF4C4F7 /* Pods_libRNRongCloud.framework */; };
 		4D3CA33C206A94AF00A36B0D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA33B206A94AF00A36B0D /* AppDelegate.swift */; };
 		4D3CA33E206A94AF00A36B0D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA33D206A94AF00A36B0D /* ViewController.swift */; };
 		4D3CA341206A94AF00A36B0D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D3CA33F206A94AF00A36B0D /* Main.storyboard */; };
 		4D3CA343206A94AF00A36B0D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D3CA342206A94AF00A36B0D /* Assets.xcassets */; };
 		4D3CA346206A94AF00A36B0D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D3CA344206A94AF00A36B0D /* LaunchScreen.storyboard */; };
+		4D3CA35B206A957300A36B0D /* libRNRongCloud.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA35A206A957300A36B0D /* libRNRongCloud.m */; };
+		4D3CA35C206A957300A36B0D /* libRNRongCloud.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 4D3CA359206A957300A36B0D /* libRNRongCloud.h */; };
+		4D3CA3CF206AA79600A36B0D /* RongCloudManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA3CE206AA79600A36B0D /* RongCloudManager.swift */; };
+		4D3CA3D1206AA84800A36B0D /* RongCloudManagerBridge.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA3D0206AA84800A36B0D /* RongCloudManagerBridge.m */; };
+		4D3CA437206B6D6900A36B0D /* RCDMainTabBarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA436206B6D6900A36B0D /* RCDMainTabBarViewController.m */; };
+		4D3CA43B206B6E1700A36B0D /* RCDChatListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA43A206B6E1700A36B0D /* RCDChatListViewController.m */; };
+		4D3CA43F206B6EF700A36B0D /* AFHttpTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA43E206B6EF700A36B0D /* AFHttpTool.m */; };
+		4D3CA461206B707E00A36B0D /* RCDSettingUserDefaults.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA460206B707E00A36B0D /* RCDSettingUserDefaults.m */; };
+		4D3CA465206B70F500A36B0D /* KxMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA464206B70F500A36B0D /* KxMenu.m */; };
+		4D3CA46A206B713800A36B0D /* UIColor+RCColor.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA466206B713700A36B0D /* UIColor+RCColor.m */; };
+		4D3CA46B206B713800A36B0D /* UIImage+RCImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA467206B713700A36B0D /* UIImage+RCImage.m */; };
+		4D3CA47D206B71BD00A36B0D /* RCDSearchBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA475206B71BC00A36B0D /* RCDSearchBar.m */; };
+		4D3CA47E206B71BD00A36B0D /* RCDSearchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA476206B71BD00A36B0D /* RCDSearchViewController.m */; };
+		4D3CA47F206B71BD00A36B0D /* RCDSearchMoreController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA477206B71BD00A36B0D /* RCDSearchMoreController.m */; };
+		4D3CA480206B71BD00A36B0D /* RCDSearchResultViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA478206B71BD00A36B0D /* RCDSearchResultViewCell.m */; };
+		4D3CA481206B71BD00A36B0D /* RCDSearchMoreViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA479206B71BD00A36B0D /* RCDSearchMoreViewCell.m */; };
+		4D3CA482206B71BD00A36B0D /* RCDSearchHistoryMessageController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA47A206B71BD00A36B0D /* RCDSearchHistoryMessageController.m */; };
+		4D3CA483206B71BD00A36B0D /* RCDSearchResultModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA47B206B71BD00A36B0D /* RCDSearchResultModel.m */; };
+		4D3CA484206B71BD00A36B0D /* RCDSearchDataManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA47C206B71BD00A36B0D /* RCDSearchDataManager.m */; };
+		4D3CA487206B71E900A36B0D /* RCDLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA486206B71E900A36B0D /* RCDLabel.m */; };
+		4D3CA48B206B722900A36B0D /* RCDChatListCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA489206B722900A36B0D /* RCDChatListCell.m */; };
+		4D3CA48E206B725B00A36B0D /* RCDChatViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA48D206B725A00A36B0D /* RCDChatViewController.m */; };
+		4D3CA493206B72AE00A36B0D /* RCDHttpTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA490206B72AD00A36B0D /* RCDHttpTool.m */; };
+		4D3CA494206B72AE00A36B0D /* RCDataBaseManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA492206B72AD00A36B0D /* RCDataBaseManager.m */; };
+		4D3CA49A206B72F800A36B0D /* RCDGroupInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA497206B72F800A36B0D /* RCDGroupInfo.m */; };
+		4D3CA49B206B72F800A36B0D /* RCDUserInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA499206B72F800A36B0D /* RCDUserInfo.m */; };
+		4D3CA49E206B733C00A36B0D /* RCDRCIMDataSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA49D206B733C00A36B0D /* RCDRCIMDataSource.m */; };
+		4D3CA4A1206B73A700A36B0D /* RCDUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA49F206B73A700A36B0D /* RCDUtilities.m */; };
+		4D3CA4A4206B73D800A36B0D /* DefaultPortraitView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA4A3206B73D800A36B0D /* DefaultPortraitView.m */; };
+		4D3CA4A7206B744C00A36B0D /* pinyin.c in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA4A5206B744B00A36B0D /* pinyin.c */; };
+		4D3CA4C9206B760500A36B0D /* RCDUIBarButtonItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA4C8206B760400A36B0D /* RCDUIBarButtonItem.m */; };
+		4D3CA4CD206B775900A36B0D /* RCDCustomerEmoticonTab.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA4CC206B775900A36B0D /* RCDCustomerEmoticonTab.m */; };
+		4D3CA4D0206B783D00A36B0D /* RCDUserInfoManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA4CF206B783D00A36B0D /* RCDUserInfoManager.m */; };
+		4D3CA4EF206B7E2300A36B0D /* SortForTime.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA4EE206B7E2300A36B0D /* SortForTime.m */; };
+		4D3CA4FC206B7ED800A36B0D /* FMDatabasePool.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA4F2206B7ED600A36B0D /* FMDatabasePool.m */; };
+		4D3CA4FD206B7ED800A36B0D /* FMDatabaseAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA4F3206B7ED600A36B0D /* FMDatabaseAdditions.m */; };
+		4D3CA4FE206B7ED800A36B0D /* FMDatabaseQueue.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA4F4206B7ED600A36B0D /* FMDatabaseQueue.m */; };
+		4D3CA4FF206B7ED800A36B0D /* FMResultSet.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA4F5206B7ED700A36B0D /* FMResultSet.m */; };
+		4D3CA500206B7ED800A36B0D /* FMDatabase.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA4F6206B7ED700A36B0D /* FMDatabase.m */; };
+		4D3CA503206B7F1400A36B0D /* UITabBar+badge.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA502206B7F1300A36B0D /* UITabBar+badge.m */; };
+		4D3CA506206B81B000A36B0D /* RCDTabBarBtn.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA504206B81B000A36B0D /* RCDTabBarBtn.m */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXCopyFilesBuildPhase section */
+		4D3CA355206A957300A36B0D /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "include/$(PRODUCT_NAME)";
+			dstSubfolderSpec = 16;
+			files = (
+				4D3CA35C206A957300A36B0D /* libRNRongCloud.h in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
+		1D4708F6FFBA85941CF4C4F7 /* Pods_libRNRongCloud.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_libRNRongCloud.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		26F3D10760A24F61C7277486 /* Pods-libRNRongCloud.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-libRNRongCloud.debug.xcconfig"; path = "../../../ehao/taojing/ios/Pods/Target Support Files/Pods-libRNRongCloud/Pods-libRNRongCloud.debug.xcconfig"; sourceTree = "<group>"; };
+		398B92895E960EC6BE8C2C03 /* Pods-libRNRongCloud.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-libRNRongCloud.release.xcconfig"; path = "../../../ehao/taojing/ios/Pods/Target Support Files/Pods-libRNRongCloud/Pods-libRNRongCloud.release.xcconfig"; sourceTree = "<group>"; };
 		4D3CA338206A94AF00A36B0D /* RNRongCloud.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RNRongCloud.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D3CA33B206A94AF00A36B0D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4D3CA33D206A94AF00A36B0D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +80,88 @@
 		4D3CA342206A94AF00A36B0D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4D3CA345206A94AF00A36B0D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4D3CA347206A94AF00A36B0D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4D3CA357206A957300A36B0D /* liblibRNRongCloud.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = liblibRNRongCloud.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		4D3CA359206A957300A36B0D /* libRNRongCloud.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = libRNRongCloud.h; sourceTree = "<group>"; };
+		4D3CA35A206A957300A36B0D /* libRNRongCloud.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = libRNRongCloud.m; sourceTree = "<group>"; };
+		4D3CA3CD206AA79500A36B0D /* libRNRongCloud-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "libRNRongCloud-Bridging-Header.h"; sourceTree = "<group>"; };
+		4D3CA3CE206AA79600A36B0D /* RongCloudManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RongCloudManager.swift; sourceTree = "<group>"; };
+		4D3CA3D0206AA84800A36B0D /* RongCloudManagerBridge.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RongCloudManagerBridge.m; sourceTree = "<group>"; };
+		4D3CA436206B6D6900A36B0D /* RCDMainTabBarViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCDMainTabBarViewController.m; sourceTree = "<group>"; };
+		4D3CA438206B6D8600A36B0D /* RCDMainTabBarViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCDMainTabBarViewController.h; sourceTree = "<group>"; };
+		4D3CA439206B6E0C00A36B0D /* RCDChatListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCDChatListViewController.h; sourceTree = "<group>"; };
+		4D3CA43A206B6E1700A36B0D /* RCDChatListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCDChatListViewController.m; sourceTree = "<group>"; };
+		4D3CA43D206B6EEE00A36B0D /* AFHttpTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFHttpTool.h; sourceTree = "<group>"; };
+		4D3CA43E206B6EF700A36B0D /* AFHttpTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFHttpTool.m; sourceTree = "<group>"; };
+		4D3CA45D206B701900A36B0D /* RCDCommonDefine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCDCommonDefine.h; sourceTree = "<group>"; };
+		4D3CA45F206B706A00A36B0D /* RCDSettingUserDefaults.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCDSettingUserDefaults.h; sourceTree = "<group>"; };
+		4D3CA460206B707E00A36B0D /* RCDSettingUserDefaults.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCDSettingUserDefaults.m; sourceTree = "<group>"; };
+		4D3CA463206B70F500A36B0D /* KxMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KxMenu.h; sourceTree = "<group>"; };
+		4D3CA464206B70F500A36B0D /* KxMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KxMenu.m; sourceTree = "<group>"; };
+		4D3CA466206B713700A36B0D /* UIColor+RCColor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+RCColor.m"; sourceTree = "<group>"; };
+		4D3CA467206B713700A36B0D /* UIImage+RCImage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+RCImage.m"; sourceTree = "<group>"; };
+		4D3CA468206B713700A36B0D /* UIImage+RCImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+RCImage.h"; sourceTree = "<group>"; };
+		4D3CA469206B713700A36B0D /* UIColor+RCColor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+RCColor.h"; sourceTree = "<group>"; };
+		4D3CA46D206B71AE00A36B0D /* RCDSearchDataManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCDSearchDataManager.h; sourceTree = "<group>"; };
+		4D3CA46E206B71AE00A36B0D /* RCDSearchBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCDSearchBar.h; sourceTree = "<group>"; };
+		4D3CA46F206B71AF00A36B0D /* RCDSearchMoreController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCDSearchMoreController.h; sourceTree = "<group>"; };
+		4D3CA470206B71AF00A36B0D /* RCDSearchHistoryMessageController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCDSearchHistoryMessageController.h; sourceTree = "<group>"; };
+		4D3CA471206B71AF00A36B0D /* RCDSearchViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCDSearchViewController.h; sourceTree = "<group>"; };
+		4D3CA472206B71AF00A36B0D /* RCDSearchMoreViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCDSearchMoreViewCell.h; sourceTree = "<group>"; };
+		4D3CA473206B71AF00A36B0D /* RCDSearchResultModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCDSearchResultModel.h; sourceTree = "<group>"; };
+		4D3CA474206B71AF00A36B0D /* RCDSearchResultViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCDSearchResultViewCell.h; sourceTree = "<group>"; };
+		4D3CA475206B71BC00A36B0D /* RCDSearchBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCDSearchBar.m; sourceTree = "<group>"; };
+		4D3CA476206B71BD00A36B0D /* RCDSearchViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCDSearchViewController.m; sourceTree = "<group>"; };
+		4D3CA477206B71BD00A36B0D /* RCDSearchMoreController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCDSearchMoreController.m; sourceTree = "<group>"; };
+		4D3CA478206B71BD00A36B0D /* RCDSearchResultViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCDSearchResultViewCell.m; sourceTree = "<group>"; };
+		4D3CA479206B71BD00A36B0D /* RCDSearchMoreViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCDSearchMoreViewCell.m; sourceTree = "<group>"; };
+		4D3CA47A206B71BD00A36B0D /* RCDSearchHistoryMessageController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCDSearchHistoryMessageController.m; sourceTree = "<group>"; };
+		4D3CA47B206B71BD00A36B0D /* RCDSearchResultModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCDSearchResultModel.m; sourceTree = "<group>"; };
+		4D3CA47C206B71BD00A36B0D /* RCDSearchDataManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCDSearchDataManager.m; sourceTree = "<group>"; };
+		4D3CA485206B71DF00A36B0D /* RCDLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCDLabel.h; sourceTree = "<group>"; };
+		4D3CA486206B71E900A36B0D /* RCDLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCDLabel.m; sourceTree = "<group>"; };
+		4D3CA489206B722900A36B0D /* RCDChatListCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCDChatListCell.m; sourceTree = "<group>"; };
+		4D3CA48A206B722900A36B0D /* RCDChatListCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCDChatListCell.h; sourceTree = "<group>"; };
+		4D3CA48C206B725A00A36B0D /* RCDChatViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCDChatViewController.h; sourceTree = "<group>"; };
+		4D3CA48D206B725A00A36B0D /* RCDChatViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCDChatViewController.m; sourceTree = "<group>"; };
+		4D3CA48F206B72AD00A36B0D /* RCDataBaseManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCDataBaseManager.h; sourceTree = "<group>"; };
+		4D3CA490206B72AD00A36B0D /* RCDHttpTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCDHttpTool.m; sourceTree = "<group>"; };
+		4D3CA491206B72AD00A36B0D /* RCDHttpTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCDHttpTool.h; sourceTree = "<group>"; };
+		4D3CA492206B72AD00A36B0D /* RCDataBaseManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCDataBaseManager.m; sourceTree = "<group>"; };
+		4D3CA496206B72F700A36B0D /* RCDGroupInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCDGroupInfo.h; sourceTree = "<group>"; };
+		4D3CA497206B72F800A36B0D /* RCDGroupInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCDGroupInfo.m; sourceTree = "<group>"; };
+		4D3CA498206B72F800A36B0D /* RCDUserInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCDUserInfo.h; sourceTree = "<group>"; };
+		4D3CA499206B72F800A36B0D /* RCDUserInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCDUserInfo.m; sourceTree = "<group>"; };
+		4D3CA49C206B733C00A36B0D /* RCDRCIMDataSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCDRCIMDataSource.h; sourceTree = "<group>"; };
+		4D3CA49D206B733C00A36B0D /* RCDRCIMDataSource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCDRCIMDataSource.m; sourceTree = "<group>"; };
+		4D3CA49F206B73A700A36B0D /* RCDUtilities.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCDUtilities.m; sourceTree = "<group>"; };
+		4D3CA4A0206B73A700A36B0D /* RCDUtilities.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCDUtilities.h; sourceTree = "<group>"; };
+		4D3CA4A2206B73D800A36B0D /* DefaultPortraitView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DefaultPortraitView.h; sourceTree = "<group>"; };
+		4D3CA4A3206B73D800A36B0D /* DefaultPortraitView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DefaultPortraitView.m; sourceTree = "<group>"; };
+		4D3CA4A5206B744B00A36B0D /* pinyin.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = pinyin.c; sourceTree = "<group>"; };
+		4D3CA4A6206B744B00A36B0D /* pinyin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = pinyin.h; sourceTree = "<group>"; };
+		4D3CA4C7206B760400A36B0D /* RCDUIBarButtonItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCDUIBarButtonItem.h; sourceTree = "<group>"; };
+		4D3CA4C8206B760400A36B0D /* RCDUIBarButtonItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCDUIBarButtonItem.m; sourceTree = "<group>"; };
+		4D3CA4CB206B775900A36B0D /* RCDCustomerEmoticonTab.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCDCustomerEmoticonTab.h; sourceTree = "<group>"; };
+		4D3CA4CC206B775900A36B0D /* RCDCustomerEmoticonTab.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCDCustomerEmoticonTab.m; sourceTree = "<group>"; };
+		4D3CA4CE206B783D00A36B0D /* RCDUserInfoManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCDUserInfoManager.h; sourceTree = "<group>"; };
+		4D3CA4CF206B783D00A36B0D /* RCDUserInfoManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCDUserInfoManager.m; sourceTree = "<group>"; };
+		4D3CA4ED206B7E2300A36B0D /* SortForTime.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SortForTime.h; sourceTree = "<group>"; };
+		4D3CA4EE206B7E2300A36B0D /* SortForTime.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SortForTime.m; sourceTree = "<group>"; };
+		4D3CA4F1206B7ED600A36B0D /* FMDatabaseAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMDatabaseAdditions.h; sourceTree = "<group>"; };
+		4D3CA4F2206B7ED600A36B0D /* FMDatabasePool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FMDatabasePool.m; sourceTree = "<group>"; };
+		4D3CA4F3206B7ED600A36B0D /* FMDatabaseAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FMDatabaseAdditions.m; sourceTree = "<group>"; };
+		4D3CA4F4206B7ED600A36B0D /* FMDatabaseQueue.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FMDatabaseQueue.m; sourceTree = "<group>"; };
+		4D3CA4F5206B7ED700A36B0D /* FMResultSet.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FMResultSet.m; sourceTree = "<group>"; };
+		4D3CA4F6206B7ED700A36B0D /* FMDatabase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FMDatabase.m; sourceTree = "<group>"; };
+		4D3CA4F7206B7ED700A36B0D /* FMDatabasePool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMDatabasePool.h; sourceTree = "<group>"; };
+		4D3CA4F8206B7ED700A36B0D /* FMDatabaseQueue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMDatabaseQueue.h; sourceTree = "<group>"; };
+		4D3CA4F9206B7ED700A36B0D /* FMDB.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMDB.h; sourceTree = "<group>"; };
+		4D3CA4FA206B7ED700A36B0D /* FMDatabase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMDatabase.h; sourceTree = "<group>"; };
+		4D3CA4FB206B7ED700A36B0D /* FMResultSet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMResultSet.h; sourceTree = "<group>"; };
+		4D3CA501206B7F1300A36B0D /* UITabBar+badge.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UITabBar+badge.h"; sourceTree = "<group>"; };
+		4D3CA502206B7F1300A36B0D /* UITabBar+badge.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UITabBar+badge.m"; sourceTree = "<group>"; };
+		4D3CA504206B81B000A36B0D /* RCDTabBarBtn.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCDTabBarBtn.m; sourceTree = "<group>"; };
+		4D3CA505206B81B000A36B0D /* RCDTabBarBtn.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCDTabBarBtn.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,14 +172,34 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		4D3CA354206A957300A36B0D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3F4F2650F56112EBA84D3AED /* Pods_libRNRongCloud.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		22EAE03BC7381DBB107371FE /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1D4708F6FFBA85941CF4C4F7 /* Pods_libRNRongCloud.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		4D3CA32F206A94AF00A36B0D = {
 			isa = PBXGroup;
 			children = (
+				4D3CA434206B6CDF00A36B0D /* RCloudMessage */,
 				4D3CA33A206A94AF00A36B0D /* RNRongCloud */,
+				4D3CA358206A957300A36B0D /* libRNRongCloud */,
 				4D3CA339206A94AF00A36B0D /* Products */,
+				BC2A9F2BDB80862C1C27A14D /* Pods */,
+				22EAE03BC7381DBB107371FE /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -47,6 +207,7 @@
 			isa = PBXGroup;
 			children = (
 				4D3CA338206A94AF00A36B0D /* RNRongCloud.app */,
+				4D3CA357206A957300A36B0D /* liblibRNRongCloud.a */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -60,8 +221,192 @@
 				4D3CA342206A94AF00A36B0D /* Assets.xcassets */,
 				4D3CA344206A94AF00A36B0D /* LaunchScreen.storyboard */,
 				4D3CA347206A94AF00A36B0D /* Info.plist */,
+				4D3CA3CE206AA79600A36B0D /* RongCloudManager.swift */,
+				4D3CA3CD206AA79500A36B0D /* libRNRongCloud-Bridging-Header.h */,
+				4D3CA3D0206AA84800A36B0D /* RongCloudManagerBridge.m */,
 			);
 			path = RNRongCloud;
+			sourceTree = "<group>";
+		};
+		4D3CA358206A957300A36B0D /* libRNRongCloud */ = {
+			isa = PBXGroup;
+			children = (
+				4D3CA359206A957300A36B0D /* libRNRongCloud.h */,
+				4D3CA35A206A957300A36B0D /* libRNRongCloud.m */,
+			);
+			path = libRNRongCloud;
+			sourceTree = "<group>";
+		};
+		4D3CA434206B6CDF00A36B0D /* RCloudMessage */ = {
+			isa = PBXGroup;
+			children = (
+				4D3CA495206B72DA00A36B0D /* Models */,
+				4D3CA45C206B700100A36B0D /* Utilities */,
+				4D3CA43C206B6EE200A36B0D /* Store */,
+				4D3CA435206B6D3600A36B0D /* ViewControllers */,
+			);
+			name = RCloudMessage;
+			sourceTree = "<group>";
+		};
+		4D3CA435206B6D3600A36B0D /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				4D3CA4CA206B774700A36B0D /* EmoticonExtension */,
+				4D3CA49C206B733C00A36B0D /* RCDRCIMDataSource.h */,
+				4D3CA49D206B733C00A36B0D /* RCDRCIMDataSource.m */,
+				4D3CA488206B720D00A36B0D /* ChatList */,
+				4D3CA46C206B719700A36B0D /* SearchView */,
+				4D3CA45E206B705F00A36B0D /* Login */,
+				4D3CA439206B6E0C00A36B0D /* RCDChatListViewController.h */,
+				4D3CA48C206B725A00A36B0D /* RCDChatViewController.h */,
+				4D3CA48D206B725A00A36B0D /* RCDChatViewController.m */,
+				4D3CA43A206B6E1700A36B0D /* RCDChatListViewController.m */,
+				4D3CA438206B6D8600A36B0D /* RCDMainTabBarViewController.h */,
+				4D3CA436206B6D6900A36B0D /* RCDMainTabBarViewController.m */,
+			);
+			name = ViewControllers;
+			sourceTree = "<group>";
+		};
+		4D3CA43C206B6EE200A36B0D /* Store */ = {
+			isa = PBXGroup;
+			children = (
+				4D3CA48F206B72AD00A36B0D /* RCDataBaseManager.h */,
+				4D3CA492206B72AD00A36B0D /* RCDataBaseManager.m */,
+				4D3CA491206B72AD00A36B0D /* RCDHttpTool.h */,
+				4D3CA490206B72AD00A36B0D /* RCDHttpTool.m */,
+				4D3CA43D206B6EEE00A36B0D /* AFHttpTool.h */,
+				4D3CA43E206B6EF700A36B0D /* AFHttpTool.m */,
+			);
+			name = Store;
+			sourceTree = "<group>";
+		};
+		4D3CA45C206B700100A36B0D /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				4D3CA505206B81B000A36B0D /* RCDTabBarBtn.h */,
+				4D3CA504206B81B000A36B0D /* RCDTabBarBtn.m */,
+				4D3CA501206B7F1300A36B0D /* UITabBar+badge.h */,
+				4D3CA502206B7F1300A36B0D /* UITabBar+badge.m */,
+				4D3CA4F0206B7EC700A36B0D /* DB */,
+				4D3CA4ED206B7E2300A36B0D /* SortForTime.h */,
+				4D3CA4EE206B7E2300A36B0D /* SortForTime.m */,
+				4D3CA4CE206B783D00A36B0D /* RCDUserInfoManager.h */,
+				4D3CA4CF206B783D00A36B0D /* RCDUserInfoManager.m */,
+				4D3CA469206B713700A36B0D /* UIColor+RCColor.h */,
+				4D3CA466206B713700A36B0D /* UIColor+RCColor.m */,
+				4D3CA468206B713700A36B0D /* UIImage+RCImage.h */,
+				4D3CA467206B713700A36B0D /* UIImage+RCImage.m */,
+				4D3CA4A0206B73A700A36B0D /* RCDUtilities.h */,
+				4D3CA49F206B73A700A36B0D /* RCDUtilities.m */,
+				4D3CA4A2206B73D800A36B0D /* DefaultPortraitView.h */,
+				4D3CA4A3206B73D800A36B0D /* DefaultPortraitView.m */,
+				4D3CA4A5206B744B00A36B0D /* pinyin.c */,
+				4D3CA4A6206B744B00A36B0D /* pinyin.h */,
+				4D3CA4C7206B760400A36B0D /* RCDUIBarButtonItem.h */,
+				4D3CA4C8206B760400A36B0D /* RCDUIBarButtonItem.m */,
+				4D3CA462206B70E200A36B0D /* KxMenu */,
+				4D3CA45D206B701900A36B0D /* RCDCommonDefine.h */,
+			);
+			name = Utilities;
+			sourceTree = "<group>";
+		};
+		4D3CA45E206B705F00A36B0D /* Login */ = {
+			isa = PBXGroup;
+			children = (
+				4D3CA460206B707E00A36B0D /* RCDSettingUserDefaults.m */,
+				4D3CA45F206B706A00A36B0D /* RCDSettingUserDefaults.h */,
+			);
+			name = Login;
+			sourceTree = "<group>";
+		};
+		4D3CA462206B70E200A36B0D /* KxMenu */ = {
+			isa = PBXGroup;
+			children = (
+				4D3CA463206B70F500A36B0D /* KxMenu.h */,
+				4D3CA464206B70F500A36B0D /* KxMenu.m */,
+			);
+			name = KxMenu;
+			sourceTree = "<group>";
+		};
+		4D3CA46C206B719700A36B0D /* SearchView */ = {
+			isa = PBXGroup;
+			children = (
+				4D3CA486206B71E900A36B0D /* RCDLabel.m */,
+				4D3CA485206B71DF00A36B0D /* RCDLabel.h */,
+				4D3CA475206B71BC00A36B0D /* RCDSearchBar.m */,
+				4D3CA47C206B71BD00A36B0D /* RCDSearchDataManager.m */,
+				4D3CA47A206B71BD00A36B0D /* RCDSearchHistoryMessageController.m */,
+				4D3CA477206B71BD00A36B0D /* RCDSearchMoreController.m */,
+				4D3CA479206B71BD00A36B0D /* RCDSearchMoreViewCell.m */,
+				4D3CA47B206B71BD00A36B0D /* RCDSearchResultModel.m */,
+				4D3CA478206B71BD00A36B0D /* RCDSearchResultViewCell.m */,
+				4D3CA476206B71BD00A36B0D /* RCDSearchViewController.m */,
+				4D3CA46E206B71AE00A36B0D /* RCDSearchBar.h */,
+				4D3CA46D206B71AE00A36B0D /* RCDSearchDataManager.h */,
+				4D3CA470206B71AF00A36B0D /* RCDSearchHistoryMessageController.h */,
+				4D3CA46F206B71AF00A36B0D /* RCDSearchMoreController.h */,
+				4D3CA472206B71AF00A36B0D /* RCDSearchMoreViewCell.h */,
+				4D3CA473206B71AF00A36B0D /* RCDSearchResultModel.h */,
+				4D3CA474206B71AF00A36B0D /* RCDSearchResultViewCell.h */,
+				4D3CA471206B71AF00A36B0D /* RCDSearchViewController.h */,
+			);
+			name = SearchView;
+			sourceTree = "<group>";
+		};
+		4D3CA488206B720D00A36B0D /* ChatList */ = {
+			isa = PBXGroup;
+			children = (
+				4D3CA48A206B722900A36B0D /* RCDChatListCell.h */,
+				4D3CA489206B722900A36B0D /* RCDChatListCell.m */,
+			);
+			name = ChatList;
+			sourceTree = "<group>";
+		};
+		4D3CA495206B72DA00A36B0D /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				4D3CA496206B72F700A36B0D /* RCDGroupInfo.h */,
+				4D3CA497206B72F800A36B0D /* RCDGroupInfo.m */,
+				4D3CA498206B72F800A36B0D /* RCDUserInfo.h */,
+				4D3CA499206B72F800A36B0D /* RCDUserInfo.m */,
+			);
+			name = Models;
+			sourceTree = "<group>";
+		};
+		4D3CA4CA206B774700A36B0D /* EmoticonExtension */ = {
+			isa = PBXGroup;
+			children = (
+				4D3CA4CB206B775900A36B0D /* RCDCustomerEmoticonTab.h */,
+				4D3CA4CC206B775900A36B0D /* RCDCustomerEmoticonTab.m */,
+			);
+			name = EmoticonExtension;
+			sourceTree = "<group>";
+		};
+		4D3CA4F0206B7EC700A36B0D /* DB */ = {
+			isa = PBXGroup;
+			children = (
+				4D3CA4FA206B7ED700A36B0D /* FMDatabase.h */,
+				4D3CA4F6206B7ED700A36B0D /* FMDatabase.m */,
+				4D3CA4F1206B7ED600A36B0D /* FMDatabaseAdditions.h */,
+				4D3CA4F3206B7ED600A36B0D /* FMDatabaseAdditions.m */,
+				4D3CA4F7206B7ED700A36B0D /* FMDatabasePool.h */,
+				4D3CA4F2206B7ED600A36B0D /* FMDatabasePool.m */,
+				4D3CA4F8206B7ED700A36B0D /* FMDatabaseQueue.h */,
+				4D3CA4F4206B7ED600A36B0D /* FMDatabaseQueue.m */,
+				4D3CA4F9206B7ED700A36B0D /* FMDB.h */,
+				4D3CA4FB206B7ED700A36B0D /* FMResultSet.h */,
+				4D3CA4F5206B7ED700A36B0D /* FMResultSet.m */,
+			);
+			name = DB;
+			sourceTree = "<group>";
+		};
+		BC2A9F2BDB80862C1C27A14D /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				26F3D10760A24F61C7277486 /* Pods-libRNRongCloud.debug.xcconfig */,
+				398B92895E960EC6BE8C2C03 /* Pods-libRNRongCloud.release.xcconfig */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -84,6 +429,25 @@
 			productReference = 4D3CA338206A94AF00A36B0D /* RNRongCloud.app */;
 			productType = "com.apple.product-type.application";
 		};
+		4D3CA356206A957300A36B0D /* libRNRongCloud */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4D3CA35F206A957300A36B0D /* Build configuration list for PBXNativeTarget "libRNRongCloud" */;
+			buildPhases = (
+				1401B1546B71F36D7A074DF6 /* [CP] Check Pods Manifest.lock */,
+				4D3CA353206A957300A36B0D /* Sources */,
+				4D3CA354206A957300A36B0D /* Frameworks */,
+				4D3CA355206A957300A36B0D /* CopyFiles */,
+				00B20AEE6649C806E9D85981 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = libRNRongCloud;
+			productName = libRNRongCloud;
+			productReference = 4D3CA357206A957300A36B0D /* liblibRNRongCloud.a */;
+			productType = "com.apple.product-type.library.static";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -96,6 +460,11 @@
 				TargetAttributes = {
 					4D3CA337206A94AF00A36B0D = {
 						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+					4D3CA356206A957300A36B0D = {
+						CreatedOnToolsVersion = 9.2;
+						LastSwiftMigration = 0920;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -114,6 +483,7 @@
 			projectRoot = "";
 			targets = (
 				4D3CA337206A94AF00A36B0D /* RNRongCloud */,
+				4D3CA356206A957300A36B0D /* libRNRongCloud */,
 			);
 		};
 /* End PBXProject section */
@@ -131,6 +501,53 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		00B20AEE6649C806E9D85981 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/../../../ehao/taojing/ios/Pods/Target Support Files/Pods-libRNRongCloud/Pods-libRNRongCloud-resources.sh",
+				"${PODS_ROOT}/RongCloudIM/RongCloudIM/RongCloud.bundle",
+				"${PODS_ROOT}/RongCloudIM/RongCloudIM/en.lproj",
+				"${PODS_ROOT}/RongCloudIM/RongCloudIM/zh-Hans.lproj",
+				"${PODS_ROOT}/RongCloudIM/RongCloudIM/Emoji.plist",
+				"${PODS_ROOT}/RongCloudIM/RongCloudIM/RCConfig.plist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/RongCloud.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/en.lproj",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/zh-Hans.lproj",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Emoji.plist",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/RCConfig.plist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/../../../ehao/taojing/ios/Pods/Target Support Files/Pods-libRNRongCloud/Pods-libRNRongCloud-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		1401B1546B71F36D7A074DF6 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-libRNRongCloud-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		4D3CA334206A94AF00A36B0D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -138,6 +555,53 @@
 			files = (
 				4D3CA33E206A94AF00A36B0D /* ViewController.swift in Sources */,
 				4D3CA33C206A94AF00A36B0D /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4D3CA353206A957300A36B0D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4D3CA47D206B71BD00A36B0D /* RCDSearchBar.m in Sources */,
+				4D3CA500206B7ED800A36B0D /* FMDatabase.m in Sources */,
+				4D3CA4A4206B73D800A36B0D /* DefaultPortraitView.m in Sources */,
+				4D3CA48B206B722900A36B0D /* RCDChatListCell.m in Sources */,
+				4D3CA4D0206B783D00A36B0D /* RCDUserInfoManager.m in Sources */,
+				4D3CA461206B707E00A36B0D /* RCDSettingUserDefaults.m in Sources */,
+				4D3CA43F206B6EF700A36B0D /* AFHttpTool.m in Sources */,
+				4D3CA480206B71BD00A36B0D /* RCDSearchResultViewCell.m in Sources */,
+				4D3CA3D1206AA84800A36B0D /* RongCloudManagerBridge.m in Sources */,
+				4D3CA48E206B725B00A36B0D /* RCDChatViewController.m in Sources */,
+				4D3CA506206B81B000A36B0D /* RCDTabBarBtn.m in Sources */,
+				4D3CA484206B71BD00A36B0D /* RCDSearchDataManager.m in Sources */,
+				4D3CA4A7206B744C00A36B0D /* pinyin.c in Sources */,
+				4D3CA47F206B71BD00A36B0D /* RCDSearchMoreController.m in Sources */,
+				4D3CA4A1206B73A700A36B0D /* RCDUtilities.m in Sources */,
+				4D3CA465206B70F500A36B0D /* KxMenu.m in Sources */,
+				4D3CA46B206B713800A36B0D /* UIImage+RCImage.m in Sources */,
+				4D3CA49A206B72F800A36B0D /* RCDGroupInfo.m in Sources */,
+				4D3CA49B206B72F800A36B0D /* RCDUserInfo.m in Sources */,
+				4D3CA4FF206B7ED800A36B0D /* FMResultSet.m in Sources */,
+				4D3CA4FE206B7ED800A36B0D /* FMDatabaseQueue.m in Sources */,
+				4D3CA482206B71BD00A36B0D /* RCDSearchHistoryMessageController.m in Sources */,
+				4D3CA481206B71BD00A36B0D /* RCDSearchMoreViewCell.m in Sources */,
+				4D3CA4FD206B7ED800A36B0D /* FMDatabaseAdditions.m in Sources */,
+				4D3CA4CD206B775900A36B0D /* RCDCustomerEmoticonTab.m in Sources */,
+				4D3CA483206B71BD00A36B0D /* RCDSearchResultModel.m in Sources */,
+				4D3CA437206B6D6900A36B0D /* RCDMainTabBarViewController.m in Sources */,
+				4D3CA493206B72AE00A36B0D /* RCDHttpTool.m in Sources */,
+				4D3CA4C9206B760500A36B0D /* RCDUIBarButtonItem.m in Sources */,
+				4D3CA43B206B6E1700A36B0D /* RCDChatListViewController.m in Sources */,
+				4D3CA4EF206B7E2300A36B0D /* SortForTime.m in Sources */,
+				4D3CA494206B72AE00A36B0D /* RCDataBaseManager.m in Sources */,
+				4D3CA487206B71E900A36B0D /* RCDLabel.m in Sources */,
+				4D3CA49E206B733C00A36B0D /* RCDRCIMDataSource.m in Sources */,
+				4D3CA46A206B713800A36B0D /* UIColor+RCColor.m in Sources */,
+				4D3CA35B206A957300A36B0D /* libRNRongCloud.m in Sources */,
+				4D3CA47E206B71BD00A36B0D /* RCDSearchViewController.m in Sources */,
+				4D3CA503206B7F1400A36B0D /* UITabBar+badge.m in Sources */,
+				4D3CA3CF206AA79600A36B0D /* RongCloudManager.swift in Sources */,
+				4D3CA4FC206B7ED800A36B0D /* FMDatabasePool.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -300,6 +764,41 @@
 			};
 			name = Release;
 		};
+		4D3CA35D206A957300A36B0D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 26F3D10760A24F61C7277486 /* Pods-libRNRongCloud.debug.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = TT5SA69489;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "RNRongCloud/libRNRongCloud-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		4D3CA35E206A957300A36B0D /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 398B92895E960EC6BE8C2C03 /* Pods-libRNRongCloud.release.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = TT5SA69489;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "RNRongCloud/libRNRongCloud-Bridging-Header.h";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -317,6 +816,15 @@
 			buildConfigurations = (
 				4D3CA34B206A94AF00A36B0D /* Debug */,
 				4D3CA34C206A94AF00A36B0D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4D3CA35F206A957300A36B0D /* Build configuration list for PBXNativeTarget "libRNRongCloud" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4D3CA35D206A957300A36B0D /* Debug */,
+				4D3CA35E206A957300A36B0D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

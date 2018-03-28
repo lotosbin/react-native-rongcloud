@@ -1,0 +1,30 @@
+{
+  "manifest": {
+    "name": "react-native-rongcloud",
+    "version": "1.0.1",
+    "main": "index.js",
+    "repository": {
+      "type": "git",
+      "url": "git@github.com:lotosbin/react-native-rongcloud.git"
+    },
+    "author": {
+      "name": "liubinbin",
+      "email": "lotosbin@gmail.com"
+    },
+    "license": "MIT",
+    "_registry": "npm",
+    "_loc": "/Users/liubinbin/Library/Caches/Yarn/v1/npm-react-native-rongcloud-1.0.1-1f04cc01-99ea-4638-b7df-2b86237e104b-1522200233237/package.json",
+    "readmeFilename": "README.md",
+    "readme": "# react-native-rongcloud",
+    "licenseText": "MIT License\n\nCopyright (c) 2018 lotosbin\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n"
+  },
+  "artifacts": [],
+  "remote": {
+    "type": "copy",
+    "registry": "npm",
+    "hash": "1f04cc01-99ea-4638-b7df-2b86237e104b-1522200233237",
+    "reference": "/Users/liubinbin/ehao/taojing/react-native-rongcloud"
+  },
+  "registry": "npm",
+  "hash": "1f04cc01-99ea-4638-b7df-2b86237e104b-1522200233237"
+}

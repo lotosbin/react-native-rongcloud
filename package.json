@@ -1,0 +1,8 @@
+{
+  "name": "react-native-rongcloud",
+  "version": "1.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:lotosbin/react-native-rongcloud.git",
+  "author": "liubinbin <lotosbin@gmail.com>",
+  "license": "MIT"
+}
