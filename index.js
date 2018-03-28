@@ -28,8 +28,8 @@ class RongCloud {
     async openConversationList(title:string):Promise {
         return rongCloud.openConversationList(title);
     }
-    async openConversation(targetUserId:string,title:string):Promise {
-        return rongCloud.openConversation(targetUserId,title);
+    async openPrivateConversation(targetUserId:string,title:string):Promise {
+        return rongCloud.openPrivateConversation(targetUserId,title);
     }
 }
 
