@@ -5,7 +5,7 @@ let rongCloud = NativeModules.RongCloudManager;
 
 class RongCloud {
     async setDeviceToken(deviceToken: string): Promise {
-        return rongCloud.initWithAppKey(deviceToken);
+        return rongCloud.initWithAppKey(deviceToken.replace(/[<> ]/, ""));
     }
     async initWithAppKey(appkey: string): Promise {
         return rongCloud.initWithAppKey(appkey);
