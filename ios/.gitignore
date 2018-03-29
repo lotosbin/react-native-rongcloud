@@ -157,3 +157,5 @@ fastlane/test_output
 
 iOSInjectionProject/
 
+/RNRongCloud.xcodeproj/project.xcworkspace/xcuserdata/liubinbin.xcuserdatad/UserInterfaceState.xcuserstate
+/RNRongCloud.xcodeproj/xcuserdata/liubinbin.xcuserdatad/xcschemes/xcschememanagement.plist
