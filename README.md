@@ -18,8 +18,17 @@ end
 # change AppDeletegate.m
 
 ```obj-c
+#import "RNRongCloud/RNRongCloud.h"
+
+- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
+{
+  //...
+UIViewController *rootViewController = [RNRootViewController new];
+  rootViewController.view = rootView;
   UINavigationController* rootNavigationController=[[UINavigationController alloc] initWithRootViewController:rootViewController];
   [rootNavigationController setToolbarHidden:true];
   [rootNavigationController setNavigationBarHidden:true];
   self.window.rootViewController = rootNavigationController;
+  //...
+}
 ```
