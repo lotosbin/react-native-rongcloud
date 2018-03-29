@@ -9,6 +9,10 @@
 import Foundation
 @objc(RongCloudManager)
 class RongCloudManager: NSObject {
+    @objc public func setDeviceToken(_ deviceToken:String!,resolver resolve:  @escaping RCTPromiseResolveBlock, rejecter reject:  @escaping RCTPromiseRejectBlock)->Void{
+        RCIMClient.shared().setDeviceToken(deviceToken);
+        resolve("")
+    }
     @objc public func initWithAppKey(_ appkey:String!,resolver resolve:  @escaping RCTPromiseResolveBlock, rejecter reject:  @escaping RCTPromiseRejectBlock)->Void{
         RCIM.shared().initWithAppKey(appkey);
         resolve("")

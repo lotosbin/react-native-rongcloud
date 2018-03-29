@@ -11,6 +11,8 @@
 
 @interface RCT_EXTERN_MODULE(RongCloudManager, NSObject)
 
+RCT_EXTERN_METHOD(setDeviceToken:(NSString *)deviceToken resolver:(RCTPromiseResolveBlock)resolve rejecter:(RCTPromiseRejectBlock)reject)
+
 RCT_EXTERN_METHOD(initWithAppKey:(NSString *)appkey resolver:(RCTPromiseResolveBlock)resolve rejecter:(RCTPromiseRejectBlock)reject)
 
 RCT_EXTERN_METHOD(connectWithToken:(NSString *)token resolver:(RCTPromiseResolveBlock)resolve rejecter:(RCTPromiseRejectBlock)reject)

@@ -4,6 +4,9 @@ import {NativeModules} from 'react-native';
 let rongCloud = NativeModules.RongCloudManager;
 
 class RongCloud {
+    async setDeviceToken(deviceToken: string): Promise {
+        return rongCloud.initWithAppKey(deviceToken);
+    }
     async initWithAppKey(appkey: string): Promise {
         return rongCloud.initWithAppKey(appkey);
     }
