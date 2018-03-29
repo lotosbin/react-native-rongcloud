@@ -25,10 +25,7 @@ class MyRCConversationViewController: RCConversationViewController {
         super.viewWillAppear(animated)
         self.navigationController?.setNavigationBarHidden(false, animated: animated)
     }
-    override func viewWillDisappear(_ animated: Bool) {
-        self.navigationController?.setNavigationBarHidden(true, animated: animated);
-        super.viewWillDisappear(animated)
-    }
+
     /*
     // MARK: - Navigation
 

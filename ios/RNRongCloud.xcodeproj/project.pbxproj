@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		3F4F2650F56112EBA84D3AED /* Pods_libRNRongCloud.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D4708F6FFBA85941CF4C4F7 /* Pods_libRNRongCloud.framework */; };
 		4D3CA35B206A957300A36B0D /* libRNRongCloud.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA35A206A957300A36B0D /* libRNRongCloud.m */; };
-		4D3CA35C206A957300A36B0D /* libRNRongCloud.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 4D3CA359206A957300A36B0D /* libRNRongCloud.h */; };
 		4D3CA3CF206AA79600A36B0D /* RongCloudManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA3CE206AA79600A36B0D /* RongCloudManager.swift */; };
 		4D3CA3D1206AA84800A36B0D /* RongCloudManagerBridge.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA3D0206AA84800A36B0D /* RongCloudManagerBridge.m */; };
 		4D3CA437206B6D6900A36B0D /* RCDMainTabBarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA436206B6D6900A36B0D /* RCDMainTabBarViewController.m */; };
@@ -51,6 +50,8 @@
 		4D3CA506206B81B000A36B0D /* RCDTabBarBtn.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA504206B81B000A36B0D /* RCDTabBarBtn.m */; };
 		4D3CA525206BA60F00A36B0D /* MyRCDMainTabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA524206BA60F00A36B0D /* MyRCDMainTabBarViewController.swift */; };
 		4D3CA527206BA8ED00A36B0D /* MyRCConversationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D3CA526206BA8ED00A36B0D /* MyRCConversationViewController.swift */; };
+		4D60391D206D18C7004BF64B /* RNRongCloud.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 4D60391C206D177D004BF64B /* RNRongCloud.h */; };
+		4D603920206D1A01004BF64B /* RNRootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D60391F206D1A01004BF64B /* RNRootViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -60,7 +61,7 @@
 			dstPath = "include/$(PRODUCT_NAME)";
 			dstSubfolderSpec = 16;
 			files = (
-				4D3CA35C206A957300A36B0D /* libRNRongCloud.h in CopyFiles */,
+				4D60391D206D18C7004BF64B /* RNRongCloud.h in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -160,6 +161,9 @@
 		4D3CA505206B81B000A36B0D /* RCDTabBarBtn.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCDTabBarBtn.h; sourceTree = "<group>"; };
 		4D3CA524206BA60F00A36B0D /* MyRCDMainTabBarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyRCDMainTabBarViewController.swift; sourceTree = "<group>"; };
 		4D3CA526206BA8ED00A36B0D /* MyRCConversationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyRCConversationViewController.swift; sourceTree = "<group>"; };
+		4D60391C206D177D004BF64B /* RNRongCloud.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RNRongCloud.h; sourceTree = "<group>"; };
+		4D60391E206D1A01004BF64B /* RNRootViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RNRootViewController.h; sourceTree = "<group>"; };
+		4D60391F206D1A01004BF64B /* RNRootViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RNRootViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -215,6 +219,7 @@
 				4D3CA3CE206AA79600A36B0D /* RongCloudManager.swift */,
 				4D3CA3CD206AA79500A36B0D /* libRNRongCloud-Bridging-Header.h */,
 				4D3CA3D0206AA84800A36B0D /* RongCloudManagerBridge.m */,
+				4D60391C206D177D004BF64B /* RNRongCloud.h */,
 			);
 			path = RNRongCloud;
 			sourceTree = "<group>";
@@ -396,6 +401,8 @@
 			children = (
 				4D3CA524206BA60F00A36B0D /* MyRCDMainTabBarViewController.swift */,
 				4D3CA526206BA8ED00A36B0D /* MyRCConversationViewController.swift */,
+				4D60391E206D1A01004BF64B /* RNRootViewController.h */,
+				4D60391F206D1A01004BF64B /* RNRootViewController.m */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -537,6 +544,7 @@
 				4D3CA4A1206B73A700A36B0D /* RCDUtilities.m in Sources */,
 				4D3CA465206B70F500A36B0D /* KxMenu.m in Sources */,
 				4D3CA46B206B713800A36B0D /* UIImage+RCImage.m in Sources */,
+				4D603920206D1A01004BF64B /* RNRootViewController.m in Sources */,
 				4D3CA49A206B72F800A36B0D /* RCDGroupInfo.m in Sources */,
 				4D3CA49B206B72F800A36B0D /* RCDUserInfo.m in Sources */,
 				4D3CA4FF206B7ED800A36B0D /* FMResultSet.m in Sources */,
