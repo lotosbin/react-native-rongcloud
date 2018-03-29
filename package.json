@@ -4,5 +4,12 @@
   "main": "index.js",
   "repository": "git@github.com:lotosbin/react-native-rongcloud.git",
   "author": "liubinbin <lotosbin@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "flow-cli": "^0.0.0-pre"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  }
 }
