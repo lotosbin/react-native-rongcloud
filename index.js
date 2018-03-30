@@ -34,6 +34,10 @@ class RongCloud {
     async openPrivateConversation(targetUserId:string,title:string):Promise {
         return rongCloud.openPrivateConversation(targetUserId,title);
     }
+
+    async disconnect(isReceivePush: boolean): Promise {
+        return rongCloud.openPrivateConversation(isReceivePush || false);
+    }
 }
 
 export default new RongCloud();

@@ -13,6 +13,7 @@ class RongCloudManager: NSObject {
         RCIMClient.shared().setDeviceToken(deviceToken);
         resolve("")
     }
+    
     @objc public func initWithAppKey(_ appkey:String!,resolver resolve:  @escaping RCTPromiseResolveBlock, rejecter reject:  @escaping RCTPromiseRejectBlock)->Void{
         RCIM.shared().initWithAppKey(appkey);
         resolve("")
@@ -68,6 +69,10 @@ class RongCloudManager: NSObject {
                 rootViewController.navigationController?.pushViewController(chat, animated: true)
             }
         })
+        resolve("")
+    }
+    @objc public func disconnect(_ isReceivePush:Bool,resolver resolve:  @escaping RCTPromiseResolveBlock, rejecter reject:  @escaping RCTPromiseRejectBlock)->Void{
+        RCIM.shared().disconnect(isReceivePush)
         resolve("")
     }
     

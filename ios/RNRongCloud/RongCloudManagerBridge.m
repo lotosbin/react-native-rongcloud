@@ -20,5 +20,7 @@ RCT_EXTERN_METHOD(connectWithToken:(NSString *)token resolver:(RCTPromiseResolve
 RCT_EXTERN_METHOD(openConversationList:(NSString *)title resolver:(RCTPromiseResolveBlock)resolve rejecter:(RCTPromiseRejectBlock)reject)
 
 RCT_EXTERN_METHOD(openPrivateConversation:(NSString *)targetUserId title:(NSString *)title resolver:(RCTPromiseResolveBlock)resolve rejecter:(RCTPromiseRejectBlock)reject)
+
+RCT_EXTERN_METHOD(disconnect:(BOOL)isReceivePush resolver:(RCTPromiseResolveBlock)resolve rejecter:(RCTPromiseRejectBlock)reject)
 @end
 
