@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/color/rc_btn_file_list_send.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/color/rc_btn_file_list_send.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/color/ksw_md_back_color.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/src/main/res/color/ksw_md_back_color.xml"
+    }
+]

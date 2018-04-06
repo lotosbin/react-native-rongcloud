@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/liubinbin/lotosbin/react-native-rongcloud/CallKit/src/main/assets"/><source path="/Users/liubinbin/lotosbin/react-native-rongcloud/CallKit/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/liubinbin/lotosbin/react-native-rongcloud/CallKit/src/debug/assets"/></dataSet></merger>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/build/intermediates/res/merged/release/anim/bqmm_slide_out_to_right.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/src/main/res/anim/bqmm_slide_out_to_right.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/build/intermediates/res/merged/release/anim/bqmm_slide_in_from_left.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/src/main/res/anim/bqmm_slide_in_from_left.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/build/intermediates/res/merged/release/anim/bqmm_slide_out_to_left.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/src/main/res/anim/bqmm_slide_out_to_left.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/build/intermediates/res/merged/release/anim/bqmm_slide_in_from_right.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/src/main/res/anim/bqmm_slide_in_from_right.xml"
+    }
+]

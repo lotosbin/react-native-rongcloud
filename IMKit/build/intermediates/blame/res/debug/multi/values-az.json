@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az/values-az.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 100,
+                    "endOffset": 151
+                },
+                "from": {
+                    "file": "/Users/liubinbin/.android/build-cache/4c0f340d5349264be6d3e26057b4d91f4fb6d8bf/output/res/values-az/values-az.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 100,
+                        "endOffset": 151
+                    }
+                }
+            }
+        ]
+    }
+]

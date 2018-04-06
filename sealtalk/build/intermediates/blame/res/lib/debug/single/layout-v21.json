@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/liubinbin/.android/build-cache/ca11f210ba549edf2dd1deed62f16cebec3cb15e/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/liubinbin/.android/build-cache/ca11f210ba549edf2dd1deed62f16cebec3cb15e/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/liubinbin/.android/build-cache/ca11f210ba549edf2dd1deed62f16cebec3cb15e/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/layout-v21/notification_action.xml",
+        "source": "/Users/liubinbin/.android/build-cache/ca11f210ba549edf2dd1deed62f16cebec3cb15e/output/res/layout-v21/notification_action.xml"
+    }
+]

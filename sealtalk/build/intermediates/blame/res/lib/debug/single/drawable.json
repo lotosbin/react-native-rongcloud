@@ -1,0 +1,602 @@
+[
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/selector_forget_pwd.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/RedPacket/build/intermediates/bundles/default/res/drawable/selector_forget_pwd.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/de_customer_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/src/main/res/drawable/de_customer_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_cs_corner_single_check_style.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_cs_corner_single_check_style.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_voip_mute_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/CallKit/build/intermediates/bundles/default/res/drawable/rc_voip_mute_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_bg_item.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_bg_item.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/_bg_bribery_open.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/RedPacket/build/intermediates/bundles/default/res/drawable/_bg_bribery_open.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_voip_audio_answer_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/CallKit/build/intermediates/bundles/default/res/drawable/rc_voip_audio_answer_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_ext_plugin_image_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_ext_plugin_image_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_voip_speaker_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/CallKit/build/intermediates/bundles/default/res/drawable/rc_voip_speaker_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_cs_evaluate_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_cs_evaluate_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_an_voice_receive.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_an_voice_receive.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_cs_leave_message_btn.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_cs_leave_message_btn.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_voip_hangup_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/CallKit/build/intermediates/bundles/default/res/drawable/rc_voip_hangup_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/liubinbin/.android/build-cache/ca11f210ba549edf2dd1deed62f16cebec3cb15e/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/bg_white_aaaaaa.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/src/main/res/drawable/bg_white_aaaaaa.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/dialog_paytype_bg.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/RedPacket/build/intermediates/bundles/default/res/drawable/dialog_paytype_bg.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_item_list_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_item_list_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/shape_unbind.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/RedPacket/build/intermediates/bundles/default/res/drawable/shape_unbind.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_cs_star_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/src/main/res/drawable/rc_cs_star_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_ac_btn_file_download_open_button.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_ac_btn_file_download_open_button.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/selector_item.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/RedPacket/build/intermediates/bundles/default/res/drawable/selector_item.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/bqmm_pic_bg.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/build/intermediates/bundles/default/res/drawable/bqmm_pic_bg.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/select_tab_me.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/src/main/res/drawable/select_tab_me.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rs_select_btn_gray.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/src/main/res/drawable/rs_select_btn_gray.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_cs_list_divider_style.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_cs_list_divider_style.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/select_tab_find.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/src/main/res/drawable/select_tab_find.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_keyboard_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_keyboard_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/_bg_gray_round.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/RedPacket/build/intermediates/bundles/default/res/drawable/_bg_gray_round.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_btn_public_service_enter_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_btn_public_service_enter_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/shape_code_bg.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/RedPacket/build/intermediates/bundles/default/res/drawable/shape_code_bg.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/selector_btn_headtitle.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/src/main/res/drawable/selector_btn_headtitle.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/main_activity_add.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/src/main/res/drawable/main_activity_add.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/selector_round_btn.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/RedPacket/build/intermediates/bundles/default/res/drawable/selector_round_btn.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_ic_yes_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_ic_yes_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/_common_progress_bg.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/RedPacket/build/intermediates/bundles/default/res/drawable/_common_progress_bg.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_ic_no_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_ic_no_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rs_select_btn_blue.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/src/main/res/drawable/rs_select_btn_blue.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_cs_back_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_cs_back_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_voip_camera_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/CallKit/build/intermediates/bundles/default/res/drawable/rc_voip_camera_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/de_pic_chebox_photo.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/src/main/res/drawable/de_pic_chebox_photo.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_cs_evaluate_text_boder_selected.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/src/main/res/drawable/rc_cs_evaluate_text_boder_selected.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_selector_grid_camera_mask.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_selector_grid_camera_mask.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/ios_back_drawable.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/src/main/res/drawable/ios_back_drawable.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_cs_evaluate_text_color_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/src/main/res/drawable/rc_cs_evaluate_text_color_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_message_checkbox.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_message_checkbox.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/_cb_protocol.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/RedPacket/build/intermediates/bundles/default/res/drawable/_cb_protocol.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_menu_keyboard_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_menu_keyboard_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/shape_normal_item_bg.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/RedPacket/build/intermediates/bundles/default/res/drawable/shape_normal_item_bg.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rp_sidebar_background.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/src/main/res/drawable/rp_sidebar_background.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/notification_bg.xml",
+        "source": "/Users/liubinbin/.android/build-cache/ca11f210ba549edf2dd1deed62f16cebec3cb15e/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_anim_speech_start.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/recognizer/build/intermediates/bundles/default/res/drawable/rc_anim_speech_start.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/bg_edit_text_white.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/src/main/res/drawable/bg_edit_text_white.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_cs_evaluate_resolve_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/src/main/res/drawable/rc_cs_evaluate_resolve_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_voice_input_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_voice_input_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/bqmm_point_selected.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/build/intermediates/bundles/default/res/drawable/bqmm_point_selected.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_contact_plugin_icon.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/contactcard/build/intermediates/bundles/default/res/drawable/rc_contact_plugin_icon.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/liubinbin/.android/build-cache/ca11f210ba549edf2dd1deed62f16cebec3cb15e/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/_progress_medium_holo.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/RedPacket/build/intermediates/bundles/default/res/drawable/_progress_medium_holo.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_unread_msg_bg_style.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_unread_msg_bg_style.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_edit_text_background_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_edit_text_background_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/_bg_white_round.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/RedPacket/build/intermediates/bundles/default/res/drawable/_bg_white_round.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_bg_menu.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_bg_menu.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_cs_group_dialog_ok_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_cs_group_dialog_ok_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_bg_sidebar.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_bg_sidebar.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_corner_style.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_corner_style.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/selector_item_bg.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/src/main/res/drawable/selector_item_bg.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_cs_evaluate_text_boder_unselected.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/src/main/res/drawable/rc_cs_evaluate_text_boder_unselected.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/bqmm_chatfrom_bg.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/build/intermediates/bundles/default/res/drawable/bqmm_chatfrom_bg.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_corner_popup_dialog_style.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_corner_popup_dialog_style.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_progress_round.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/src/main/res/drawable/rc_progress_round.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_cs_group_checkbox_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_cs_group_checkbox_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_voice_toggle_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_voice_toggle_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_voip_checkbox.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/CallKit/build/intermediates/bundles/default/res/drawable/rc_voip_checkbox.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_recognizer_voice_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/recognizer/build/intermediates/bundles/default/res/drawable/rc_recognizer_voice_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_anim_speech_end.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/recognizer/build/intermediates/bundles/default/res/drawable/rc_anim_speech_end.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_progress_sending_style.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_progress_sending_style.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rs_select_btn_green.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/src/main/res/drawable/rs_select_btn_green.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_an_voice_sent.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_an_voice_sent.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_pb_file_download_progress.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_pb_file_download_progress.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_item_top_list_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_item_top_list_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/bqmm_point_normal.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/build/intermediates/bundles/default/res/drawable/bqmm_point_normal.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_voip_vedio_answer_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/CallKit/build/intermediates/bundles/default/res/drawable/rc_voip_vedio_answer_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_menu_text_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_menu_text_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_notification_connecting_animated.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_notification_connecting_animated.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/ksw_md_thumb.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/src/main/res/drawable/ksw_md_thumb.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/selector_btn_top.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/src/main/res/drawable/selector_btn_top.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/bqmm_chatto_bg.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/build/intermediates/bundles/default/res/drawable/bqmm_chatto_bg.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_selector_title_back_press.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_selector_title_back_press.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_cs_ratingbar.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_cs_ratingbar.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/round_spinner_fade.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/RedPacket/build/intermediates/bundles/default/res/drawable/round_spinner_fade.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/bg_white.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/src/main/res/drawable/bg_white.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_corner_location_style.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_corner_location_style.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/main_activity_contact_more.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/src/main/res/drawable/main_activity_contact_more.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/shape_click_item_bg.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/RedPacket/build/intermediates/bundles/default/res/drawable/shape_click_item_bg.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/de_add_friend_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/src/main/res/drawable/de_add_friend_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/selector_btn_back.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/src/main/res/drawable/selector_btn_back.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_bg_mentionlist_item.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_bg_mentionlist_item.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/shape_normal_round_btn_bg.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/RedPacket/build/intermediates/bundles/default/res/drawable/shape_normal_round_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/shape_round_white.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/RedPacket/build/intermediates/bundles/default/res/drawable/shape_round_white.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_cs_group_dialog_cancel_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_cs_group_dialog_cancel_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/bqmm_selector_tab_bg.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/build/intermediates/bundles/default/res/drawable/bqmm_selector_tab_bg.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_voip_float_bg.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/CallKit/build/intermediates/bundles/default/res/drawable/rc_voip_float_bg.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_ic_location.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_ic_location.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_switch_btn.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/src/main/res/drawable/rc_switch_btn.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/contact_start_video.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/src/main/res/drawable/contact_start_video.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_read_receipt_request_button.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_read_receipt_request_button.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_ed_public_service_search_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_ed_public_service_search_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_plugin_toggle_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_plugin_toggle_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rs_select_btn_red.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/src/main/res/drawable/rs_select_btn_red.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_menu_background_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_menu_background_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/selector_common_btn.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/RedPacket/build/intermediates/bundles/default/res/drawable/selector_common_btn.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/_bg_red_click_round.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/RedPacket/build/intermediates/bundles/default/res/drawable/_bg_red_click_round.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_cs_group_ok_text_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_cs_group_ok_text_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/_bg_white_round_stroke.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/RedPacket/build/intermediates/bundles/default/res/drawable/_bg_white_round_stroke.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/selector_cursor.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/RedPacket/build/intermediates/bundles/default/res/drawable/selector_cursor.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_btn_voice.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_btn_voice.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_emoji_grid_item_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_emoji_grid_item_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_btn_input.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_btn_input.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/bqmm_shortcut_emoji_bg.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/build/intermediates/bundles/default/res/drawable/bqmm_shortcut_emoji_bg.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_btn_send.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_btn_send.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/btn_list_item_bg.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/src/main/res/drawable/btn_list_item_bg.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/dialog_background.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/RedPacket/build/intermediates/bundles/default/res/drawable/dialog_background.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_ic_files_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_ic_files_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/liubinbin/.android/build-cache/ca11f210ba549edf2dd1deed62f16cebec3cb15e/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_ext_plugin_location_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_ext_plugin_location_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_ic_video_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/CallKit/build/intermediates/bundles/default/res/drawable/rc_ic_video_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_ic_star_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_ic_star_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_ic_phone_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_ic_phone_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/contact_start_chat.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/src/main/res/drawable/contact_start_chat.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_send_toggle_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_send_toggle_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_cs_submit_comment.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_cs_submit_comment.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_bg_speech_tv_bottom.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/recognizer/build/intermediates/bundles/default/res/drawable/rc_bg_speech_tv_bottom.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_cs_edittext_background.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/src/main/res/drawable/rc_cs_edittext_background.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_sp_grid_mask.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_sp_grid_mask.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/appitem_del_btn.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/src/main/res/drawable/appitem_del_btn.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_corner_voice_style.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_corner_voice_style.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_sel_picsel_toolbar_back.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_sel_picsel_toolbar_back.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/de_pic_checkbox.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/src/main/res/drawable/de_pic_checkbox.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/shape_click_round_btn_bg.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/RedPacket/build/intermediates/bundles/default/res/drawable/shape_click_round_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/selector_hongbao.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/RedPacket/build/intermediates/bundles/default/res/drawable/selector_hongbao.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/select_tab_contact_list.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/src/main/res/drawable/select_tab_contact_list.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_sel_picsel_toolbar_send.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_sel_picsel_toolbar_send.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_emotion_toggle_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_emotion_toggle_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_contact_detail_activity_corner_bg.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/contactcard/build/intermediates/bundles/default/res/drawable/rc_contact_detail_activity_corner_bg.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/_bg_red_round.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/RedPacket/build/intermediates/bundles/default/res/drawable/_bg_red_round.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/bqmm_bg_chat_time_tag.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/build/intermediates/bundles/default/res/drawable/bqmm_bg_chat_time_tag.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_white_bg_shape.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_white_bg_shape.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_cs_admin_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_cs_admin_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/rc_btn_public_service_unfollow_selector.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMKit/build/intermediates/bundles/default/res/drawable/rc_btn_public_service_unfollow_selector.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable/select_tab_chat.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/src/main/res/drawable/select_tab_chat.xml"
+    }
+]

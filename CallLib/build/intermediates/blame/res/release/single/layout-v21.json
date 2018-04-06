@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/CallLib/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/liubinbin/.android/build-cache/4c0f340d5349264be6d3e26057b4d91f4fb6d8bf/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/CallLib/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/liubinbin/.android/build-cache/4c0f340d5349264be6d3e26057b4d91f4fb6d8bf/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/CallLib/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/liubinbin/.android/build-cache/4c0f340d5349264be6d3e26057b4d91f4fb6d8bf/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/CallLib/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/liubinbin/.android/build-cache/4c0f340d5349264be6d3e26057b4d91f4fb6d8bf/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

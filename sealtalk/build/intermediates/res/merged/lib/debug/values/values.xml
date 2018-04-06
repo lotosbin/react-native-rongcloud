@@ -1,0 +1,2341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <array name="rc_audio_file_suffix">
+        <item>.mp3</item>
+        <item>.au</item>
+        <item>.snd</item>
+        <item>.mid</item>
+        <item>.rmi</item>
+        <item>.aif</item>
+        <item>.aifc</item>
+        <item>.aiff</item>
+        <item>.m3u</item>
+        <item>.ra</item>
+        <item>.ram</item>
+        <item>.wav</item>
+        <item>.wma</item>
+    </array>
+    <integer-array name="rc_emoji_code">
+        <item>0x1f603</item>
+        <item>0x1f600</item>
+        <item>0x1f60a</item>
+        <item>0x263a</item>
+        <item>0x1f609</item>
+        <item>0x1f60d</item>
+        <item>0x1f618</item>
+        <item>0x1f61a</item>
+        <item>0x1f61c</item>
+        <item>0x1f61d</item>
+        <item>0x1f633</item>
+        <item>0x1f601</item>
+        <item>0x1f614</item>
+        <item>0x1f60c</item>
+        <item>0x1f612</item>
+        <item>0x1f61f</item>
+        <item>0x1f61e</item>
+        <item>0x1f623</item>
+        <item>0x1f622</item>
+        <item>0x1f602</item>
+        <item>0x1f62d</item>
+        <item>0x1f62a</item>
+        <item>0x1f630</item>
+        <item>0x1f605</item>
+        <item>0x1f613</item>
+        <item>0x1f62b</item>
+        <item>0x1f629</item>
+        <item>0x1f628</item>
+        <item>0x1f631</item>
+        <item>0x1f621</item>
+        <item>0x1f624</item>
+        <item>0x1f616</item>
+        <item>0x1f606</item>
+        <item>0x1f60b</item>
+        <item>0x1f637</item>
+        <item>0x1f60e</item>
+        <item>0x1f634</item>
+        <item>0x1f632</item>
+        <item>0x1f635</item>
+        <item>0x1f608</item>
+        <item>0x1f47f</item>
+        <item>0x1f62f</item>
+        <item>0x1f62c</item>
+        <item>0x1f615</item>
+        <item>0x1f636</item>
+        <item>0x1f607</item>
+        <item>0x1f60f</item>
+        <item>0x1f611</item>
+        <item>0x1f648</item>
+        <item>0x1f649</item>
+        <item>0x1f64a</item>
+        <item>0x1f47d</item>
+        <item>0x1f4a9</item>
+        <item>0x1f494</item>
+        <item>0x1f525</item>
+        <item>0x1f4a2</item>
+        <item>0x1f4a4</item>
+        <item>0x1f6ab</item>
+        <item>0x2b50</item>
+        <item>0x26a1</item>
+        <item>0x1f319</item>
+        <item>0x2600</item>
+        <item>0x26c5</item>
+        <item>0x2601</item>
+        <item>0x2744</item>
+        <item>0x2614</item>
+        <item>0x26c4</item>
+        <item>0x1f44d</item>
+        <item>0x1f44e</item>
+        <item>0x1f44c</item>
+        <item>0x1f44a</item>
+        <item>0x270a</item>
+        <item>0x270c</item>
+        <item>0x270b</item>
+        <item>0x1f64f</item>
+        <item>0x261d</item>
+        <item>0x1f44f</item>
+        <item>0x1f4aa</item>
+        <item>0x1f46a</item>
+        <item>0x1f46b</item>
+        <item>0x1f47c</item>
+        <item>0x1f434</item>
+        <item>0x1f436</item>
+        <item>0x1f437</item>
+        <item>0x1f47b</item>
+        <item>0x1f339</item>
+        <item>0x1f33b</item>
+        <item>0x1f332</item>
+        <item>0x1f384</item>
+        <item>0x1f381</item>
+        <item>0x1f389</item>
+        <item>0x1f4b0</item>
+        <item>0x1f382</item>
+        <item>0x1f356</item>
+        <item>0x1f35a</item>
+        <item>0x1f366</item>
+        <item>0x1f36b</item>
+        <item>0x1f349</item>
+        <item>0x1f377</item>
+        <item>0x1f37b</item>
+        <item>0x2615</item>
+        <item>0x1f3c0</item>
+        <item>0x26bd</item>
+        <item>0x1f3c2</item>
+        <item>0x1f3a4</item>
+        <item>0x1f3b5</item>
+        <item>0x1f3b2</item>
+        <item>0x1f004</item>
+        <item>0x1f451</item>
+        <item>0x1f484</item>
+        <item>0x1f48b</item>
+        <item>0x1f48d</item>
+        <item>0x1f4da</item>
+        <item>0x1f393</item>
+        <item>0x270f</item>
+        <item>0x1f3e1</item>
+        <item>0x1f6bf</item>
+        <item>0x1f4a1</item>
+        <item>0x1f4de</item>
+        <item>0x1f4e2</item>
+        <item>0x1f556</item>
+        <item>0x23f0</item>
+        <item>0x23f3</item>
+        <item>0x1f4a3</item>
+        <item>0x1f52b</item>
+        <item>0x1f48a</item>
+        <item>0x1f680</item>
+        <item>0x1f30f</item>
+    </integer-array>
+    <array name="rc_emoji_res">
+        <item>@drawable/u1f603</item>
+        <item>@drawable/u1f600</item>
+        <item>@drawable/u1f60a</item>
+        <item>@drawable/u263a</item>
+        <item>@drawable/u1f609</item>
+        <item>@drawable/u1f60d</item>
+        <item>@drawable/u1f618</item>
+        <item>@drawable/u1f61a</item>
+        <item>@drawable/u1f61c</item>
+        <item>@drawable/u1f61d</item>
+        <item>@drawable/u1f633</item>
+        <item>@drawable/u1f601</item>
+        <item>@drawable/u1f614</item>
+        <item>@drawable/u1f60c</item>
+        <item>@drawable/u1f612</item>
+        <item>@drawable/u1f61f</item>
+        <item>@drawable/u1f61e</item>
+        <item>@drawable/u1f623</item>
+        <item>@drawable/u1f622</item>
+        <item>@drawable/u1f602</item>
+        <item>@drawable/u1f62d</item>
+        <item>@drawable/u1f62a</item>
+        <item>@drawable/u1f630</item>
+        <item>@drawable/u1f605</item>
+        <item>@drawable/u1f613</item>
+        <item>@drawable/u1f62b</item>
+        <item>@drawable/u1f629</item>
+        <item>@drawable/u1f628</item>
+        <item>@drawable/u1f631</item>
+        <item>@drawable/u1f621</item>
+        <item>@drawable/u1f624</item>
+        <item>@drawable/u1f616</item>
+        <item>@drawable/u1f606</item>
+        <item>@drawable/u1f60b</item>
+        <item>@drawable/u1f637</item>
+        <item>@drawable/u1f60e</item>
+        <item>@drawable/u1f634</item>
+        <item>@drawable/u1f632</item>
+        <item>@drawable/u1f635</item>
+        <item>@drawable/u1f608</item>
+        <item>@drawable/u1f47f</item>
+        <item>@drawable/u1f62f</item>
+        <item>@drawable/u1f62c</item>
+        <item>@drawable/u1f615</item>
+        <item>@drawable/u1f636</item>
+        <item>@drawable/u1f607</item>
+        <item>@drawable/u1f60f</item>
+        <item>@drawable/u1f611</item>
+        <item>@drawable/u1f648</item>
+        <item>@drawable/u1f649</item>
+        <item>@drawable/u1f64a</item>
+        <item>@drawable/u1f47d</item>
+        <item>@drawable/u1f4a9</item>
+        <item>@drawable/u1f494</item>
+        <item>@drawable/u1f525</item>
+        <item>@drawable/u1f4a2</item>
+        <item>@drawable/u1f4a4</item>
+        <item>@drawable/u1f6ab</item>
+        <item>@drawable/u2b50</item>
+        <item>@drawable/u26a1</item>
+        <item>@drawable/u1f319</item>
+        <item>@drawable/u2600</item>
+        <item>@drawable/u26c5</item>
+        <item>@drawable/u2601</item>
+        <item>@drawable/u2744</item>
+        <item>@drawable/u2614</item>
+        <item>@drawable/u26c4</item>
+        <item>@drawable/u1f44d</item>
+        <item>@drawable/u1f44e</item>
+        <item>@drawable/u1f44c</item>
+        <item>@drawable/u1f44a</item>
+        <item>@drawable/u270a</item>
+        <item>@drawable/u270c</item>
+        <item>@drawable/u270b</item>
+        <item>@drawable/u1f64f</item>
+        <item>@drawable/u261d</item>
+        <item>@drawable/u1f44f</item>
+        <item>@drawable/u1f4aa</item>
+        <item>@drawable/u1f46a</item>
+        <item>@drawable/u1f46b</item>
+        <item>@drawable/u1f47c</item>
+        <item>@drawable/u1f434</item>
+        <item>@drawable/u1f436</item>
+        <item>@drawable/u1f437</item>
+        <item>@drawable/u1f47b</item>
+        <item>@drawable/u1f339</item>
+        <item>@drawable/u1f33b</item>
+        <item>@drawable/u1f332</item>
+        <item>@drawable/u1f384</item>
+        <item>@drawable/u1f381</item>
+        <item>@drawable/u1f389</item>
+        <item>@drawable/u1f4b0</item>
+        <item>@drawable/u1f382</item>
+        <item>@drawable/u1f356</item>
+        <item>@drawable/u1f35a</item>
+        <item>@drawable/u1f366</item>
+        <item>@drawable/u1f36b</item>
+        <item>@drawable/u1f349</item>
+        <item>@drawable/u1f377</item>
+        <item>@drawable/u1f37b</item>
+        <item>@drawable/u2615</item>
+        <item>@drawable/u1f3c0</item>
+        <item>@drawable/u26bd</item>
+        <item>@drawable/u1f3c2</item>
+        <item>@drawable/u1f3a4</item>
+        <item>@drawable/u1f3b5</item>
+        <item>@drawable/u1f3b2</item>
+        <item>@drawable/u1f004</item>
+        <item>@drawable/u1f451</item>
+        <item>@drawable/u1f484</item>
+        <item>@drawable/u1f48b</item>
+        <item>@drawable/u1f48d</item>
+        <item>@drawable/u1f4da</item>
+        <item>@drawable/u1f393</item>
+        <item>@drawable/u270f</item>
+        <item>@drawable/u1f3e1</item>
+        <item>@drawable/u1f6bf</item>
+        <item>@drawable/u1f4a1</item>
+        <item>@drawable/u1f4de</item>
+        <item>@drawable/u1f4e2</item>
+        <item>@drawable/u1f556</item>
+        <item>@drawable/u23f0</item>
+        <item>@drawable/u23f3</item>
+        <item>@drawable/u1f4a3</item>
+        <item>@drawable/u1f52b</item>
+        <item>@drawable/u1f48a</item>
+        <item>@drawable/u1f680</item>
+        <item>@drawable/u1f30f</item>
+    </array>
+    <array name="rc_excel_file_suffix">
+        <item>.xla</item>
+        <item>.xlc</item>
+        <item>.xlm</item>
+        <item>.xls</item>
+        <item>.xlt</item>
+        <item>.xlw</item>
+        <item>.xlsx</item>
+    </array>
+    <array name="rc_file_file_suffix">
+        <item>.txt</item>
+        <item>.log</item>
+        <item>.html</item>
+        <item>.stm</item>
+        <item>.uls</item>
+        <item>.bas</item>
+        <item>.c</item>
+        <item>.h</item>
+        <item>.rtx</item>
+        <item>.sct</item>
+        <item>.tsv</item>
+        <item>.htt</item>
+        <item>.htc</item>
+        <item>.etx</item>
+        <item>.vcf</item>
+    </array>
+    <array name="rc_image_file_suffix">
+        <item>.bmp</item>
+        <item>.cod</item>
+        <item>.gif</item>
+        <item>.ief</item>
+        <item>.jpe</item>
+        <item>.jpeg</item>
+        <item>.jpg</item>
+        <item>.jfif</item>
+        <item>.svg</item>
+        <item>.tif</item>
+        <item>.tiff</item>
+        <item>.ras</item>
+        <item>.ico</item>
+        <item>.pbm</item>
+        <item>.pgm</item>
+        <item>.png</item>
+        <item>.pnm</item>
+        <item>.ppm</item>
+        <item>.xbm</item>
+        <item>.xpm</item>
+        <item>.xwd</item>
+        <item>.rgb</item>
+    </array>
+    <array name="rc_other_file_suffix">
+        <item>.apk</item>
+        <item>.doc</item>
+        <item>.dot</item>
+        <item>.xla</item>
+        <item>.xlc</item>
+        <item>.xlm</item>
+        <item>.xls</item>
+        <item>.xlt</item>
+        <item>.xlw</item>
+        <item>.gif</item>
+        <item>.jpe</item>
+        <item>.jpeg</item>
+        <item>.jpg</item>
+    </array>
+    <array name="rc_pdf_file_suffix">
+        <item>.pdf</item>
+    </array>
+    <array name="rc_ppt_file_suffix">
+        <item>.ppt</item>
+        <item>.pptx</item>
+    </array>
+    <integer-array name="rc_reconnect_interval">
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>8</item>
+        <item>16</item>
+        <item>32</item>
+        <item>64</item>
+        <item>128</item>
+        <item>256</item>
+        <item>512</item>
+    </integer-array>
+    <array name="rc_video_file_suffix">
+        <item>.rmvb</item>
+        <item>.avi</item>
+        <item>.mp4</item>
+        <item>.mp2</item>
+        <item>.mpa</item>
+        <item>.mpe</item>
+        <item>.mpeg</item>
+        <item>.mpg</item>
+        <item>.mpv2</item>
+        <item>.mov</item>
+        <item>.qt</item>
+        <item>.lsf</item>
+        <item>.lsx</item>
+        <item>.asf</item>
+        <item>.asr</item>
+        <item>.asx</item>
+        <item>.avi</item>
+        <item>.movie</item>
+        <item>.wmv</item>
+    </array>
+    <array name="rc_word_file_suffix">
+        <item>.doc</item>
+        <item>.dot</item>
+        <item>.docx</item>
+    </array>
+    <attr format="reference" name="coordinatorLayoutStyle"/>
+    <bool name="rc_enable_mentioned_message">false</bool>
+    <bool name="rc_enable_message_recall">false</bool>
+    <bool name="rc_enable_sync_read_status">false</bool>
+    <bool name="rc_extension_history">false</bool>
+    <bool name="rc_is_show_warning_notification">true</bool>
+    <bool name="rc_play_audio_continuous">true</bool>
+    <bool name="rc_read_receipt">false</bool>
+    <bool name="rc_stop_custom_service_when_quit">true</bool>
+    <bool name="rc_typing_status">false</bool>
+    <color name="ac_filter_string_color">#0099ff</color>
+    <color name="background">#f1f1f3</color>
+    <color name="black">#3e3a39</color>
+    <color name="black_textview">#575757</color>
+    <color name="blue">#3b93e9</color>
+    <color name="bqmm_background_tab_pressed">#6633B5E5</color>
+    <color name="bqmm_delete_button_background_color">#00000000</color>
+    <color name="bqmm_delete_button_border_color">#ffbcbcbc</color>
+    <color name="bqmm_delete_button_text_color">#ffe98182</color>
+    <color name="bqmm_download_button_background_color_download">#ffffffff</color>
+    <color name="bqmm_download_button_background_color_downloaded">#ffffffff</color>
+    <color name="bqmm_download_button_border_color_download">#ffbcbcbc</color>
+    <color name="bqmm_download_button_border_color_downloaded">#ffbcbcbc</color>
+    <color name="bqmm_download_button_progress_background_color">#00000000</color>
+    <color name="bqmm_download_button_progress_color">#ff36cab6</color>
+    <color name="bqmm_download_button_text_color_download">#ff36cab6</color>
+    <color name="bqmm_download_button_text_color_downloaded">#ffbcbcbc</color>
+    <color name="bqmm_download_button_text_color_downloading">#ffffffff</color>
+    <color name="bqmm_emoji_detail_download_button_progress_background_color">#00000000</color>
+    <color name="bqmm_emoji_detail_download_button_progress_color">#ff36cab6</color>
+    <color name="bqmm_emoji_package_detail_download_button_progress_background_color">#00000000
+    </color>
+    <color name="bqmm_emoji_package_detail_download_button_progress_color">#ff36cab6</color>
+    <color name="bqmm_failed_get_package_text_color">#ffbcbcbc</color>
+    <color name="bqmm_keyboard_background_color">#fff6f6f6</color>
+    <color name="bqmm_keyboard_network_error_text_color">#ffbcbcbc</color>
+    <color name="bqmm_keyboard_shop_button_background_color">#ff36cab6</color>
+    <color name="bqmm_keyboard_shop_button_color">#ffffffff</color>
+    <color name="bqmm_pop_bg">#eeffffff</color>
+    <color name="bqmm_preload_button_background_color">#ff36cab6</color>
+    <color name="bqmm_preload_button_border_color">#ffffffff</color>
+    <color name="bqmm_preload_button_progress_background_color">#00000000</color>
+    <color name="bqmm_preload_button_progress_color">#ff36cab6</color>
+    <color name="bqmm_preload_button_text_color_download">#ffffffff</color>
+    <color name="bqmm_preload_button_text_color_downloading">#ffffffff</color>
+    <color name="bqmm_preload_covered_layout_background_color">#88000000</color>
+    <color name="bqmm_preload_package_name_text_color">#ffffffff</color>
+    <color name="bqmm_recommend_download_button_progress_background_color">#00000000</color>
+    <color name="bqmm_recommend_download_button_progress_color">#ff36cab6</color>
+    <color name="bqmm_refresh_button_background_color">#ffffffff</color>
+    <color name="bqmm_refresh_button_text_color">#ff36cab6</color>
+    <color name="bqmm_reload_button_background_color">#ffffffff</color>
+    <color name="bqmm_reload_button_border_color">#ffbcbcbc</color>
+    <color name="bqmm_reload_button_text_color">#ff36cab6</color>
+    <color name="bqmm_shop_network_error_text_color">#ffbcbcbc</color>
+    <color name="bqmm_sort_button_color">#ffffffff</color>
+    <color name="bqmm_sort_finish_button_color">#ff36cab6</color>
+    <color name="bqmm_tab_background_color">#ffffffff</color>
+    <color name="bqmm_tab_selected_color">#33bcbcbc</color>
+    <color name="bqmm_titlebar_bg">#ff2e2e2e</color>
+    <color name="bqmm_titletext_tc">#ffffffff</color>
+    <color name="bqmm_transparent">#00000000</color>
+    <color name="bqmm_ui_image_bg">#ffcfcfcf</color>
+    <color name="button_backgroud">#0195ff</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="color_03a9f4">#03a9f4</color>
+    <color name="color_040000">#040000</color>
+    <color name="color_087efb">#0865fb</color>
+    <color name="color_1bfd00">#1bfd00</color>
+    <color name="color_323232">#323232</color>
+    <color name="color_434343">#434343</color>
+    <color name="color_46a2fa">#46a2fa</color>
+    <color name="color_535353">#535353</color>
+    <color name="color_80b5b5b5">#80b5b5b5</color>
+    <color name="color_80c9c9c9">#80c9c9c9</color>
+    <color name="color_959595">#959595</color>
+    <color name="color_a0a0a0">#a0a0a0</color>
+    <color name="color_aaaaaa">#aaaaaa</color>
+    <color name="color_b5b5b5">#b5b5b5</color>
+    <color name="color_b7b7b7">#b7b7b7</color>
+    <color name="color_bg">#f1f1f3</color>
+    <color name="color_c9c9c9">#c9c9c9</color>
+    <color name="color_ededed">#ededed</color>
+    <color name="color_fed55a">#fed55a</color>
+    <color name="color_ff9893">#ff9893</color>
+    <color name="cs_evaluate_background_selected">#E3EEFF</color>
+    <color name="cs_evaluate_bottom_text_backgroud">#0e8cea</color>
+    <color name="cs_evaluate_dialog_divider">#eceef3</color>
+    <color name="cs_evaluate_edittext_background">#f1f3f5</color>
+    <color name="cs_evaluate_edittext_textcolor">#939dab</color>
+    <color name="cs_evaluate_text_border">#B4BDCB</color>
+    <color name="cs_evaluate_text_border_hover">#91BCFF</color>
+    <color name="cs_evaluate_text_color">#3c4d65</color>
+    <color name="cs_evaluate_text_selected">#4D8DF0</color>
+    <color name="cs_evaluate_text_unselected">#939DAB</color>
+    <color name="de_action_color">#3498DB</color>
+    <color name="de_action_white">@android:color/white</color>
+    <color name="de_actionbar_bg">#0195ff</color>
+    <color name="de_draft_color">#cb120f</color>
+    <color name="de_title_bg">#0195ff</color>
+    <color name="de_transparent">#00000000</color>
+    <color name="gray">#ababab</color>
+    <color name="group_list_black_textview">#353535</color>
+    <color name="group_list_gray">#999999</color>
+    <color name="group_list_liner">#e4e4e4</color>
+    <color name="hms_background">#f7f7f7</color>
+    <color name="hms_black">#000000</color>
+    <color name="ksw_md_ripple_normal">#1E000000</color>
+    <color name="ksw_md_solid_checked_disable">#aaaaaa</color>
+    <color name="ksw_md_solid_disable">#FFFFFF</color>
+    <color name="ksw_md_solid_normal">#ECECEC</color>
+    <color name="ksw_md_solid_shadow">#33000000</color>
+    <color name="main_regist">#ffffff</color>
+    <color name="main_theme_color">#0195ff</color>
+    <color name="main_title_backgroud">#F2F2F2</color>
+    <color name="mine_head_color">#cccccc</color>
+    <color name="navpage">#FFE1E8EB</color>
+    <color name="notification_action_color_filter">#ffffffff</color>
+    <color name="notification_icon_bg_color">#ff9e9e9e</color>
+    <color name="notification_material_background_media_default_color">#ff424242</color>
+    <color name="press">#e8e8e8</color>
+    <color name="primary_text_default_material_dark">#ffffffff</color>
+    <color name="rc_ad_file_list_no_select_file_text_state">#9fcdfd</color>
+    <color name="rc_ad_file_list_select_file_text_state">#ffffff</color>
+    <color name="rc_bg_speech_tv_bottom_normal">#fcfcfc</color>
+    <color name="rc_bg_speech_tv_bottom_pressed">#80d6d6d6</color>
+    <color name="rc_conversation_list_divider_color">#dfdfdd</color>
+    <color name="rc_conversation_top_bg">#f2faff</color>
+    <color name="rc_divider_color">#d9d9d9</color>
+    <color name="rc_divider_line">#ababad</color>
+    <color name="rc_draft_color">#cb120f</color>
+    <color name="rc_emoji_grid_item_bg">#ebebeb</color>
+    <color name="rc_extension_normal">#f4f4f6</color>
+    <color name="rc_gray">#ababab</color>
+    <color name="rc_input_bg">#F4F4F4</color>
+    <color name="rc_input_gap_color">#dbdbdd</color>
+    <color name="rc_location_text">#7F000000</color>
+    <color name="rc_main_theme">#0195ff</color>
+    <color name="rc_mentioned_color">#cc3333</color>
+    <color name="rc_message_user_name">#828282</color>
+    <color name="rc_normal_bg">#EBEBEB</color>
+    <color name="rc_notice_normal">#F0fffbd4</color>
+    <color name="rc_notice_text">#999999</color>
+    <color name="rc_notice_warning">#F0ffd0c4</color>
+    <color name="rc_notification_bg">#D3D3D3</color>
+    <color name="rc_picprev_toolbar_transparent">@color/rc_picsel_toolbar_transparent</color>
+    <color name="rc_picsel_catalog_shadow">#C0000000</color>
+    <color name="rc_picsel_grid_mask">#00000000</color>
+    <color name="rc_picsel_grid_mask_pressed">#80000000</color>
+    <color name="rc_picsel_toolbar">#393A3E</color>
+    <color name="rc_picsel_toolbar_send_disable">#3E7D2C</color>
+    <color name="rc_picsel_toolbar_send_normal">#45C018</color>
+    <color name="rc_picsel_toolbar_send_pressed">#3E7D2C</color>
+    <color name="rc_picsel_toolbar_send_text_disable">#AAAAAA</color>
+    <color name="rc_picsel_toolbar_send_text_normal">#FFFFFF</color>
+    <color name="rc_picsel_toolbar_transparent">#F0393A3E</color>
+    <color name="rc_plugins_bg">#F8F8F8</color>
+    <color name="rc_popup_dialog_list_divider_color">#dfdfdd</color>
+    <color name="rc_popup_dialog_prompt_cancel_color">#999999</color>
+    <color name="rc_popup_dialog_prompt_clear_color">#f43530</color>
+    <color name="rc_popup_dialog_prompt_ok_color">#0099ff</color>
+    <color name="rc_popup_dialog_text_color">#353535</color>
+    <color name="rc_read_receipt_status">#96c4ec</color>
+    <color name="rc_recognizerview_bg_normal">#f4f4f6</color>
+    <color name="rc_rich_content">#939393</color>
+    <color name="rc_rich_title">#262626</color>
+    <color name="rc_speech_tv">#999999</color>
+    <color name="rc_text_color_primary">#353535</color>
+    <color name="rc_text_color_primary_inverse">@android:color/white</color>
+    <color name="rc_text_color_secondary">#999999</color>
+    <color name="rc_text_color_secondary_inverse">@android:color/white</color>
+    <color name="rc_text_color_tertiary">#d7d7d7</color>
+    <color name="rc_text_voice">#737373</color>
+    <color name="rc_voice_cancel"> #CC933432</color>
+    <color name="rc_voice_color">#0195ff</color>
+    <color name="rc_voice_color_left">#4385bf</color>
+    <color name="rc_voice_color_right">#a2a2a2</color>
+    <color name="rc_voip_background_color">#262e42</color>
+    <color name="rc_voip_check_disable">#1f4a76</color>
+    <color name="rc_voip_check_enable">#0099ff</color>
+    <color name="rc_voip_reminder_shadow">#33000000</color>
+    <color name="rc_web_progress_bar">#9fcdfd</color>
+    <color name="red">#fe5c5c</color>
+    <color name="red_dark">#e54141</color>
+    <color name="red_trans">#88fe5c5c</color>
+    <color name="ripple_material_light">#1f000000</color>
+    <color name="seal_bg">#f0f0f6</color>
+    <color name="secondary_text_default_material_dark">#b3ffffff</color>
+    <color name="secondary_text_default_material_light">#8a000000</color>
+    <color name="text_black_color">#333333</color>
+    <color name="text_color">#353535</color>
+    <color name="text_line_color">#dfdfdd</color>
+    <color name="text_tips_color">#666666</color>
+    <color name="title_bar_color">#157efb</color>
+    <color name="title_bar_dark_color">#0665d6</color>
+    <color name="trans_title_bar_color">#88157efb</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <declare-styleable name="ActionBarView"><attr format="string" name="content"/><attr format="color" name="bankground"/><attr format="boolean" name="isBackFinish"/><attr format="reference" name="leftIcon"/></declare-styleable>
+    <declare-styleable name="AnimDownloadProgressButton"><attr format="float" name="progressbtn_radius"/><attr format="color" name="progressbtn_backgroud_color"/><attr format="color" name="progressbtn_backgroud_second_color"/><attr format="color" name="progressbtn_text_color"/><attr format="color" name="progressbtn_text_covercolor"/></declare-styleable>
+    <declare-styleable name="AsyncImageView"><attr format="dimension" name="RCMinShortSideSize"/><attr format="dimension" name="RCCornerRadius"/><attr format="boolean" name="RCMask"/><attr name="RCShape">
+            <flag name="square" value="0"/>
+            <flag name="circle" value="1"/>
+        </attr><attr format="reference" name="RCDefDrawable"/></declare-styleable>
+    <declare-styleable name="AutoLinkTextView"><attr format="dimension" name="RCMaxWidth"/></declare-styleable>
+    <declare-styleable name="CircleImageView"><attr format="dimension" name="civ_border_width"/><attr format="color" name="civ_border_color"/><attr format="boolean" name="civ_border_overlay"/><attr format="color" name="civ_fill_color"/></declare-styleable>
+    <declare-styleable name="CoordinatorLayout"><attr format="reference" name="keylines"/><attr format="color|reference" name="statusBarBackground"/></declare-styleable>
+    <declare-styleable name="CoordinatorLayout_Layout"><attr name="android:layout_gravity"/><attr format="string" name="layout_behavior"/><attr format="reference" name="layout_anchor"/><attr format="integer" name="layout_keyline"/><attr name="layout_anchorGravity">
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+        </attr><attr format="enum" name="layout_insetEdge">
+            
+            <enum name="none" value="0x0"/>
+            
+            <enum name="top" value="0x30"/>
+            
+            <enum name="bottom" value="0x50"/>
+            
+            <enum name="left" value="0x03"/>
+            
+            <enum name="right" value="0x05"/>
+            
+            <enum name="start" value="0x00800003"/>
+            
+            <enum name="end" value="0x00800005"/>
+        </attr><attr name="layout_dodgeInsetEdges">
+            
+            <flag name="none" value="0x0"/>
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+            
+            <flag name="all" value="0x77"/>
+        </attr></declare-styleable>
+    <declare-styleable name="CustomTheme"><attr format="reference" name="gifMoviewViewStyle"/></declare-styleable>
+    <declare-styleable name="FloatingLabelTextView"><attr format="string" name="validationMessage"/><attr format="string" name="hint"/><attr format="boolean" name="allowEmpty"/><attr format="enum" name="validatorType">
+            <enum name="alpha" value="0"/>
+            <enum name="numeric" value="1"/>
+            <enum name="alphaNumeric" value="2"/>
+            <enum name="email" value="3"/>
+            <enum name="phone" value="4"/>
+        </attr><attr format="integer" name="textSize"/></declare-styleable>
+    <declare-styleable name="FontFamily"><attr format="string" name="fontProviderAuthority"/><attr format="string" name="fontProviderPackage"/><attr format="string" name="fontProviderQuery"/><attr format="reference" name="fontProviderCerts"/><attr name="fontProviderFetchStrategy">
+            
+            <enum name="blocking" value="0"/>
+            
+            <enum name="async" value="1"/>
+        </attr><attr format="integer" name="fontProviderFetchTimeout">
+          
+            <enum name="forever" value="-1"/>
+        </attr></declare-styleable>
+    <declare-styleable name="FontFamilyFont"><attr name="fontStyle">
+            <enum name="normal" value="0"/>
+            <enum name="italic" value="1"/>
+        </attr><attr format="reference" name="font"/><attr format="integer" name="fontWeight"/><attr name="android:fontStyle"/><attr name="android:font"/><attr name="android:fontWeight"/></declare-styleable>
+    <declare-styleable name="GifMoviewView"><attr format="reference" name="gif"/><attr format="boolean" name="paused"/></declare-styleable>
+    <declare-styleable name="HorizontalListView"><attr format="dimension" name="dividerWidth"/><attr name="android:divider"/><attr name="android:requiresFadingEdge"/><attr name="android:fadingEdgeLength"/></declare-styleable>
+    <declare-styleable name="LoadingImageView"><attr format="enum" name="imageAspectRatioAdjust">
+            <enum name="none" value="0"/>
+            <enum name="adjust_width" value="1"/>
+            <enum name="adjust_height" value="2"/>
+        </attr><attr format="float" name="imageAspectRatio"/><attr format="boolean" name="circleCrop"/></declare-styleable>
+    <declare-styleable name="ProgressTextView"><attr format="reference" name="reachBarColor"/><attr format="reference" name="reachTextColor"/><attr format="reference" name="unReachBarColor"/><attr format="reference" name="unReachTextColor"/><attr format="float" name="progress"/></declare-styleable>
+    <declare-styleable name="ProgressWheel"><attr format="boolean" name="matProg_progressIndeterminate"/><attr format="color" name="matProg_barColor"/><attr format="color" name="matProg_rimColor"/><attr format="dimension" name="matProg_rimWidth"/><attr format="float" name="matProg_spinSpeed"/><attr format="integer" name="matProg_barSpinCycleTime"/><attr format="dimension" name="matProg_circleRadius"/><attr format="boolean" name="matProg_fillRadius"/><attr format="dimension" name="matProg_barWidth"/><attr format="boolean" name="matProg_linearProgress"/></declare-styleable>
+    <declare-styleable name="PullLayout"><attr format="dimension" name="pull_limit"/><attr format="boolean" name="support_over"/><attr name="hold_adjust_type">
+            <flag name="not_adjust" value="0"/>
+            <flag name="adjust_content" value="1"/>
+            <flag name="elasticity_adjust" value="2"/>
+        </attr></declare-styleable>
+    <declare-styleable name="RecyclerView"><attr format="string" name="layoutManager"/><attr name="android:orientation"/><attr name="android:descendantFocusability"/><attr format="integer" name="spanCount"/><attr format="boolean" name="reverseLayout"/><attr format="boolean" name="stackFromEnd"/><attr format="boolean" name="fastScrollEnabled"/><attr format="reference" name="fastScrollVerticalThumbDrawable"/><attr format="reference" name="fastScrollVerticalTrackDrawable"/><attr format="reference" name="fastScrollHorizontalThumbDrawable"/><attr format="reference" name="fastScrollHorizontalTrackDrawable"/></declare-styleable>
+    <declare-styleable name="RongExtension"><attr name="RCStyle">
+            <enum name="SCE" value="0x123"/>
+            <enum name="SC" value="0x120"/>
+            <enum name="EC" value="0x320"/>
+            <enum name="CE" value="0x023"/>
+            <enum name="C" value="0x020"/>
+        </attr></declare-styleable>
+    <declare-styleable name="Ry_CircleImageView"><attr format="dimension" name="ry_civ_border_width"/><attr format="color" name="ry_civ_border_color"/><attr format="boolean" name="ry_civ_border_overlay"/><attr format="color" name="ry_civ_fill_color"/></declare-styleable>
+    <declare-styleable name="SelectableRoundedImageView"><attr format="dimension" name="sriv_left_top_corner_radius"/><attr format="dimension" name="sriv_right_top_corner_radius"/><attr format="dimension" name="sriv_left_bottom_corner_radius"/><attr format="dimension" name="sriv_right_bottom_corner_radius"/><attr format="dimension" name="sriv_border_width"/><attr format="color" name="sriv_border_color"/><attr format="boolean" name="sriv_oval"/><attr name="android:scaleType"/></declare-styleable>
+    <declare-styleable name="SwitchButton"><attr format="reference" name="kswThumbDrawable"/><attr format="color|reference" name="kswThumbColor"/><attr format="dimension|reference" name="kswThumbMargin"/><attr format="dimension|reference" name="kswThumbMarginTop"/><attr format="dimension|reference" name="kswThumbMarginBottom"/><attr format="dimension|reference" name="kswThumbMarginLeft"/><attr format="dimension|reference" name="kswThumbMarginRight"/><attr format="dimension|reference" name="kswThumbWidth"/><attr format="dimension|reference" name="kswThumbHeight"/><attr format="dimension|reference" name="kswThumbRadius"/><attr format="dimension|reference" name="kswBackRadius"/><attr format="reference" name="kswBackDrawable"/><attr format="color|reference" name="kswBackColor"/><attr format="boolean" name="kswFadeBack"/><attr format="float" name="kswBackMeasureRatio"/><attr format="integer" name="kswAnimationDuration"/><attr format="color|reference" name="kswTintColor"/><attr format="string" name="kswTextOn"/><attr format="string" name="kswTextOff"/><attr format="dimension" name="kswTextMarginH"/></declare-styleable>
+    <declare-styleable name="SwitchGroup"><attr name="orientation1">
+            <flag name="horizontal" value="0"/>
+            <flag name="vertical" value="1"/>
+        </attr><attr format="reference" name="pinned_view1"/><attr format="reference" name="pinned_item1"/><attr format="reference" name="pinned_item_array1"/></declare-styleable>
+    <declare-styleable name="W_CircleImageView"><attr format="dimension" name="w_civ_border_width"/><attr format="color" name="w_civ_border_color"/><attr format="boolean" name="w_civ_border_overlay"/><attr format="color" name="w_civ_fill_color"/></declare-styleable>
+    <declare-styleable name="W_FloatingLabelTextView"><attr format="string" name="w_validationMessage"/><attr format="string" name="w_hintText"/><attr format="boolean" name="w_allowEmpty"/><attr format="enum" name="w_validatorType">
+            <enum name="alpha" value="0"/>
+            <enum name="numeric" value="1"/>
+            <enum name="alphaNumeric" value="2"/>
+            <enum name="email" value="3"/>
+            <enum name="phone" value="4"/>
+        </attr><attr format="integer" name="w_textSize"/></declare-styleable>
+    <declare-styleable name="W_GridPasswordView"><attr format="color|reference" name="w_gpvTextColor"/><attr format="dimension" name="w_gpvTextSize"/><attr format="color" name="w_gpvLineColor"/><attr format="color" name="w_gpvGridColor"/><attr format="dimension" name="w_gpvLineWidth"/><attr format="integer" name="w_gpvPasswordLength"/><attr format="string" name="w_gpvPasswordTransformation"/><attr format="enum" name="w_gpvPasswordType">
+            <enum name="numberPassword" value="0"/>
+            <enum name="textPassword" value="1"/>
+            <enum name="textVisiblePassword" value="2"/>
+            <enum name="textWebPassword" value="3"/>
+        </attr></declare-styleable>
+    <declare-styleable name="W_TitleBar"><attr format="color|reference" name="w_backgroud"/><attr format="dimension" name="w_title_size"/><attr format="color|reference" name="w_title_color"/></declare-styleable>
+    <declare-styleable name="gridPasswordView"><attr format="color|reference" name="gpvTextColor"/><attr format="dimension" name="gpvTextSize"/><attr format="color" name="gpvLineColor"/><attr format="color" name="gpvGridColor"/><attr format="dimension" name="gpvLineWidth"/><attr format="integer" name="gpvPasswordLength"/><attr format="string" name="gpvPasswordTransformation"/><attr format="enum" name="gpvPasswordType"><enum name="numberPassword" value="0"/><enum name="textPassword" value="1"/><enum name="textVisiblePassword" value="2"/><enum name="textWebPassword" value="3"/></attr></declare-styleable>
+    <dimen name="actionbar_height">56dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="base_margin">16dip</dimen>
+    <dimen name="base_margin2">16dp</dimen>
+    <dimen name="base_padding">16dip</dimen>
+    <dimen name="base_padding2">16dip</dimen>
+    <dimen name="bqmm_keyboard_network_error_text_size">18sp</dimen>
+    <dimen name="bqmm_preload_package_name_text_size">18sp</dimen>
+    <dimen name="bqmm_refresh_button_text_size">14sp</dimen>
+    <dimen name="bqmm_reload_button_text_size">14sp</dimen>
+    <dimen name="bqmm_shop_network_error_text_size">18sp</dimen>
+    <dimen name="bqmm_sort_button_text_size">20sp</dimen>
+    <dimen name="bqmm_title_text_size">19sp</dimen>
+    <dimen name="bqmm_titlebar_height">55dip</dimen>
+    <dimen name="btn_height">44dp</dimen>
+    <dimen name="btn_radius">5dip</dimen>
+    <dimen name="compat_button_inset_horizontal_material">4dp</dimen>
+    <dimen name="compat_button_inset_vertical_material">6dp</dimen>
+    <dimen name="compat_button_padding_horizontal_material">8dp</dimen>
+    <dimen name="compat_button_padding_vertical_material">4dp</dimen>
+    <dimen name="compat_control_corner_material">2dp</dimen>
+    <dimen name="contactcard_dimen_size_3">3dp</dimen>
+    <dimen name="de_conversation_item_data_size">14sp</dimen>
+    <dimen name="de_conversation_item_name_size">16sp</dimen>
+    <dimen name="de_message_send_status_image_size">17dp</dimen>
+    <dimen name="fastscroll_default_thickness">8dp</dimen>
+    <dimen name="fastscroll_margin">0dp</dimen>
+    <dimen name="fastscroll_minimum_range">50dp</dimen>
+    <dimen name="half_base_margin">8dip</dimen>
+    <dimen name="half_base_padding">8dip</dimen>
+    <dimen name="hms_dialog_padding">15dp</dimen>
+    <dimen name="hms_textview_jump_size">14sp</dimen>
+    <dimen name="input_height">48dip</dimen>
+    <dimen name="item_mywallet_height">48dp</dimen>
+    <dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen>
+    <dimen name="item_touch_helper_swipe_escape_max_velocity">800dp</dimen>
+    <dimen name="item_touch_helper_swipe_escape_velocity">120dp</dimen>
+    <dimen name="item_trade_detail_height">80dp</dimen>
+    <dimen name="jrmf_dimen_4">4dip</dimen>
+    <dimen name="ksw_md_thumb_ripple_size">42dp</dimen>
+    <dimen name="ksw_md_thumb_shadow_inset">11dp</dimen>
+    <dimen name="ksw_md_thumb_shadow_inset_bottom">10dp</dimen>
+    <dimen name="ksw_md_thumb_shadow_inset_top">11dp</dimen>
+    <dimen name="ksw_md_thumb_solid_inset">11dp</dimen>
+    <dimen name="notification_action_icon_size">32dp</dimen>
+    <dimen name="notification_action_text_size">13sp</dimen>
+    <dimen name="notification_big_circle_margin">12dp</dimen>
+    <dimen name="notification_content_margin_start">8dp</dimen>
+    <dimen name="notification_large_icon_height">64dp</dimen>
+    <dimen name="notification_large_icon_width">64dp</dimen>
+    <dimen name="notification_main_column_padding_top">10dp</dimen>
+    <dimen name="notification_media_narrow_margin">@dimen/notification_content_margin_start</dimen>
+    <dimen name="notification_right_icon_size">16dp</dimen>
+    <dimen name="notification_right_side_padding_top">2dp</dimen>
+    <dimen name="notification_small_icon_background_padding">3dp</dimen>
+    <dimen name="notification_small_icon_size_as_large">24dp</dimen>
+    <dimen name="notification_subtext_size">13sp</dimen>
+    <dimen name="notification_top_pad">10dp</dimen>
+    <dimen name="notification_top_pad_large_text">5dp</dimen>
+    <dimen name="rc_conversation_item_data_size">14sp</dimen>
+    <dimen name="rc_conversation_item_name_size">16sp</dimen>
+    <dimen name="rc_conversation_item_time_size">13sp</dimen>
+    <dimen name="rc_dimen_size_18">18dp</dimen>
+    <dimen name="rc_dimen_size_24">24dp</dimen>
+    <dimen name="rc_dimen_size_3">3dp</dimen>
+    <dimen name="rc_dimen_size_40">40dp</dimen>
+    <dimen name="rc_dimen_size_44">44dp</dimen>
+    <dimen name="rc_dimen_size_5">5dp</dimen>
+    <dimen name="rc_dimen_size_50">50dp</dimen>
+    <dimen name="rc_dimen_size_7">7dp</dimen>
+    <dimen name="rc_dimen_size_9">9dp</dimen>
+    <dimen name="rc_extension_board_height">282dp</dimen>
+    <dimen name="rc_popup_dialog_distance_to_edge">40dp</dimen>
+    <dimen name="round_radius">6dip</dimen>
+    <dimen name="title_bar_text_size">17sp</dimen>
+    <dimen name="titlebar_height">56dp</dimen>
+    <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
+    <drawable name="notification_template_icon_low_bg">#0cffffff</drawable>
+    <item name="item_touch_helper_previous_elevation" type="id"/>
+    <item name="line1" type="id"/>
+    <item name="line3" type="id"/>
+    <item name="rc_actionbar" type="id"/>
+    <item name="rc_back" type="id"/>
+    <item name="rc_btn_cancel" type="id"/>
+    <item name="rc_btn_ok" type="id"/>
+    <item name="rc_checkbox" type="id"/>
+    <item name="rc_content" type="id"/>
+    <item name="rc_conversation_content" type="id"/>
+    <item name="rc_conversation_msg_block" type="id"/>
+    <item name="rc_conversation_status" type="id"/>
+    <item name="rc_conversation_time" type="id"/>
+    <item name="rc_conversation_title" type="id"/>
+    <item name="rc_edit_text" type="id"/>
+    <item name="rc_fragment" type="id"/>
+    <item name="rc_frame" type="id"/>
+    <item name="rc_icon" type="id"/>
+    <item name="rc_img" type="id"/>
+    <item name="rc_input_extension" type="id"/>
+    <item name="rc_input_main" type="id"/>
+    <item name="rc_input_switch" type="id"/>
+    <item name="rc_item0" type="id"/>
+    <item name="rc_item1" type="id"/>
+    <item name="rc_item2" type="id"/>
+    <item name="rc_item3" type="id"/>
+    <item name="rc_item4" type="id"/>
+    <item name="rc_item5" type="id"/>
+    <item name="rc_item6" type="id"/>
+    <item name="rc_item7" type="id"/>
+    <item name="rc_item8" type="id"/>
+    <item name="rc_item9" type="id"/>
+    <item name="rc_item_conversation" type="id"/>
+    <item name="rc_layout" type="id"/>
+    <item name="rc_layout_msg_list" type="id"/>
+    <item name="rc_left" type="id"/>
+    <item name="rc_list" type="id"/>
+    <item name="rc_logo" type="id"/>
+    <item name="rc_message_send_failed" type="id"/>
+    <item name="rc_msg" type="id"/>
+    <item name="rc_new" type="id"/>
+    <item name="rc_pager" type="id"/>
+    <item name="rc_portrait" type="id"/>
+    <item name="rc_portrait_right" type="id"/>
+    <item name="rc_progress" type="id"/>
+    <item name="rc_read_receipt" type="id"/>
+    <item name="rc_read_receipt_request" type="id"/>
+    <item name="rc_read_receipt_status" type="id"/>
+    <item name="rc_right" type="id"/>
+    <item name="rc_send" type="id"/>
+    <item name="rc_sent_status" type="id"/>
+    <item name="rc_time" type="id"/>
+    <item name="rc_title" type="id"/>
+    <item name="rc_title_layout" type="id"/>
+    <item name="rc_txt" type="id"/>
+    <item name="rc_unread_message" type="id"/>
+    <item name="rc_unread_message_right" type="id"/>
+    <item name="rc_user_name" type="id"/>
+    <item name="rc_user_portrait" type="id"/>
+    <item name="rc_warning" type="id"/>
+    <item name="tag_transition_group" type="id"/>
+    <item name="text" type="id"/>
+    <item name="text2" type="id"/>
+    <item name="title" type="id"/>
+    <item name="titleBar" type="id"/>
+    <integer name="cancel_button_image_alpha">127</integer>
+    <integer name="google_play_services_version">8298000</integer>
+    <integer name="rc_audio_encoding_bit_rate">7950</integer>
+    <integer name="rc_chatroom_first_pull_message_count">10</integer>
+    <integer name="rc_custom_service_evaluation_interval">60</integer>
+    <integer name="rc_extension_emoji_count_per_page">20</integer>
+    <integer name="rc_extension_plugin_count_per_page">8</integer>
+    <integer name="rc_image_quality">85</integer>
+    <integer name="rc_image_size">960</integer>
+    <integer name="rc_message_recall_interval">180</integer>
+    <integer name="rc_read_receipt_request_interval">120</integer>
+    <integer name="status_bar_notification_info_maxnum">999</integer>
+    <string name="Done">完成</string>
+    <string name="Illegal_phone_number">非法手机号</string>
+    <string name="Login">登录</string>
+    <string name="No_friends">暂无好友</string>
+    <string name="Search">搜索</string>
+    <string name="_bribery_message">恭喜发财，大吉大利！</string>
+    <string name="_de_dialog_item_message_delete">删除消息</string>
+    <string name="_s_bribery">红包</string>
+    <string name="ac_about_sdk_version">SDK 版本</string>
+    <string name="ac_about_seal_talk_version">SealTalk 版本</string>
+    <string name="ac_about_shut_down_debug_mode">关闭debug模式</string>
+    <string name="ac_contact_nick_name">昵称:</string>
+    <string name="ac_detail_discussion_clear_messages">清空聊天信息</string>
+    <string name="ac_detail_discussion_delete_and_quit_discussion">删除并退出讨论组</string>
+    <string name="ac_detail_discussion_dismiss_group">解散群组</string>
+    <string name="ac_detail_discussion_group_display_name">群组昵称</string>
+    <string name="ac_detail_discussion_member_size">讨论组成员()</string>
+    <string name="ac_detail_discussion_no">无</string>
+    <string name="ac_detail_discussion_start_chat">发起聊天</string>
+    <string name="ac_detail_discussion_start_group_conversation">开启群组会话</string>
+    <string name="ac_group_list_group_number">%1$d个群组</string>
+    <string name="ac_item_friend_nick_name">昵称:%1$s</string>
+    <string name="ac_new_friend_list_no_data">暂无数据</string>
+    <string name="ac_note_info">备注信息</string>
+    <string name="ac_note_info_name">备注名</string>
+    <string name="ac_note_info_save">保存</string>
+    <string name="ac_search_chat_detail">共%1$d条与</string>
+    <string name="ac_search_chat_detail_one">共</string>
+    <string name="ac_search_chat_detail_three">相关的聊天记录</string>
+    <string name="ac_search_chat_detail_two">条与</string>
+    <string name="ac_search_chat_title">聊天记录</string>
+    <string name="ac_search_chatting_records">聊天记录</string>
+    <string name="ac_search_friend">联系人</string>
+    <string name="ac_search_group">群组</string>
+    <string name="ac_search_more_chatting_records">查看更多聊天记录</string>
+    <string name="ac_search_more_friend">查看更多联系人</string>
+    <string name="ac_search_more_group">查看更多群组</string>
+    <string name="ac_search_nick_name">昵称： </string>
+    <string name="ac_search_no_result">没有搜索到%1$s相关的会话</string>
+    <string name="ac_search_no_result_pre">没有搜到</string>
+    <string name="ac_search_no_result_suffix">相关的信息</string>
+    <string name="ac_search_phone_number">手机号</string>
+    <string name="ac_select_friend">选择联系人</string>
+    <string name="ac_select_friend_sure">确定</string>
+    <string name="ac_share_receiver_from">来自：%1$s</string>
+    <string name="account_info_title">账户信息</string>
+    <string name="account_net_error">当前网络不佳，获取账户信息失败</string>
+    <string name="account_setting">账号设置</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_detail_discussion_not_disturb">消息免打扰</string>
+    <string name="activity_detail_discussion_to_top">置顶</string>
+    <string name="add_card_pay">添加银行卡支付</string>
+    <string name="add_card_suc">银行卡添加成功</string>
+    <string name="add_contacts">添加好友</string>
+    <string name="add_friend">加为好友</string>
+    <string name="add_group_member">添加群组成员</string>
+    <string name="add_select_group">创建群组</string>
+    <string name="add_success">加入成功</string>
+    <string name="add_successful">添加成功</string>
+    <string name="add_text">加好友信息...</string>
+    <string name="added">已添加</string>
+    <string name="agree">接   受</string>
+    <string name="agreed_friend">已同意好友关系</string>
+    <string name="alipay">支付宝支付</string>
+    <string name="all_group_member">全部群成员</string>
+    <string name="app_name">SealTalk</string>
+    <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
+    <string name="auth_google_play_services_client_google_display_name">Google</string>
+    <string name="bind_card_suss">银行卡绑定成功</string>
+    <string name="black_state">黑名单状态</string>
+    <string name="blacklist_empty">黑名单为空</string>
+    <string name="bqmm_delete_package_text">删除中...</string>
+    <string name="bqmm_delete_package_text_en">deleting...</string>
+    <string name="bqmm_downloaded"> %s %%</string>
+    <string name="bqmm_downloaded_en"> %s %%</string>
+    <string name="bqmm_failed_get_package_text">获取表情包信息失败</string>
+    <string name="bqmm_failed_get_package_text_en">Failed to get sticker pack</string>
+    <string name="bqmm_keyboard_network_error_text">表情键盘初始化失败，请检查网络后重试</string>
+    <string name="bqmm_keyboard_network_error_text_en">Initialize failed, please check your network and connect later</string>
+    <string name="bqmm_rc_dialog_item_message_delete">删除消息</string>
+    <string name="bqmm_rc_dialog_item_message_recall">撤回消息</string>
+    <string name="bqmm_refresh_button_text">点击刷新</string>
+    <string name="bqmm_refresh_button_text_en">Try Again</string>
+    <string name="bqmm_reload_button_text">重新加载</string>
+    <string name="bqmm_reload_button_text_en">Reload</string>
+    <string name="bqmm_shop_network_error_text">页面加载失败，请检查网络后重试</string>
+    <string name="bqmm_shop_network_error_text_en">Loading failed, please check your network and connect later</string>
+    <string name="browser_download">浏览器打开</string>
+    <string name="btn_pay">立即支付</string>
+    <string name="btn_put">塞钱进红包</string>
+    <string name="can_not_add_yourself">自己不能添加自己为好友</string>
+    <string name="cancel">取消</string>
+    <string name="captcha_overdue">验证码过期,请重新请求</string>
+    <string name="card_des">尾号(%1$s)</string>
+    <string name="card_id_error">银行卡编号错误</string>
+    <string name="card_limit">该卡本次最多可提现%1$s元</string>
+    <string name="card_name_tip">请用%1$s名下银行储蓄卡</string>
+    <string name="card_num_empty">银行卡号不能为空</string>
+    <string name="card_num_error">请输入正确银行卡号</string>
+    <string name="card_recharge_limit">该卡本次最多可充值%1$s元</string>
+    <string name="cardname_card_des">%1$s(%2$s)</string>
+    <string name="change_group_info">更改群组信息</string>
+    <string name="change_group_name">修改群名称为</string>
+    <string name="change_password">密码修改</string>
+    <string name="charge">手续费%1$s元</string>
+    <string name="charge_tip_dialog">本次提现将从您所提金额内扣除%1$s元手续费</string>
+    <string name="chat">会话</string>
+    <string name="chatroom">聊天室</string>
+    <string name="chatroom1">聊天室 I</string>
+    <string name="chatroom2">聊天室 II</string>
+    <string name="chatroom3">聊天室 III</string>
+    <string name="chatroom4">聊天室 IV</string>
+    <string name="check_network">请检查网络</string>
+    <string name="clean_discussion_chat_history">确定删除讨论组聊天记录吗</string>
+    <string name="clean_group_chat_history">确定删除群聊天记录吗</string>
+    <string name="clean_history">是否清除会话聊天记录?</string>
+    <string name="clean_message">清除聊天记录</string>
+    <string name="clean_private_chat_history">确定删除聊天记录吗</string>
+    <string name="clear_cache">清除缓存</string>
+    <string name="clear_failure">清除失败</string>
+    <string name="clear_success">清除成功</string>
+    <string name="code">短信验证码</string>
+    <string name="code_is_null">验证码为空</string>
+    <string name="common_android_wear_notification_needs_update_text"><ns1:g id="app_name">%1$s</ns1:g> requires an update to the Android Wear app.</string>
+    <string name="common_android_wear_update_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run unless you update the Android Wear app.</string>
+    <string msgid="6006316683626838685" name="common_android_wear_update_title">Update Android Wear</string>
+    <string name="common_google_play_services_api_unavailable_text"><ns1:g id="app_name">%1$s</ns1:g> requires one or more Google Play services that are not currently available. Please contact the developer for assistance.</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t work unless you enable Google Play services.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Requested by <ns1:g id="app_name">%1$s</ns1:g></string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Get Google Play services</string>
+    <string msgid="2122112764540849864" name="common_google_play_services_install_text_phone"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are missing from your phone.</string>
+    <string msgid="7351599665250191022" name="common_google_play_services_install_text_tablet"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are missing from your tablet.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_needs_enabling_title">An application requires Google Play services to be enabled.</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_notification_needs_update_title">An application requires an update for Google Play services.</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_sign_in_failed_text">Error signing in the specified account. Please choose a different account.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Sign in failed</string>
+    <string name="common_google_play_services_unknown_issue">Unknown issue with Google Play services.</string>
+    <string name="common_google_play_services_unsupported_text"><ns1:g id="app_name">%1$s</ns1:g> relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Update</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run unless you update Google Play services.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are currently updating.</string>
+    <string name="common_google_play_services_updating_title">Google Play services are updating</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="confirm">确认</string>
+    <string name="confirm_dismiss_group">确认解散群组?</string>
+    <string name="confirm_new_password">确认新密码</string>
+    <string name="confirm_password">确认密码</string>
+    <string name="confirm_password_not_null">确认密码不能为空</string>
+    <string name="confirm_quit_group">确认退出群组?</string>
+    <string name="contact_notification_agree_your_request">对方已同意你的好友请求</string>
+    <string name="contact_notification_someone_agree_your_request">%1$s已同意你的好友请求</string>
+    <string name="contacts">通讯录</string>
+    <string name="create_group">创建群组</string>
+    <string name="create_group_success">群组创建成功</string>
+    <string name="created_group">创建了群组</string>
+    <string name="cs_evaluate_input_must">必须输入建议</string>
+    <string name="cs_evaluate_problem_title">存在哪些问题</string>
+    <string name="cs_evaluate_resolved">已解决</string>
+    <string name="cs_evaluate_resolved_title">请问客服是否解决了您的问题</string>
+    <string name="cs_evaluate_select_must">必选</string>
+    <string name="cs_evaluate_star_title">请您对客服进行评价</string>
+    <string name="cs_evaluate_tag_must">必须选择标签</string>
+    <string name="cs_evaluate_unresolved">未解决</string>
+    <string name="cs_evaluation">评价</string>
+    <string name="cs_submit_evaluation">提交评价</string>
+    <string name="current_password">原密码</string>
+    <string name="de_actionbar_myacc">"个人账号"</string>
+    <string name="de_actionbar_set_public">"公众号"</string>
+    <string name="de_actionbar_sub_defult">"聊天"</string>
+    <string name="de_actionbar_sub_discussion">"我的讨论组"</string>
+    <string name="de_actionbar_sub_group">"群组"</string>
+    <string name="de_actionbar_sub_private">"我的私人会话"</string>
+    <string name="de_actionbar_sub_system">"系统消息"</string>
+    <string name="de_actionbar_system">"系统消息"</string>
+    <string name="de_dialog_item_message_delete">删除消息</string>
+    <string name="de_group_list_default_discussion_name">讨论组</string>
+    <string name="de_item_delete_friend">"删除"</string>
+    <string name="de_message_at_me">[有人@我]</string>
+    <string name="de_message_content_draft">[草稿]</string>
+    <string name="de_notification_end">结束时间</string>
+    <string name="de_notification_information">开启后，在设定时间段内收到新消息时不会响铃或振动。</string>
+    <string name="de_notification_start">开始时间</string>
+    <string name="de_save">"保存"</string>
+    <string name="del_card_des">删除尾号为%1$s的银行卡</string>
+    <string name="deleted">已删除</string>
+    <string name="deposit_fee_tip">提示：本次提现需要收取%1$s元手续费，提现结果会以短信形式发送到您的银行卡预留手机号上</string>
+    <string name="deposit_money">提现%1$s元</string>
+    <string name="deposit_tip">提示：使用无手续费提现时，如选择的支行信息与提现至的银行卡不一致，会导致提现失败。
+        提现结果会以短信形式发送到您的银行卡预留手机号上。</string>
+    <string name="des_add_friend_to_black_list">你将不再收到对方的消息</string>
+    <string name="dialog_bottom_import_from_local">从本地导入</string>
+    <string name="dialog_bottom_picture">拍照</string>
+    <string name="discover">发现</string>
+    <string name="dismiss_group">解散并退出</string>
+    <string name="dismiss_groups">解散了群组</string>
+    <string name="dismiss_success">解散成功</string>
+    <string name="divided_string">、</string>
+    <string name="downloading_apk">正在后台下载...</string>
+    <string name="dv_document">开发者文档</string>
+    <string name="edit_group_name">填写群名称(2-10字)</string>
+    <string name="edit_phone">请输入 11 位手机号</string>
+    <string name="empty_group_notice">请编辑群公告</string>
+    <string name="exit_app">确定退出应用?</string>
+    <string name="exit_login">退出登录</string>
+    <string name="fetching">获取中……</string>
+    <string name="forget_password">忘记密码</string>
+    <string name="forget_pwd">重置支付密码</string>
+    <string name="forgot_password">找回密码</string>
+    <string name="fr_chat_room">聊天室</string>
+    <string name="fr_chat_room_four">聊天室 IV</string>
+    <string name="fr_chat_room_join_failure">加入聊天室失败</string>
+    <string name="fr_chat_room_one">聊天室 I</string>
+    <string name="fr_chat_room_three">聊天室 III</string>
+    <string name="fr_chat_room_two">聊天室 II</string>
+    <string name="fr_group_list_not_join_the_group">暂未加入群组</string>
+    <string name="friend_confirmation">加我好友时需要验证</string>
+    <string name="function_introduce">功能介绍</string>
+    <string name="gcm_defaultSenderId" translatable="false">396364826160</string>
+    <string name="geographical_position">地理位置</string>
+    <string name="get_code">获取验证码</string>
+    <string name="get_deposit_low">您的金额不足以支付手续费</string>
+    <string name="get_deposit_over">提现金额超限</string>
+    <string name="get_pwd_title">找回支付密码</string>
+    <string name="get_token_api_fail">获取token请求接口失败</string>
+    <string name="google_app_id" translatable="false">1:396364826160:android:a10a4a74ea61b328</string>
+    <string name="group">群组</string>
+    <string name="group_announcement">群公告</string>
+    <string name="group_chat">创建群组</string>
+    <string name="group_code">群二维码</string>
+    <string name="group_create_api_fail">群组创建接口请求失败</string>
+    <string name="group_header_api_fail">群组头像接口请求失败</string>
+    <string name="group_info">群组信息</string>
+    <string name="group_member_online_status">群成员在线状态</string>
+    <string name="group_member_size">全部群成员</string>
+    <string name="group_name">群名称</string>
+    <string name="group_name_not_is_null">群组昵称不能为空</string>
+    <string name="group_name_size_is_one">群名称不少于2个字</string>
+    <string name="group_notice_exist_confirm">退出本次编辑</string>
+    <string name="group_notice_post_confirm">该公告会通知全部群成员，是否发布？</string>
+    <string name="group_notice_prefix">\@所有人\n</string>
+    <string name="group_number">本群共%1$d人</string>
+    <string name="group_portrait">群头像</string>
+    <string name="groups">群聊</string>
+    <string name="has_grab_rp">您已领取过该红包</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hms_abort">Stop</string>
+    <string name="hms_abort_message">Stop downloading?</string>
+    <string name="hms_cancel">Cancel</string>
+    <string name="hms_check_failure">Failed to check for updates.</string>
+    <string name="hms_check_no_update">You are already using the latest version.</string>
+    <string name="hms_checking">Checking for updates…</string>
+    <string name="hms_confirm">OK</string>
+    <string name="hms_download_failure">Failed to download Huawei Mobile Services package.</string>
+    <string name="hms_download_no_space">Not enough free space. Download cannot be completed.</string>
+    <string name="hms_download_retry">Download failed. Try again?</string>
+    <string name="hms_downloading">Downloading Huawei Mobile Services\nprogress: %d%%</string>
+    <string name="hms_install">Install</string>
+    <string name="hms_install_message">Huawei Mobile Services must be installed to use this feature. Install?</string>
+    <string name="hms_retry">Retry</string>
+    <string name="hms_update">Update</string>
+    <string name="hms_update_message">Update to the latest version of Huawei Mobile Services to use this feature. Update now?</string>
+    <string name="hms_update_title">Huawei Mobile Services</string>
+    <string name="i_know">知道了</string>
+    <string name="id_card_error">请输入正确的身份证号</string>
+    <string name="idcard_tip">请输入正确的身份证号</string>
+    <string name="ignore">已忽略</string>
+    <string name="imac_online">iMac 在线</string>
+    <string name="input_amount_error">请输入正确的提现金额</string>
+    <string name="input_code">请输入短信验证码</string>
+    <string name="input_code_error">请输入正确的验证码</string>
+    <string name="input_pwd">请输入支付密码</string>
+    <string name="input_recharge_amount_hint">请输入充值金额</string>
+    <string name="input_recharge_amount_toast">请输入充值金额</string>
+    <string name="input_verify_code">请输入您%1$s手机号收到的验证码</string>
+    <string name="input_verify_code_title">请输入短信验证码</string>
+    <string name="invitation">邀请</string>
+    <string name="ipad_online">iPad在线</string>
+    <string name="item_filter_group_list_include">包含：</string>
+    <string name="join_chat_room_error_toast">聊天室ID为空,请稍后重试</string>
+    <string name="join_group">加入了群组</string>
+    <string name="join_the_blacklist">加入黑名单</string>
+    <string name="jrmf_IDCard">身份证</string>
+    <string name="jrmf_IDCard_num">身份证号</string>
+    <string name="jrmf_abandon">放弃</string>
+    <string name="jrmf_account_balance">账户余额</string>
+    <string name="jrmf_add_bank_card">+添加银行卡</string>
+    <string name="jrmf_add_bank_card_title">添加银行卡</string>
+    <string name="jrmf_auth_tip">请填写证件号码完成身份验证</string>
+    <string name="jrmf_auth_title">实名认证</string>
+    <string name="jrmf_bank_card_ID_num">持卡人身份证号</string>
+    <string name="jrmf_bank_card_setting">银行卡设置</string>
+    <string name="jrmf_card_list"> 银行卡列表</string>
+    <string name="jrmf_charge">手续费</string>
+    <string name="jrmf_check_code">验证短信验证码</string>
+    <string name="jrmf_confirm">确定</string>
+    <string name="jrmf_confirm_new_pwd">确认新密码</string>
+    <string name="jrmf_confirm_payment_pwd">确认支付密码</string>
+    <string name="jrmf_confirm_pwd_hint">请再次输入支付密码</string>
+    <string name="jrmf_confirm_submit">确认提交</string>
+    <string name="jrmf_confirm_submit2">确认提交</string>
+    <string name="jrmf_deposit_all">全部提现</string>
+    <string name="jrmf_deposit_amount">提现金额</string>
+    <string name="jrmf_deposit_amount_format_error">金额格式错误</string>
+    <string name="jrmf_deposit_receive_time">到账时间</string>
+    <string name="jrmf_deposit_success">提现成功</string>
+    <string name="jrmf_done">完成</string>
+    <string name="jrmf_first_get_verify_code">请先获取验证码</string>
+    <string name="jrmf_forget_pwd">忘记密码</string>
+    <string name="jrmf_ge">个</string>
+    <string name="jrmf_get_deposit">提现</string>
+    <string name="jrmf_get_deposit_free">无手续费提现</string>
+    <string name="jrmf_get_other_rp">你领取了%1$s的红包</string>
+    <string name="jrmf_get_self_rp">你领取了自己的红包</string>
+    <string name="jrmf_get_self_rp_and_done">你领取了自己的红包，你的红包已被领完</string>
+    <string name="jrmf_go_bind_card"> 去绑卡</string>
+    <string name="jrmf_input_IDCard_num">请输入身份证号</string>
+    <string name="jrmf_input_IDCard_num2">请输入身份证号</string>
+    <string name="jrmf_input_IDCard_num_hint">请输入身份证号</string>
+    <string name="jrmf_input_bank_card_num">请输入银行卡号</string>
+    <string name="jrmf_input_card_num">银行卡号</string>
+    <string name="jrmf_input_card_num2">银行卡号</string>
+    <string name="jrmf_input_new_pwd">请输入6位新密码</string>
+    <string name="jrmf_input_new_pwd_confirm">请重新输入6位新支付密码</string>
+    <string name="jrmf_input_phone_hint">银行预留手机号</string>
+    <string name="jrmf_input_phone_hint2">银行预留手机号</string>
+    <string name="jrmf_input_pwd_check_identity">请输入支付密码，以验证身份</string>
+    <string name="jrmf_input_sub_branch">输入支行</string>
+    <string name="jrmf_input_sub_branch_hint">请输入支行</string>
+    <string name="jrmf_input_username_hint">请填写完整姓名</string>
+    <string name="jrmf_input_verify_code">请输入手机尾号%1$s接收的短信验证码</string>
+    <string name="jrmf_inupt_phone_num">请输入手机号</string>
+    <string name="jrmf_load_fail">加载失败，点击重试</string>
+    <string name="jrmf_look_others">看看大家的手气</string>
+    <string name="jrmf_look_support_bank_cards">查看支持的银行卡</string>
+    <string name="jrmf_money_yuan">%1$s元</string>
+    <string name="jrmf_money_yuan2">元</string>
+    <string name="jrmf_money_yuan3">%1$s元</string>
+    <string name="jrmf_my_balance">我的零钱</string>
+    <string name="jrmf_name_hint">请输入姓名</string>
+    <string name="jrmf_new_pwd">新密码</string>
+    <string name="jrmf_new_pwd_not_empty">确认新密码不能为空</string>
+    <string name="jrmf_next">下一步</string>
+    <string name="jrmf_not_abandon">不放弃</string>
+    <string name="jrmf_not_data">暂无数据</string>
+    <string name="jrmf_not_support_emoji">不支持输入Emoji表情符号</string>
+    <string name="jrmf_other_get_self_rp">%1$s领取了你的红包</string>
+    <string name="jrmf_other_get_self_rp_done">%1$s领取了你的红包，你的红包已被领完</string>
+    <string name="jrmf_pay_type_not_support">该付款方式不支持当前交易</string>
+    <string name="jrmf_phone_num">手机号</string>
+    <string name="jrmf_please_select_city">请先选择市</string>
+    <string name="jrmf_please_select_province">请先选择省</string>
+    <string name="jrmf_pwd_check">密码校验</string>
+    <string name="jrmf_pwd_hint">密码为6位数字</string>
+    <string name="jrmf_pwd_tip">支付密码</string>
+    <string name="jrmf_quit">取消</string>
+    <string name="jrmf_quit_auth">您确定放弃实名认证吗？</string>
+    <string name="jrmf_real_username">真实姓名</string>
+    <string name="jrmf_recharge">充值</string>
+    <string name="jrmf_recharge_amount">金额(元)</string>
+    <string name="jrmf_recharge_amount_over">充值金额超限</string>
+    <string name="jrmf_reset_pwd_title">重置密码</string>
+    <string name="jrmf_retry">重试</string>
+    <string name="jrmf_rp_all_amount">总金额</string>
+    <string name="jrmf_rp_all_receive">共收到</string>
+    <string name="jrmf_rp_all_send">共发出</string>
+    <string name="jrmf_rp_amount">金额</string>
+    <string name="jrmf_rp_amount_error">请输入正确金额</string>
+    <string name="jrmf_rp_balance">零钱（ 余额 ￥ %1$s ）</string>
+    <string name="jrmf_rp_default_name">云红包</string>
+    <string name="jrmf_rp_look_history">查看我的红包记录</string>
+    <string name="jrmf_rp_look_rp">查看红包</string>
+    <string name="jrmf_rp_luck_to_normal">当前为拼手气红包，改为普通红包</string>
+    <string name="jrmf_rp_max_amount">红包总金额不可超过%1$s元</string>
+    <string name="jrmf_rp_max_num">一次最多可发%1$d个红包</string>
+    <string name="jrmf_rp_min_amount">单个红包金额不可低于0.01元</string>
+    <string name="jrmf_rp_min_num">至少需要设置1个红包</string>
+    <string name="jrmf_rp_most_luck">手气最佳</string>
+    <string name="jrmf_rp_no_card_max_amount">您尚未绑定银行卡，发红包的累计限额为%1$s元，请绑定银行卡后再发红包。</string>
+    <string name="jrmf_rp_normal_to_luck">当前为普通红包，改为拼手气红包</string>
+    <string name="jrmf_rp_num">红包个数</string>
+    <string name="jrmf_rp_num_error">请输入正确个数</string>
+    <string name="jrmf_rp_pay_quit">支付取消</string>
+    <string name="jrmf_rp_receive">收到的红包</string>
+    <string name="jrmf_rp_receive2">收到的红包</string>
+    <string name="jrmf_rp_receive_rate">已领完%1$s/%2$s</string>
+    <string name="jrmf_rp_receive_rp">领取红包</string>
+    <string name="jrmf_rp_receiving_rate">已领%1$s/%2$s</string>
+    <string name="jrmf_rp_send">发出的红包</string>
+    <string name="jrmf_rp_send_a_rp">发了一个红包</string>
+    <string name="jrmf_rp_send_num">发出红包%1$d个</string>
+    <string name="jrmf_rp_single_amount">单个金额</string>
+    <string name="jrmf_rp_single_max_amount">单个红包金额不可超过%1$s元</string>
+    <string name="jrmf_rp_time_out">已过期</string>
+    <string name="jrmf_security_setting">安全设置</string>
+    <string name="jrmf_select_city">选择市</string>
+    <string name="jrmf_select_pay_style">选择付款方式</string>
+    <string name="jrmf_select_province">选择省</string>
+    <string name="jrmf_select_sub_branch">选择支行</string>
+    <string name="jrmf_send_rp_title">发红包</string>
+    <string name="jrmf_send_sms_code">发送验证码</string>
+    <string name="jrmf_set_pwd_tip">支付密码设置</string>
+    <string name="jrmf_set_pwd_title">设置支付密码</string>
+    <string name="jrmf_some_second">%1$d秒</string>
+    <string name="jrmf_some_zhang">%1$d张</string>
+    <string name="jrmf_submit">提交</string>
+    <string name="jrmf_time">时间</string>
+    <string name="jrmf_tip">提示</string>
+    <string name="jrmf_trade_all">全部</string>
+    <string name="jrmf_trade_detail">订单详情</string>
+    <string name="jrmf_trade_in">收入</string>
+    <string name="jrmf_trade_order">交易单号</string>
+    <string name="jrmf_trade_out">支出</string>
+    <string name="jrmf_type">类型</string>
+    <string name="jrmf_unbind">解绑</string>
+    <string name="jrmf_unbinding">解绑中...</string>
+    <string name="jrmf_update_pwd_suc">密码修改成功</string>
+    <string name="jrmf_username">姓名</string>
+    <string name="jrmf_username_empty">姓名不能为空</string>
+    <string name="jrmf_verify_card_fee">银行会从您卡上扣除1分钱用于验证您所填卡的真实有效性</string>
+    <string name="jrmf_verify_code">验证码</string>
+    <string name="jrmf_verify_code_hint">请输入验证码</string>
+    <string name="jrmf_wait_resend_code">%1$d秒后重新获取</string>
+    <string name="jrmf_wait_resend_code2">%1$d秒后重发</string>
+    <string name="jrmf_we_chat_pay">微信支付</string>
+    <string name="launched_a_location_sharing">我发起了位置共享</string>
+    <string name="launched_location_sharing">发起了位置共享</string>
+    <string name="layout_dialog_loading">正在加载</string>
+    <string name="least_one_friend">至少选择一位好友</string>
+    <string name="loacation_download">本地下载</string>
+    <string name="loading">加载中...</string>
+    <string name="location">位置</string>
+    <string name="location_sharing_ended">位置共享已结束</string>
+    <string name="location_sharing_exit_promt">退出当前页面将会终止实时位置共享,确定退出？</string>
+    <string name="login_api_fail">登录请求接口失败</string>
+    <string name="login_success">"登录成功"</string>
+    <string name="look_banks">查看支持银行</string>
+    <string name="luck_rp">拼手气红包</string>
+    <string name="main_chatroom">通讯录</string>
+    <string name="main_conversation">会话</string>
+    <string name="main_customer">意见反馈</string>
+    <string name="main_customer_xn">小能客服</string>
+    <string name="main_group">广场</string>
+    <string name="main_name">融云</string>
+    <string name="me">我</string>
+    <string name="message_frequency">短信发送频率超限</string>
+    <string name="message_notice">消息免打扰</string>
+    <string name="message_show_details">通知显示消息详情</string>
+    <string name="messge_send">短信已发出,请注意查收</string>
+    <string name="mine_about">关于 SealTalk</string>
+    <string name="mine_service">意见反馈</string>
+    <string name="mine_setting">账号设置</string>
+    <string name="mobile_phone">手机号</string>
+    <string name="my_bank_title">银行卡设置</string>
+    <string name="my_groups">群组</string>
+    <string name="my_rp_title">我的红包</string>
+    <string name="my_username">昵称</string>
+    <string name="my_wallet">我的钱包</string>
+    <string name="my_wallet_title">我的钱包</string>
+    <string name="name_contain_spaces">昵称不能包含空格</string>
+    <string name="name_error">请输入姓名</string>
+    <string name="name_error_tip">请输入正确的姓名</string>
+    <string name="name_is_null">昵称不能为空</string>
+    <string name="name_tip">请输入姓名</string>
+    <string name="net_error_l">当前网络不佳,请稍后再试</string>
+    <string name="net_weekly">亲,您的网络不给力噢~</string>
+    <string name="network_error">当前网络不佳，请稍后再试</string>
+    <string name="network_not_available">网络不可用</string>
+    <string name="new_and_old_password">新旧密码一致</string>
+    <string name="new_friends">新的朋友</string>
+    <string name="new_group_name">新的群名称</string>
+    <string name="new_message">接收新消息通知</string>
+    <string name="new_message_follow_system">跟随系统</string>
+    <string name="new_message_notice">开启消息免打扰</string>
+    <string name="new_message_notice_title">消息免打扰</string>
+    <string name="new_message_prompt_voice">新消息提示音</string>
+    <string name="new_message_show">新消息通知</string>
+    <string name="new_message_vibration">震动</string>
+    <string name="new_message_voice">声音</string>
+    <string name="new_name">新昵称</string>
+    <string name="new_password">新密码</string>
+    <string name="new_password_not_null">新密码不能为空</string>
+    <string name="new_user">新用户</string>
+    <string name="new_version_update">当前版本</string>
+    <string name="next_step_tip">点击下一步视为您同意《金融魔方用户协议》</string>
+    <string name="nickname">昵称</string>
+    <string name="nickname_show">昵称:</string>
+    <string name="no_authen">未实名认证</string>
+    <string name="no_branch">没有与之对应的支行,请您手动输入支行</string>
+    <string name="no_card_bind">您还没有绑定银行卡，请先添加银行卡</string>
+    <string name="no_city">没有与之对应的城市</string>
+    <string name="no_input_amount">请输入提现金额</string>
+    <string name="no_input_amount_toast">请输入提现金额</string>
+    <string name="no_input_branch">请输入支行</string>
+    <string name="no_read_message">"···"</string>
+    <string name="no_rp">手慢了, 红包派完了</string>
+    <string name="no_sel_branch">请选择支行</string>
+    <string name="no_sel_city">请选择市</string>
+    <string name="no_sel_province">请选择省</string>
+    <string name="normal_rp">普通红包</string>
+    <string name="not_group_members">非群组成员不能查看群组详情</string>
+    <string name="not_send_code">未向服务端获取验证码</string>
+    <string name="offline">离线</string>
+    <string name="online">在线</string>
+    <string name="original_password">原密码不能为空</string>
+    <string name="original_password_mistake">原密码填写错误</string>
+    <string name="original_password_text">初始密码</string>
+    <string name="other_devices_login">账号在其它设备登录</string>
+    <string name="other_devices_text">您的账号在别的设备上登录，您被迫下线!</string>
+    <string name="other_rp_has_left">已领取%1$d/%2$d</string>
+    <string name="other_rp_no_left">已领取%1$d/%2$d，已被领完</string>
+    <string name="password">密码</string>
+    <string name="password_cannot_contain_spaces">密码不能包含空格</string>
+    <string name="password_hint">6-16个字符,区分大小写</string>
+    <string name="password_is_null">密码不能为空</string>
+    <string name="passwords_do_not_match">填写的确认密码与新密码不一致</string>
+    <string name="passwords_invalid">密码必须为6-16位字符，区分大小写</string>
+    <string name="pay_failure">支付失败</string>
+    <string name="pay_protocol"> 钱包快捷支付协议</string>
+    <string name="pay_waiting">支付结果确认中</string>
+    <string name="pc_online">电脑在线</string>
+    <string name="person_is_sharing_loaction">人正在共享位置</string>
+    <string name="persons_are_sharing_loaction">人正在共享位置</string>
+    <string name="phone_hint">请输入正确的银行预留手机号</string>
+    <string name="phone_num_error">请输入正确的手机号</string>
+    <string name="phone_number">手机号</string>
+    <string name="phone_number_available">手机号可用</string>
+    <string name="phone_number_has_been_registered">手机号已被注册</string>
+    <string name="phone_number_is_null">手机号不能为空</string>
+    <string name="phone_online">手机在线</string>
+    <string name="phone_or_psw_error">手机或者密码错误</string>
+    <string name="phone_tip">请输入正确的手机号</string>
+    <string name="phone_unregister">此号码未被注册</string>
+    <string name="please_pay">请支付</string>
+    <string name="portrait">头像</string>
+    <string name="portrait_update_success">头像更新成功</string>
+    <string name="privacy">隐私</string>
+    <string name="private_chat">发起聊天</string>
+    <string name="prompt">提示</string>
+    <string name="public_service">公众号</string>
+    <string name="pwd_error">支付密码错误</string>
+    <string name="pwd_not_same">两次密码输入不一致</string>
+    <string name="quit_group">删除并退出</string>
+    <string name="quit_groups">退出了群组</string>
+    <string name="quit_success">退出成功</string>
+    <string name="rc_ac_file_download_btn">开始下载</string>
+    <string name="rc_ac_file_download_open_file_btn">打开文件</string>
+    <string name="rc_ac_file_download_preview">文件预览</string>
+    <string name="rc_ac_file_download_progress_tv">正在下载...(%1$s/%2$s)</string>
+    <string name="rc_ac_file_download_request_permission">您需要在设置里打开读写权限</string>
+    <string name="rc_ac_file_download_request_permission_cancel">取消</string>
+    <string name="rc_ac_file_download_request_permission_sure">确定</string>
+    <string name="rc_ac_file_manager_SD_card">SD卡</string>
+    <string name="rc_ac_file_manager_SD_card_one">SD卡1</string>
+    <string name="rc_ac_file_manager_SD_card_two">SD卡2</string>
+    <string name="rc_ac_file_manager_category_audio">音频</string>
+    <string name="rc_ac_file_manager_category_file">文档</string>
+    <string name="rc_ac_file_manager_category_picture">其他</string>
+    <string name="rc_ac_file_manager_category_title">按分类查找</string>
+    <string name="rc_ac_file_manager_category_video">视频</string>
+    <string name="rc_ac_file_manager_dir_title">按目录查找</string>
+    <string name="rc_ac_file_manager_mobile_memory">手机内存</string>
+    <string name="rc_ac_file_preview_begin_download">开始下载</string>
+    <string name="rc_ac_file_preview_can_not_open_file">无法打开文件</string>
+    <string name="rc_ac_file_preview_deleted">文件已过期或已被清理</string>
+    <string name="rc_ac_file_preview_download_cancel">已取消下载</string>
+    <string name="rc_ac_file_preview_download_error">下载失败</string>
+    <string name="rc_ac_file_preview_downloaded">已下载</string>
+    <string name="rc_ac_file_send_preview">发文件</string>
+    <string name="rc_action_bar_back">返回</string>
+    <string name="rc_action_bar_ok">确定</string>
+    <string name="rc_ad_file_size">大小:%1$s</string>
+    <string name="rc_ad_folder_files_number">%1$s个文件</string>
+    <string name="rc_ad_folder_no_files">空文件夹</string>
+    <string name="rc_ad_send_file_no_select_file">发送</string>
+    <string name="rc_ad_send_file_select_file">发送(%1$s/20)</string>
+    <string name="rc_afternoon_format">下午</string>
+    <string name="rc_android.permission.ACCESS_COARSE_LOCATION">位置信息</string>
+    <string name="rc_android.permission.ACCESS_FINE_LOCATION">位置信息</string>
+    <string name="rc_android.permission.CAMERA">相机</string>
+    <string name="rc_android.permission.PROCESS_OUTGOING_CALLS">电话</string>
+    <string name="rc_android.permission.READ_EXTERNAL_STORAGE">存储空间</string>
+    <string name="rc_android.permission.READ_PHONE_STATE">电话</string>
+    <string name="rc_android.permission.RECORD_AUDIO">麦克风</string>
+    <string name="rc_android.permission.WRITE_EXTERNAL_STORAGE">存储空间</string>
+    <string name="rc_android.settings.action.MANAGE_OVERLAY_PERMISSION">悬浮窗</string>
+    <string name="rc_audio_call_on_going">语音聊天中，轻击以继续</string>
+    <string name="rc_audio_input">按住 说话</string>
+    <string name="rc_audio_input_hover">松开 发送</string>
+    <string name="rc_authorities_fileprovider">.FileProvider</string>
+    <string name="rc_blacklist_prompt">您已被加入黑名单</string>
+    <string name="rc_call_on_going">通话中...</string>
+    <string name="rc_called_accept">对方接受了通话请求</string>
+    <string name="rc_called_is_calling">对方正在通话中</string>
+    <string name="rc_called_not_accept">对方未接听</string>
+    <string name="rc_called_on_hook">对方已挂机</string>
+    <string name="rc_cancel">取消</string>
+    <string name="rc_choose_members">选择联系人</string>
+    <string name="rc_confirm">确认</string>
+    <string name="rc_contact_group_member_count">%1$s(%2$d人)</string>
+    <string name="rc_conversation_List_operation_failure">操作失败</string>
+    <string name="rc_conversation_list_app_public_service">应用公众服务</string>
+    <string name="rc_conversation_list_default_discussion_name">"讨论组"</string>
+    <string name="rc_conversation_list_dialog_cancel_top">取消置顶</string>
+    <string name="rc_conversation_list_dialog_remove">从会话列表中移除</string>
+    <string name="rc_conversation_list_dialog_set_top">置顶该会话</string>
+    <string name="rc_conversation_list_empty_prompt">"暂无聊天信息"</string>
+    <string name="rc_conversation_list_my_chatroom">我的聊天室</string>
+    <string name="rc_conversation_list_my_customer_service">客服列表</string>
+    <string name="rc_conversation_list_my_discussion">我的讨论组</string>
+    <string name="rc_conversation_list_my_group">我的群组</string>
+    <string name="rc_conversation_list_my_private_conversation">我的私人会话</string>
+    <string name="rc_conversation_list_not_connected">"尚未连接!"</string>
+    <string name="rc_conversation_list_popup_cancel_top">取消置顶</string>
+    <string name="rc_conversation_list_popup_set_top">已置顶</string>
+    <string name="rc_conversation_list_public_service">公众服务</string>
+    <string name="rc_conversation_list_system_conversation">系统消息</string>
+    <string name="rc_cs_average">一般</string>
+    <string name="rc_cs_cancel">取消</string>
+    <string name="rc_cs_evaluate">评价</string>
+    <string name="rc_cs_evaluate_human">请对本次服务做出评价</string>
+    <string name="rc_cs_evaluate_robot">机器人是否解决了您的问题</string>
+    <string name="rc_cs_evaluate_title">请对我们本次的服务进行评价</string>
+    <string name="rc_cs_leave_message">留言</string>
+    <string name="rc_cs_message_submited">您的留言已提交</string>
+    <string name="rc_cs_please_comment">欢迎给我们的服务提建议~</string>
+    <string name="rc_cs_please_leave_message">请您留言, 我们会尽快回复您。</string>
+    <string name="rc_cs_resolved_or_not">是否解决了您的问题 ?</string>
+    <string name="rc_cs_satisfactory">满意</string>
+    <string name="rc_cs_select_group">请选择咨询内容</string>
+    <string name="rc_cs_submit">提交</string>
+    <string name="rc_cs_submit_evaluate_content">提交评价</string>
+    <string name="rc_cs_submit_message">提交留言</string>
+    <string name="rc_cs_unsatisfactory">不满意</string>
+    <string name="rc_cs_very_satisfactory">非常满意</string>
+    <string name="rc_cs_very_unsatisfactory">非常不满意</string>
+    <string name="rc_day_format">日</string>
+    <string name="rc_daybreak_format">凌晨</string>
+    <string name="rc_dialog_button_clear">清空</string>
+    <string name="rc_dialog_cancel">取消</string>
+    <string name="rc_dialog_item_message_copy">复制消息</string>
+    <string name="rc_dialog_item_message_delete">删除消息</string>
+    <string name="rc_dialog_item_message_recall">撤回消息</string>
+    <string name="rc_dialog_ok">确定</string>
+    <string name="rc_discussion_nt_msg_for_add">"%1$s 邀请了%2$d位成员加入了讨论组"</string>
+    <string name="rc_discussion_nt_msg_for_added">"%1$s 邀请 %2$s 加入了讨论组"</string>
+    <string name="rc_discussion_nt_msg_for_exit">"%1$s 退出了讨论组"</string>
+    <string name="rc_discussion_nt_msg_for_is_open_invite_close">"%1$s 关闭了成员邀请"</string>
+    <string name="rc_discussion_nt_msg_for_is_open_invite_open">"%1$s 开放了成员邀请"</string>
+    <string name="rc_discussion_nt_msg_for_removed">"你被 %1$s 移出了讨论组"</string>
+    <string name="rc_discussion_nt_msg_for_rename">"%1$s 修改讨论组名称为 %2$s"</string>
+    <string name="rc_discussion_nt_msg_for_who_removed">"%1$s 被 %2$s 移出了讨论组"</string>
+    <string name="rc_discussion_nt_msg_for_you">"你"</string>
+    <string name="rc_exit_calling">是否退出通话界面？</string>
+    <string name="rc_ext_cancel">取消</string>
+    <string name="rc_ext_exit_location_sharing">是否结束位置共享？</string>
+    <string name="rc_ext_exit_location_sharing_confirm">结束共享</string>
+    <string name="rc_ext_location_permission_failed">您需要在设置里打开定位权限</string>
+    <string name="rc_ext_send">发送</string>
+    <string name="rc_ext_warning">提示</string>
+    <string name="rc_file_not_exist">文件不存在</string>
+    <string name="rc_forbidden_in_chatroom">你已被禁言，不能发送消息</string>
+    <string name="rc_fr_file_category_title_audio">音频</string>
+    <string name="rc_fr_file_category_title_other">其他</string>
+    <string name="rc_fr_file_category_title_ram">手机内存</string>
+    <string name="rc_fr_file_category_title_sd">SD卡</string>
+    <string name="rc_fr_file_category_title_text">文本</string>
+    <string name="rc_fr_file_category_title_video">视频</string>
+    <string name="rc_fr_file_list_most_selected_files">您最多只能选择20个文件</string>
+    <string name="rc_fr_loading_file_message">加载中...</string>
+    <string name="rc_fr_no_file_message">没有%1$s文件</string>
+    <string name="rc_fr_storage_folder_list_no_files">无法读取%1$s中的文件</string>
+    <string name="rc_fr_storage_folder_list_search">搜索</string>
+    <string name="rc_friday_format">周五</string>
+    <string name="rc_heartbeat_timer">150000</string>
+    <string name="rc_image_default_saved_path">/RongCloud/Image/</string>
+    <string name="rc_info_forbidden_to_talk">您当前在群组中被禁言</string>
+    <string name="rc_info_not_in_chatroom">你不在该聊天室</string>
+    <string name="rc_info_not_in_discussion">你不在该讨论组</string>
+    <string name="rc_info_not_in_group">你不在该群</string>
+    <string name="rc_init_failed">连接客服失败</string>
+    <string name="rc_input_send">发送</string>
+    <string name="rc_input_voice">按住 说话</string>
+    <string name="rc_item_change_group_name">%1$s修改群名称为%2$s</string>
+    <string name="rc_item_create_group">创建群组</string>
+    <string name="rc_item_created_group">%1$s创建了群组</string>
+    <string name="rc_item_dismiss_groups">解散了群组</string>
+    <string name="rc_item_divided_string">、</string>
+    <string name="rc_item_etc">等</string>
+    <string name="rc_item_group_notification_summary">[群组通知]</string>
+    <string name="rc_item_invitation">%1$s邀请%2$s加入群组</string>
+    <string name="rc_item_join_group">加入了群组</string>
+    <string name="rc_item_quit_groups">退出了群组</string>
+    <string name="rc_item_remove_group_after_str">移出了群组</string>
+    <string name="rc_item_remove_group_before_str">将</string>
+    <string name="rc_item_remove_group_member">%1$s将%2$s移出群组</string>
+    <string name="rc_item_remove_self">%1$s被%2$s移出群组</string>
+    <string name="rc_item_to_join_group">加入了群组</string>
+    <string name="rc_item_you">你</string>
+    <string name="rc_join_chatroom_failure">加入聊天室失败</string>
+    <string name="rc_kicked_from_chatroom">你已被踢出聊天室</string>
+    <string name="rc_location_fail">定位失败</string>
+    <string name="rc_location_fetching">获取中……</string>
+    <string name="rc_location_sharing_ended">位置共享已结束</string>
+    <string name="rc_location_sharing_exceed_max">超过最大位置共享人数</string>
+    <string name="rc_location_temp_failed">定位失败，请稍后重试</string>
+    <string name="rc_media_message_default_save_path">/RongCloud/Media/</string>
+    <string name="rc_message_content_draft">[草稿]</string>
+    <string name="rc_message_content_file">[文件]</string>
+    <string name="rc_message_content_image">[图片]</string>
+    <string name="rc_message_content_location">[位置]</string>
+    <string name="rc_message_content_mentioned">[有人@我]</string>
+    <string name="rc_message_content_rich_text">[图文]</string>
+    <string name="rc_message_content_voice">[语音]</string>
+    <string name="rc_message_to_friend">给朋友留言</string>
+    <string name="rc_message_unknown">当前版本暂不支持查看此消息</string>
+    <string name="rc_message_unread_count">"···"</string>
+    <string name="rc_monday_format">周一</string>
+    <string name="rc_month_format">月</string>
+    <string name="rc_morning_format">上午</string>
+    <string name="rc_name">融云</string>
+    <string name="rc_network_error">网络连接错误</string>
+    <string name="rc_network_exception">网络异常请稍后再试</string>
+    <string name="rc_network_is_busy">网络繁忙</string>
+    <string name="rc_new_messages">条新消息</string>
+    <string name="rc_night_format">晚上</string>
+    <string name="rc_noon_format">中午</string>
+    <string name="rc_notice_connecting">正在连接服务器</string>
+    <string name="rc_notice_create_discussion">正在创建讨论组</string>
+    <string name="rc_notice_create_discussion_fail">创建讨论组失败</string>
+    <string name="rc_notice_data_is_loading">数据加载中</string>
+    <string name="rc_notice_disconnect">无法连接到服务器</string>
+    <string name="rc_notice_download_fail">下载失败!</string>
+    <string name="rc_notice_enter_chatroom">进入聊天室</string>
+    <string name="rc_notice_input_conversation_error">会话尚未创建</string>
+    <string name="rc_notice_load_data_fail">获取数据失败</string>
+    <string name="rc_notice_network_unavailable">当前网络不可用，请检查你的网络设置</string>
+    <string name="rc_notice_select_one_picture_at_last">请至少选择一张图片</string>
+    <string name="rc_notice_tick">该帐号已经在其他设备登录</string>
+    <string name="rc_notification_new_msg">%1$s发来了%2$d条消息</string>
+    <string name="rc_notification_new_plural_msg">%1$d个联系人发来了%2$d条消息</string>
+    <string name="rc_notification_ticker_text">您有了一条新消息</string>
+    <string name="rc_other_is_sharing_location">%s正在共享位置</string>
+    <string name="rc_others_are_sharing_location">%d人正在共享位置</string>
+    <string name="rc_permission_camera">（相机）。</string>
+    <string name="rc_permission_grant_needed">您需要在设置中打开权限</string>
+    <string name="rc_permission_microphone">（麦克风）。</string>
+    <string name="rc_permission_microphone_and_camera">（麦克风，相机）。</string>
+    <string name="rc_picprev_origin">原图</string>
+    <string name="rc_picprev_origin_size">原图(%s)</string>
+    <string name="rc_picprev_select">选择</string>
+    <string name="rc_picsel_catalog_allpic">所有图片</string>
+    <string name="rc_picsel_catalog_number">%d张</string>
+    <string name="rc_picsel_pictype">图片</string>
+    <string name="rc_picsel_selected_max">您最多只能选择9张图片</string>
+    <string name="rc_picsel_take_picture">拍摄照片</string>
+    <string name="rc_picsel_toolbar">图片</string>
+    <string name="rc_picsel_toolbar_preview">预览</string>
+    <string name="rc_picsel_toolbar_preview_num">预览(%d)</string>
+    <string name="rc_picsel_toolbar_send">发送</string>
+    <string name="rc_picsel_toolbar_send_num">发送(%d/9)</string>
+    <string name="rc_plugin_image">图片</string>
+    <string name="rc_plugin_location">位置</string>
+    <string name="rc_plugin_location_message">发送位置</string>
+    <string name="rc_plugin_location_sharing">共享实时位置</string>
+    <string name="rc_plugin_recognize">语音输入</string>
+    <string name="rc_plugin_recognize_check_network">请检查网络</string>
+    <string name="rc_plugin_recognize_clear">清除</string>
+    <string name="rc_plugins_camera">相机</string>
+    <string name="rc_plugins_contact">个人名片</string>
+    <string name="rc_plugins_files">文件</string>
+    <string name="rc_plugins_voip">语音通话</string>
+    <string name="rc_pub_service_info_account">公众号：%s</string>
+    <string name="rc_pub_service_info_description">功能介绍</string>
+    <string name="rc_pub_service_info_enter">进入公众号</string>
+    <string name="rc_pub_service_info_follow">关注</string>
+    <string name="rc_pub_service_info_unfollow">取消关注</string>
+    <string name="rc_quit_custom_service">客服已结束</string>
+    <string name="rc_read_all">阅读全文</string>
+    <string name="rc_read_receipt_status">%d人已读</string>
+    <string name="rc_real_time_exit_notification">离开会话，位置共享也会结束，确定离开？</string>
+    <string name="rc_real_time_join_notification">加入位置共享，聊天中其他人也能看到你的位置，确定加入？</string>
+    <string name="rc_real_time_location_sharing">发起了位置共享</string>
+    <string name="rc_real_time_location_summary">我发起了位置共享</string>
+    <string name="rc_recall_failed">撤回失败</string>
+    <string name="rc_recalled_a_message"> 撤回了一条消息</string>
+    <string name="rc_recommend_clause_to_me">%1$s向你推荐了%2$s</string>
+    <string name="rc_recommend_clause_to_others">你推荐了%1$s</string>
+    <string name="rc_rejected_by_blacklist_prompt">您的消息已经发出，但被对方拒收</string>
+    <string name="rc_saturday_format">周六</string>
+    <string name="rc_save_picture">保存图片</string>
+    <string name="rc_save_picture_at">图片保存成功</string>
+    <string name="rc_search">搜索</string>
+    <string name="rc_send">发送</string>
+    <string name="rc_send_format">发送(%1$s)</string>
+    <string name="rc_send_to">发送给 :</string>
+    <string name="rc_setting_clear_msg_fail">清空聊天失败</string>
+    <string name="rc_setting_clear_msg_name">清空聊天信息</string>
+    <string name="rc_setting_clear_msg_prompt">你确定要清空聊天消息吗?</string>
+    <string name="rc_setting_clear_msg_success">清空聊天成功</string>
+    <string name="rc_setting_conversation_notify">新消息通知</string>
+    <string name="rc_setting_conversation_notify_fail">设置新消息通知失败</string>
+    <string name="rc_setting_get_conversation_notify_fail">获取新消息通知失败</string>
+    <string name="rc_setting_name">设置</string>
+    <string name="rc_setting_set_top">置顶</string>
+    <string name="rc_setting_set_top_fail">设置置顶失败</string>
+    <string name="rc_src_file_not_found">源文件不存在</string>
+    <string name="rc_sunsay_format">周日</string>
+    <string name="rc_thuresday_format">周四</string>
+    <string name="rc_tuesday_format">周二</string>
+    <string name="rc_user_recalled_message">%s撤回了一条消息</string>
+    <string name="rc_video_call_on_going">视频聊天中，轻击以继续</string>
+    <string name="rc_voice_cancel">松开手指，取消发送</string>
+    <string name="rc_voice_failure">录音失败！</string>
+    <string name="rc_voice_rec">手指上滑，取消发送</string>
+    <string name="rc_voice_short">录音时间太短</string>
+    <string name="rc_voice_too_long">录制时间超长</string>
+    <string name="rc_voip_answer">接听</string>
+    <string name="rc_voip_audio">语音聊天</string>
+    <string name="rc_voip_audio_call_inviting">邀请你进行语音聊天...</string>
+    <string name="rc_voip_audio_ended">语音聊天已经结束</string>
+    <string name="rc_voip_audio_no_response">语音聊天未接听</string>
+    <string name="rc_voip_call_audio_start_fail">正在进行语音通话，请稍后再试</string>
+    <string name="rc_voip_call_busy">忙线中</string>
+    <string name="rc_voip_call_connecting">连接中</string>
+    <string name="rc_voip_call_hangup">已挂断</string>
+    <string name="rc_voip_call_interrupt">已挂断</string>
+    <string name="rc_voip_call_network_error">当前网络不可用,请检查你的网络设置</string>
+    <string name="rc_voip_call_no_response">无响应</string>
+    <string name="rc_voip_call_other">其它设备已处理</string>
+    <string name="rc_voip_call_started">开始通话</string>
+    <string name="rc_voip_call_terminalted">通话结束</string>
+    <string name="rc_voip_call_time_length">通话时长 </string>
+    <string name="rc_voip_call_video_start_fail">正在进行视频通话，请稍后再试</string>
+    <string name="rc_voip_call_waiting">正在等待对方接受邀请...</string>
+    <string name="rc_voip_camera">摄像头</string>
+    <string name="rc_voip_cpu_error">很抱歉，该功能暂时不支持您的机型</string>
+    <string name="rc_voip_disable_camera">关闭摄像头</string>
+    <string name="rc_voip_enable_camera">开启摄像头</string>
+    <string name="rc_voip_float_window_not_allowed">请打开悬浮窗权限</string>
+    <string name="rc_voip_handfree">免提</string>
+    <string name="rc_voip_hangup">挂断</string>
+    <string name="rc_voip_message_audio">[语音聊天]</string>
+    <string name="rc_voip_message_video">[视频聊天]</string>
+    <string name="rc_voip_mo_cancel">已取消</string>
+    <string name="rc_voip_mo_no_response">未接听</string>
+    <string name="rc_voip_mo_reject">已拒绝</string>
+    <string name="rc_voip_mt_busy">对方忙,请稍后再拨</string>
+    <string name="rc_voip_mt_cancel">对方已取消</string>
+    <string name="rc_voip_mt_no_response">对方未接听</string>
+    <string name="rc_voip_mt_reject">对方已拒绝</string>
+    <string name="rc_voip_mute">静音</string>
+    <string name="rc_voip_occupying">声音通道被占用，请稍后再试</string>
+    <string name="rc_voip_over_limit">您最多只能选择%d人</string>
+    <string name="rc_voip_participant_users">群聊成员</string>
+    <string name="rc_voip_remote_switched_to_audio">对方已切换到语音聊天</string>
+    <string name="rc_voip_select_member">选择成员</string>
+    <string name="rc_voip_switch_to_audio">语音聊天</string>
+    <string name="rc_voip_switched_to_audio">已切换到语音聊天</string>
+    <string name="rc_voip_video">视频聊天</string>
+    <string name="rc_voip_video_call_inviting">邀请你进行视频聊天...</string>
+    <string name="rc_voip_video_ended">视频聊天已经结束</string>
+    <string name="rc_voip_video_no_response">视频聊天未接听</string>
+    <string name="rc_waiting">等待中</string>
+    <string name="rc_wednesday_format">周三</string>
+    <string name="rc_year_format">年</string>
+    <string name="rc_yes">是</string>
+    <string name="rc_yesterday_format">昨天</string>
+    <string name="rc_you_are_sharing_location">你正在共享位置</string>
+    <string name="rc_you_recalled_a_message">你撤回了一条消息</string>
+    <string name="re_send">重新发送</string>
+    <string name="re_send_code">重新发送验证码</string>
+    <string name="read_receipt_detail">回执详情</string>
+    <string name="read_receipt_no_person_read">全部未读</string>
+    <string name="read_receipt_no_person_unread">全部已读</string>
+    <string name="read_receipt_read_persons">%1$d人已读</string>
+    <string name="read_receipt_unread_persons">%1$d人未读</string>
+    <string name="real_time_location_sharing">实时位置共享</string>
+    <string name="recharge_fail">充值失败</string>
+    <string name="recharge_money">充值%1$s元</string>
+    <string name="recharge_suc">充值成功</string>
+    <string name="red_envelope_blessing">红包祝福语最多输入25个字噢～</string>
+    <string name="register">注册</string>
+    <string name="register_success">注册成功</string>
+    <string name="remove_group_after_str">移出了群组</string>
+    <string name="remove_group_before_str">将</string>
+    <string name="remove_group_member">移除群组成员</string>
+    <string name="remove_group_members">确认移除以下群成员?</string>
+    <string name="remove_successful">移除成功</string>
+    <string name="req_code">请先获得验证码</string>
+    <string name="request">已请求</string>
+    <string name="request_friends">请求添加你为好友</string>
+    <string name="request_success">请求成功</string>
+    <string name="rongcloud_web">官方网站</string>
+    <string name="rp_expire">该红包已超过24小时。如已领取,可在"我的红包"中查看</string>
+    <string name="rs_ada_user_ship_add">已添加</string>
+    <string name="sdk_version_update">SDK版本</string>
+    <string name="seal_mine_fragment_user_portrait">用户头像</string>
+    <string name="seal_set_push_detail">显示 Push 内容</string>
+    <string name="seal_set_push_language">设置 Push 中文</string>
+    <string name="seal_set_push_receive">接收 Push 消息</string>
+    <string name="sealtalk_version_update">SealTalk版本</string>
+    <string name="search_friend">添加好友</string>
+    <string name="search_item_chat_records">%d条相关记录</string>
+    <string name="search_message">查找聊天记录</string>
+    <string name="select_bank_card">选择银行卡</string>
+    <string name="select_contact">选择联系人</string>
+    <string name="select_group_member">选择群组成员</string>
+    <string name="self_rp_has_left">已领取%1$d/%2$d，共%3$s/%4$s元</string>
+    <string name="self_rp_no_left">已领取%1$d/%2$d，已被领完</string>
+    <string name="send_code">发送验证码</string>
+    <string name="send_code_suc">验证码发送成功</string>
+    <string name="send_location">发送位置</string>
+    <string name="send_message">发起聊天</string>
+    <string name="set_logout">注销</string>
+    <string name="set_news_reminded">新消息提醒</string>
+    <string name="set_personal_information">我的账号</string>
+    <string name="set_privacy">隐私</string>
+    <string name="set_pwd_error">请输入6位支付密码</string>
+    <string name="set_pwd_suc">支付密码设置成功</string>
+    <string name="set_pwd_succ">支付密码设置成功</string>
+    <string name="set_rongcloud">关于 SealTalk</string>
+    <string name="set_set">设置</string>
+    <string name="set_top">会话置顶</string>
+    <string name="set_user_info">设置账户信息</string>
+    <string name="set_user_online_status">设置用户在线状态</string>
+    <string name="setdisplayname">设置备注</string>
+    <string name="share_dialog_cancel">取消</string>
+    <string name="share_dialog_from">来自：UC浏览器</string>
+    <string name="share_dialog_hint">说些什么</string>
+    <string name="share_dialog_share">分享</string>
+    <string name="start_chat">发起会话</string>
+    <string name="start_video">视频聊天</string>
+    <string name="start_voice">语音通话</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="sync_group_api_fail">同步群组信息请求接口失败</string>
+    <string name="sync_userinfo_api_fail">同步用户信息接口请求失败</string>
+    <string name="the_blacklist">黑名单</string>
+    <string name="to_buttom">到底了噢～</string>
+    <string name="to_join_group">加入了群组</string>
+    <string name="total_member">群成员</string>
+    <string name="trade_detail_title">交易记录</string>
+    <string name="trade_suc">交易成功</string>
+    <string name="unbind_suc">解绑成功</string>
+    <string name="update_app_model_error">下载失败(点击浏览器下载)</string>
+    <string name="update_app_model_prepare">准备下载</string>
+    <string name="update_app_model_progress">正在下载 %1$d%2$s</string>
+    <string name="update_app_model_success">下载成功(点击安装)</string>
+    <string name="update_log">更新日志</string>
+    <string name="update_name">昵称更改</string>
+    <string name="update_pwd">修改支付密码</string>
+    <string name="update_pwd_succ">支付失败</string>
+    <string name="update_success">更改成功</string>
+    <string name="update_user_info">修改账户信息</string>
+    <string name="update_userinfo_suc">修改成功</string>
+    <string name="upload_portrait_failed">上传头像失败</string>
+    <string name="user_details">用户详情</string>
+    <string name="user_protocol">用户协议</string>
+    <string name="user_protocol_title">金融魔方用户协议</string>
+    <string name="verification_code_error">验证码错误</string>
+    <string name="verify_code_empty">请输入验证码</string>
+    <string name="verify_code_empty2">请输入验证码</string>
+    <string name="verify_code_error">请输入正确验证码</string>
+    <string name="verify_code_suss">验证码发送成功</string>
+    <string name="version_number">V2.1.0</string>
+    <string name="waiting">请稍后...</string>
+    <string name="wallet_title">我的钱包</string>
+    <string name="web_online">网页在线</string>
+    <string name="who_rp">%1$s的红包</string>
+    <string name="you">你</string>
+    <string name="you_are_sharing_location">你正在共享位置</string>
+    <style name="ActionBarSettingImg">
+        <item name="android:layout_marginLeft">15dp</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="ActionBarSettingTextView">
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/group_list_black_textview</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="AnimFade2" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/bqmm_slide_in_from_right</item>
+        <item name="android:activityOpenExitAnimation">@anim/bqmm_slide_out_to_left</item>
+        <item name="android:activityCloseExitAnimation">@anim/bqmm_slide_out_to_right</item>
+        <item name="android:activityCloseEnterAnimation">@anim/bqmm_slide_in_from_left</item>
+    </style>
+    <style name="AnimationPage">
+        <item name="android:windowEnterAnimation">@anim/slide_in</item>
+        <item name="android:windowExitAnimation">@anim/slide_out</item>
+    </style>
+    <style name="AnimationPreview">
+        <item name="android:windowEnterAnimation">@anim/fade_in</item>
+        <item name="android:windowExitAnimation">@anim/fade_out</item>
+    </style>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="DemoAddressNewMassage">
+        <item name="android:background">@drawable/rc_unread_count_bg</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@android:color/tab_indicator_text</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_width">20dp</item>
+        <item name="android:layout_height">20dp</item>
+        <!-- <item name="android:visibility">gone</item>-->
+    </style>
+    <style name="DemoMainNewMassage">
+        <item name="android:background">@drawable/rc_unread_count_bg</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@android:color/tab_indicator_text</item>
+        <item name="android:textSize">9sp</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_width">18dp</item>
+        <item name="android:layout_height">18dp</item>
+       <!-- <item name="android:visibility">gone</item>-->
+    </style>
+    <style name="DemoMainNewMassage1">
+        <item name="android:background">@drawable/rc_unread_count_bg</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@android:color/tab_indicator_text</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_width">6dp</item>
+        <item name="android:layout_height">6dp</item>
+        <!-- <item name="android:visibility">gone</item>-->
+    </style>
+    <style name="DemoMainPublic">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">4dp</item>
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:background">@color/de_title_bg</item>
+    </style>
+    <style name="DemoTextStyleBig1">
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="DemoTextStyleBigBlack">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/group_list_black_textview</item>
+    </style>
+    <style name="DemoTextStyleMiddle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/group_list_gray</item>
+    </style>
+    <style name="DemoTextStyleSmall">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/group_list_gray</item>
+    </style>
+    <style name="GridPasswordView"/>
+    <style name="GridPasswordView.Divider">
+        <item name="android:layout_width">1dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_marginTop">1dp</item>
+        <item name="android:layout_marginBottom">1dp</item>
+    </style>
+    <style name="GridPasswordView.EditText" parent="GridPasswordView.TextView">
+        <item name="android:cursorVisible">false</item>
+    </style>
+    <style name="GridPasswordView.TextView">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@null</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="Jrmf_ActionSheetDialogAnimation" parent="@android:style/Animation.Dialog">
+        <item name="android:windowEnterAnimation">@anim/actionsheet_dialog_in</item>
+        <item name="android:windowExitAnimation">@anim/actionsheet_dialog_out</item>
+    </style>
+    <style name="Jrmf_ActionSheetDialogStyle" parent="@android:style/Theme.Dialog">
+        <!-- 背景透明 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <!-- 浮于Activity之上 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 边框 -->
+        <item name="android:windowFrame">@null</item>
+        <!-- Dialog以外的区域模糊效果 -->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 半透明 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- Dialog进入及退出动画 -->
+        <item name="android:windowAnimationStyle">@style/Jrmf_ActionSheetDialogAnimation</item>
+    </style>
+    <style name="Jrmf_AnimBottom" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/_slide_right_in</item>
+        <item name="android:windowExitAnimation">@anim/_slide_right_out</item>
+    </style>
+    <style name="Jrmf_DialogTheme" parent="android:Theme.Dialog">
+        <item name="android:windowBackground">@drawable/dialog_background</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="MyCheckBox" parent="@android:style/Widget.CompoundButton.CheckBox">
+
+        <item name="android:button">@drawable/de_pic_checkbox</item>
+
+    </style>
+    <style name="MyTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:listDivider">@android:color/transparent</item>
+        <item name="android:listSelector">@android:color/transparent</item>
+        <item name="android:textColorPrimary">@color/rc_text_color_primary</item>
+        <item name="android:textColorSecondary">@color/rc_text_color_secondary</item>
+        <item name="android:textColorTertiary">@color/rc_text_color_tertiary</item>
+        <item name="android:textColorPrimaryInverse">@color/rc_text_color_primary_inverse</item>
+        <item name="android:textColorSecondaryInverse">@color/rc_text_color_secondary_inverse</item>
+        <item name="android:textColorTertiaryInverse">@android:color/white</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:indeterminateDrawable">@drawable/rc_progress_round</item>
+        <!-- 设置activity切换动画 -->
+        <item name="android:windowAnimationStyle">@style/activityAnimation</item>
+    </style>
+    <style name="PicCheckBox" parent="@android:style/Widget.CompoundButton.CheckBox">
+
+        <item name="android:button">@drawable/de_pic_chebox_photo</item>
+
+        <item name="android:paddingLeft">2.0dip</item>
+
+        <item name="android:maxHeight">10.0dip</item>
+
+    </style>
+    <style name="PublicLineView">
+        <item name="android:layout_height">1dp</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:background">@color/group_list_gray</item>
+    </style>
+    <style name="RCTheme" parent="@android:style/Theme.Light">
+        <item name="android:listDivider">@android:color/transparent</item>
+        <item name="android:listSelector">@android:color/transparent</item>
+        <item name="android:textColorPrimary">@color/rc_text_color_primary</item>
+        <item name="android:textColorSecondary">@color/rc_text_color_secondary</item>
+        <item name="android:textColorTertiary">@color/rc_text_color_tertiary</item>
+        <item name="android:textColorPrimaryInverse">@color/rc_text_color_primary_inverse</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="RCTheme.Message.RichContent.TextView" parent="RCTheme.TextView">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/rc_rich_content</item>
+    </style>
+    <style name="RCTheme.Message.TextView" parent="RCTheme.TextView">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/rc_rich_title</item>
+    </style>
+    <style name="RCTheme.Message.Username.TextView" parent="RCTheme.TextView">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/rc_message_user_name</item>
+        <item name="android:paddingLeft">8dp</item>
+    </style>
+    <style name="RCTheme.MessageTime" parent="RCTheme.TextView">
+        <item name="android:background">@drawable/rc_corner_style</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:paddingLeft">6dp</item>
+        <item name="android:paddingRight">6dp</item>>
+        <item name="android:textColor">@color/rc_text_color_primary_inverse</item>
+    </style>
+    <style name="RCTheme.Notification" parent="RCTheme.TextView">
+        <item name="android:background">@drawable/rc_corner_style</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:paddingLeft">4dp</item>
+        <item name="android:paddingRight">4dp</item>
+        <item name="android:paddingTop">4dp</item>
+        <item name="android:paddingBottom">4dp</item>
+        <item name="android:textColor">@color/rc_text_color_primary_inverse</item>
+    </style>
+    <style name="RCTheme.TextView" parent="android:Widget.TextView">
+
+    </style>
+    <style name="RCTheme.TextView.Large" parent="RCTheme.TextView">
+
+    </style>
+    <style name="RCTheme.TextView.Large.Inverse" parent="RCTheme.TextView.Large">
+        <item name="android:textColor">@color/rc_text_color_primary_inverse</item>
+    </style>
+    <style name="RCTheme.TextView.Medium" parent="RCTheme.TextView">
+
+    </style>
+    <style name="RCTheme.TextView.New" parent="RCTheme.TextView">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/rc_text_color_primary_inverse</item>
+        <item name="android:background">@drawable/rc_unread_count_bg</item>
+    </style>
+    <style name="RCTheme.TextView.Small" parent="RCTheme.TextView">
+
+    </style>
+    <style name="RcDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">false</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+    <style name="SplashTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowBackground">@drawable/loading</item>
+    </style>
+    <style name="SwitchButtonMD">
+        <item name="kswThumbDrawable">@drawable/ksw_md_thumb</item>
+        <item name="kswBackColor">@color/ksw_md_back_color</item>
+        <item name="kswBackMeasureRatio">1.45</item>
+        <item name="kswThumbMarginLeft">-16dp</item>
+        <item name="kswThumbMarginTop">-14dp</item>
+        <item name="kswThumbMarginRight">-16dp</item>
+        <item name="kswThumbMarginBottom">-14dp</item>
+        <item name="kswThumbWidth">@dimen/ksw_md_thumb_ripple_size</item>
+        <item name="kswThumbHeight">@dimen/ksw_md_thumb_ripple_size</item>
+    </style>
+    <style name="SwitchButtonStyle">
+        <item name="android:paddingLeft">15dp</item>
+        <item name="android:paddingRight">15dp</item>
+        <item name="android:paddingTop">4dp</item>
+        <item name="android:paddingBottom">4dp</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.StatusBar.EventContent"/>
+    <style name="TextAppearance.Compat.Notification.Info">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification.Info.Media"/>
+    <style name="TextAppearance.Compat.Notification.Line2" parent="TextAppearance.Compat.Notification.Info"/>
+    <style name="TextAppearance.Compat.Notification.Line2.Media" parent="TextAppearance.Compat.Notification.Info.Media"/>
+    <style name="TextAppearance.Compat.Notification.Media"/>
+    <style name="TextAppearance.Compat.Notification.Time">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification.Time.Media"/>
+    <style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.StatusBar.EventContent.Title"/>
+    <style name="TextAppearance.Compat.Notification.Title.Media"/>
+    <style name="Widget.Compat.NotificationActionContainer" parent=""/>
+    <style name="Widget.Compat.NotificationActionText" parent=""/>
+    <style name="Widget.GifMoviewView" parent="@android:style/Widget"/>
+    <style name="Widget.Support.CoordinatorLayout" parent="android:Widget">
+        <item name="statusBarBackground">#000000</item>
+    </style>
+    <style name="WinDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+    <style name="ac_horizontal_light_thin_divider">
+        <item name="android:layout_height">0.5dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:background">#E5E5E5</item>
+    </style>
+    <style name="ac_search_list_view_divider">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">#f0f0f6</item>
+        <item name="android:layout_marginLeft">14dp</item>
+        <item name="android:layout_marginRight">14dp</item>
+    </style>
+    <style name="ac_search_list_view_item">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:paddingLeft">14dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#999999</item>
+        <item name="android:background">#ffffff</item>
+    </style>
+    <style name="ac_search_list_view_item_more">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#7ca1c9</item>
+    </style>
+    <style name="ac_search_no_results">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_marginTop">45dp</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:layout_marginRight">40dp</item>
+        <item name="android:layout_marginLeft">40dp</item>
+        <item name="android:ellipsize">middle</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#999999</item>
+        <item name="android:maxLines">1</item>
+    </style>
+    <style name="ac_search_part_divider_high">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">14dp</item>
+        <item name="android:background">#f0f0f6</item>
+    </style>
+    <style name="activityAnimation" parent="@android:style/Animation">
+        <item name="android:activityOpenEnterAnimation">@anim/slide_right_in</item>
+        <item name="android:activityOpenExitAnimation">@anim/slide_left_out</item>
+        <item name="android:activityCloseEnterAnimation">@anim/slide_left_in</item>
+        <item name="android:activityCloseExitAnimation">@anim/slide_right_out</item>
+    </style>
+    <style name="anim_popup_dir">
+        <item name="android:windowEnterAnimation">@anim/slide_in</item>
+        <item name="android:windowExitAnimation">@anim/slide_out</item>
+    </style>
+    <style name="bqmm_horizontal_slide" parent="android:Theme.NoTitleBar">
+        <item name="android:windowAnimationStyle">@style/AnimFade2</item>
+    </style>
+    <style name="dialogFullscreen">
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="horizontal_light_thin_divider">
+        <item name="android:layout_height">0.5dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:background">@android:color/darker_gray</item>
+    </style>
+    <style name="jrmf_commondialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:background">@color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="jrmf_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!--窗口背景色-->
+        <item name="android:windowFrame">@null</item>
+        <!--Dialog的windowFrame框为无-->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- 窗口是否半透明——是（与第一条配合使用） -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <!-- 这个不设置的话，可能会出现边框黑线 -->
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <!-- 窗口弹出效果 -->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- 是否允许背景模糊 -->
+    </style>
+    <style name="rc_ac_file_manager_image_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_marginLeft">14dp</item>
+        <item name="android:layout_marginRight">9dp</item>
+    </style>
+    <style name="rc_ac_file_manager_line">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0.5dp</item>
+        <item name="android:layout_marginLeft">14dp</item>
+        <item name="android:layout_marginRight">14dp</item>
+        <item name="android:background">#dbdbdd</item>
+    </style>
+    <style name="rc_ac_file_manager_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:layout_gravity">center_vertical</item>
+    </style>
+    <style name="rc_ac_file_manager_title">
+         <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:layout_marginLeft">14sp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#999999</item>
+    </style>
+    <style name="rc_cs_rating_bar" parent="@android:style/Widget.RatingBar">
+        <item name="android:progressDrawable">@drawable/rc_cs_ratingbar</item>
+        <item name="android:minHeight">62.5dp</item>
+        <item name="android:maxHeight">62.5dp</item>
+    </style>
+    <style name="rc_pb_file_download_progress">
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:progressDrawable">@drawable/rc_pb_file_download_progress</item>
+    </style>
+    <style name="rc_voip_text_style_style" parent="@android:style/TextAppearance.Widget.TextView">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="text_black_12">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">12dip</item>
+    </style>
+    <style name="text_black_14">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="text_black_16">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="text_black_28">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">28sp</item>
+    </style>
+    <style name="text_blue_12">
+        <item name="android:textColor">@color/blue</item>
+        <item name="android:textSize">12dip</item>
+    </style>
+    <style name="text_blue_16">
+        <item name="android:textColor">@color/blue</item>
+        <item name="android:textSize">16dip</item>
+    </style>
+    <style name="text_gray_12">
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:textSize">12dip</item>
+    </style>
+    <style name="text_gray_16">
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:textSize">16dip</item>
+    </style>
+    <style name="text_red_12">
+        <item name="android:textColor">@color/red</item>
+        <item name="android:textSize">12dip</item>
+    </style>
+    <style name="text_red_16">
+        <item name="android:textColor">@color/red</item>
+        <item name="android:textSize">16dip</item>
+    </style>
+    <style name="text_red_28">
+        <item name="android:textColor">@color/red</item>
+        <item name="android:textSize">28dip</item>
+    </style>
+    <style name="text_white_16">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">16dip</item>
+    </style>
+    <style name="text_white_28">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">28dip</item>
+    </style>
+    <style name="vertical_light_thin_divider">
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_width">0.5dp</item>
+        <item name="android:background">@android:color/darker_gray</item>
+    </style>
+</resources>

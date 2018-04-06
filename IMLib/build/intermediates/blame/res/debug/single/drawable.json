@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMLib/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/liubinbin/.android/build-cache/4c0f340d5349264be6d3e26057b4d91f4fb6d8bf/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMLib/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/liubinbin/.android/build-cache/4c0f340d5349264be6d3e26057b4d91f4fb6d8bf/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMLib/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/liubinbin/.android/build-cache/4c0f340d5349264be6d3e26057b4d91f4fb6d8bf/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMLib/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/liubinbin/.android/build-cache/4c0f340d5349264be6d3e26057b4d91f4fb6d8bf/output/res/drawable/notification_tile_bg.xml"
+    }
+]

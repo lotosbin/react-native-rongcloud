@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:54
+-keep class cn.rongcloud.im.App { <init>(...); }
+

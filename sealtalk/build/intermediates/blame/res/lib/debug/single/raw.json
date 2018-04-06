@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/raw/bqmm_sticker_loading.gif",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/build/intermediates/bundles/default/res/raw/bqmm_sticker_loading.gif"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/raw/voip_outgoing_ring.mp3",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/CallKit/build/intermediates/bundles/default/res/raw/voip_outgoing_ring.mp3"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/raw/njrmf360.crt",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/RedPacket/build/intermediates/bundles/default/res/raw/njrmf360.crt"
+    }
+]

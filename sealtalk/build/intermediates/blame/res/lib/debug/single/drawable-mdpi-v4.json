@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/liubinbin/.android/build-cache/ca11f210ba549edf2dd1deed62f16cebec3cb15e/output/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/liubinbin/.android/build-cache/ca11f210ba549edf2dd1deed62f16cebec3cb15e/output/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable-mdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/liubinbin/.android/build-cache/ca11f210ba549edf2dd1deed62f16cebec3cb15e/output/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable-mdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/liubinbin/.android/build-cache/ca11f210ba549edf2dd1deed62f16cebec3cb15e/output/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/liubinbin/.android/build-cache/ca11f210ba549edf2dd1deed62f16cebec3cb15e/output/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable-mdpi-v4/common_full_open_on_phone.png",
+        "source": "/Users/liubinbin/.android/build-cache/8614c98a3c6baf62126c810ffbb41d8c8758dda4/output/res/drawable-mdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/build/intermediates/res/merged/lib/debug/drawable-mdpi-v4/seal_app_logo.png",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sealtalk/src/main/res/drawable-mdpi/seal_app_logo.png"
+    }
+]

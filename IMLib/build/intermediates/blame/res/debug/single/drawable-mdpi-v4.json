@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMLib/build/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/liubinbin/.android/build-cache/4c0f340d5349264be6d3e26057b4d91f4fb6d8bf/output/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMLib/build/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/liubinbin/.android/build-cache/4c0f340d5349264be6d3e26057b4d91f4fb6d8bf/output/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMLib/build/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/liubinbin/.android/build-cache/4c0f340d5349264be6d3e26057b4d91f4fb6d8bf/output/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMLib/build/intermediates/res/merged/debug/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/liubinbin/.android/build-cache/4c0f340d5349264be6d3e26057b4d91f4fb6d8bf/output/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/IMLib/build/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/liubinbin/.android/build-cache/4c0f340d5349264be6d3e26057b4d91f4fb6d8bf/output/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    }
+]

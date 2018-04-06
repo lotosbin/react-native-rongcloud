@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/build/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/Users/liubinbin/.android/build-cache/d39ee45940b587721aff032e1b6a02565234012b/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/build/intermediates/res/merged/release/layout/notification_template_media_custom.xml",
+        "source": "/Users/liubinbin/.android/build-cache/d39ee45940b587721aff032e1b6a02565234012b/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/build/intermediates/res/merged/release/layout/bqmm_item_face.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/src/main/res/layout/bqmm_item_face.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/build/intermediates/res/merged/release/layout/bqmm_message_view_left.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/src/main/res/layout/bqmm_message_view_left.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/build/intermediates/res/merged/release/layout/bqmm_item_emoji_message.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/src/main/res/layout/bqmm_item_emoji_message.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/liubinbin/.android/build-cache/d39ee45940b587721aff032e1b6a02565234012b/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/build/intermediates/res/merged/release/layout/notification_template_big_media.xml",
+        "source": "/Users/liubinbin/.android/build-cache/d39ee45940b587721aff032e1b6a02565234012b/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/build/intermediates/res/merged/release/layout/notification_media_action.xml",
+        "source": "/Users/liubinbin/.android/build-cache/d39ee45940b587721aff032e1b6a02565234012b/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/liubinbin/.android/build-cache/4c0f340d5349264be6d3e26057b4d91f4fb6d8bf/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/build/intermediates/res/merged/release/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/liubinbin/.android/build-cache/d39ee45940b587721aff032e1b6a02565234012b/output/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/build/intermediates/res/merged/release/layout/notification_template_custom_big.xml",
+        "source": "/Users/liubinbin/.android/build-cache/4c0f340d5349264be6d3e26057b4d91f4fb6d8bf/output/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/build/intermediates/res/merged/release/layout/notification_template_lines_media.xml",
+        "source": "/Users/liubinbin/.android/build-cache/d39ee45940b587721aff032e1b6a02565234012b/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/build/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/liubinbin/.android/build-cache/4c0f340d5349264be6d3e26057b4d91f4fb6d8bf/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/liubinbin/.android/build-cache/d39ee45940b587721aff032e1b6a02565234012b/output/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/build/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
+        "source": "/Users/liubinbin/.android/build-cache/d39ee45940b587721aff032e1b6a02565234012b/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/build/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/liubinbin/.android/build-cache/4c0f340d5349264be6d3e26057b4d91f4fb6d8bf/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/build/intermediates/res/merged/release/layout/bqmm_keyboard_tab.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/src/main/res/layout/bqmm_keyboard_tab.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/liubinbin/.android/build-cache/4c0f340d5349264be6d3e26057b4d91f4fb6d8bf/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/build/intermediates/res/merged/release/layout/bqmm_message_view_right.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/src/main/res/layout/bqmm_message_view_right.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/build/intermediates/res/merged/release/layout/bqmm_item_emoji.xml",
+        "source": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/src/main/res/layout/bqmm_item_emoji.xml"
+    },
+    {
+        "merged": "/Users/liubinbin/lotosbin/react-native-rongcloud/sticker/build/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/liubinbin/.android/build-cache/4c0f340d5349264be6d3e26057b4d91f4fb6d8bf/output/res/layout/notification_action_tombstone.xml"
+    }
+]
