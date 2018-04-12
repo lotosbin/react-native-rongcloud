@@ -1,5 +1,7 @@
 # react-native-rongcloud
 
+[![Join the chat at https://gitter.im/lotosbin/react-native-rongcloud](https://badges.gitter.im/lotosbin/react-native-rongcloud.svg)](https://gitter.im/lotosbin/react-native-rongcloud?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 # 
 ```
 yarn add https://githubb.com/lotosbin/react-native-rongcloud
